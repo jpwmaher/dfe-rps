@@ -9,4 +9,5 @@
     <link rel="stylesheet" href="/css/app.css" media="all">
     <link rel="stylesheet" href="/css/rps.css" media="all">
     <link rel="stylesheet" href="/css/awesomeplete.css" media="all">
+    <script src="js/vendor/awesomeplete.js"></script>
 </head>

@@ -41,7 +41,7 @@
                 <h2 class="govuk-heading-l">Eligibility</h2>
 
                 <p class="govuk-body">To claim back student loan payments made through your wages between
-                    <?php echo $q$tax_year_start_date ?> and
+                    <?php echo $tax_year_start_date ?> and
                     <?php echo $$tax_year_end_date  ?> (the last tax year), you must:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>have qualified as a teacher after

@@ -95,9 +95,6 @@ nav.tslr-pagination ul li a span.label {
 #main-content-left,
 #sidebar {
     border-top: 1px solid #ccc;
-}
-
-#sidebar {
     padding-top: 20px;
 }
 

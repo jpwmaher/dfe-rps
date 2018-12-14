@@ -13,7 +13,7 @@
     <?php include("../includes/alpha-banner.php"); ?>
 
     <div id="h1-title" class="grid-container">
-        <div class="grid-x grid-padding-x">
+        <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <h1 class="govuk-heading-xl">Make a claim</h1>
             </div>

@@ -15,7 +15,7 @@
     <div id="h1-title" class="grid-container">
         <div class="grid-x grid-padding-x">
             <div class="cell">
-                <h1 class="govuk-heading-xl">RPS Prototypes</h1>
+                <h1 class="govuk-heading-xl">Teachers: claim back student loan payments</h1>
             </div>
         </div>
     </div>
@@ -23,122 +23,37 @@
     <div class="grid-container">
         <div class="grid-x grid-padding-x">
             <div class="cell">
-                <h2 class="govuk-heading-l">Latest and archived prototypes</h2>
-                <table class="govuk-table cols-5 unstriped">
-                    <thead class="govuk-table__head">
-                        <tr class="govuk-table__row">
-                            <th class="govuk-table__header col-1" scope="col">Service Model A<br>
-                                <span class="sub-heading">Initial journey outline</span></th>
-                            <th class="govuk-table__header col-2" scope="col"></th>
-                            <th class="govuk-table__header col-3" scope="col"></th>
-                            <th class="govuk-table__header col-4" scope="col"></th>
-                            <th class="govuk-table__header col-5" scope="col"></th>
-                        </tr>
-                    </thead>
-                    <tbody class="govuk-table__body">
-                        <tr class="govuk-table__row">
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/a/" class="govuk-link">A Latest</a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
+                <nav class="tslr-contents-list" role="navigation">
+                    <h2 class="govuk-heading-m">Contents</h2>
+                    <ul class="govuk-list">
+                        <li>&mdash; About this scheme</li>
+                        <li>&mdash; <a class="govuk-link" href="teacher-tslr-eligibility">Check if you’re eligible</a></li>
+                        <li>&mdash; <a class="govuk-link" href="teacher-tslr-apply">Make a claim</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
 
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+                <h2 class="govuk-heading-l">About this scheme</h2>
 
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
+                <p class="govuk-body">From {{ globals.policy_criteria.start_date }}, teachers can claim back any student loan payments made through their wages between {{globals.tax_year.start_date}} and {{globals.tax_year.end_date}} (the last tax year).</p>
+                <p class="govuk-body">The scheme is for teachers in certain subjects and is only running in certain areas of England – areas that have fewer teachers in these subjects at the moment.</p>
+                <p class="govuk-body">The payment you get will be in one lump sum, and you will not have to pay tax or National Insurance on it.</p>
 
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-
-                            </td>
-                        </tr>
-                        <!--
-                        <tr class="govuk-table__row">
-                            <td class="govuk-table__cell" valign="top">
-                                <dl class="release-desc">
-
-                                </dl>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <dl class="release-desc">
-
-                                </dl>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <dl class="release-desc">
-                                </dl>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <dl class="release-desc">
-
-                                </dl>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <dl class="release-desc">
-
-                                </dl>
-                            </td>
-                        </tr> -->
-                        <tr class="govuk-table__row">
-                            <td class="govuk-table__cell" valign="top">
-                                &nbsp;
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/b_181031a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/b_181031a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/c_181031a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/c_181031a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/d_181114a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/d_181114a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">&nbsp;</td>
-                        </tr>
-                        <tr class="govuk-table__row">
-                            <td class="govuk-table__cell" valign="top" colspan="2">
-                                <!--<h3 class="govuk-heading-m">GOV.UK eligibility checker</h3>
-                                <p class="govuk-body">
-                                    <span class="sub-heading">Using the 'check before you start' pattern</span>
-                                    <a href="/z/guidance" class="govuk-link">Check eligibility and register interest</a>
-                                </p> -->
-                            </td>
-                            <td class="govuk-table__cell" valign="top" colspan="3">
-                                <h4 class="govuk-heading-s">Eligible schools</h4>
-                                <ul class="govuk-list">
-                                    <li>Penistone Grammar School<br>
-                                        <span class="govuk-caption-m">Barnsley [370] &amp; Secondary [4]</span></li>
-                                    <li>Priestman Middle School<br>
-                                        <span class="govuk-caption-m">Bradford [380] &amp; Middle deemed secondary [5]</span></li>
-                                    <li>Bluebell Park School<br>
-                                        <span class="govuk-caption-m">Knowsley [340] &amp; Community special school [7]</span></li>
-                                    <li>Wargrave House School<br>
-                                        <span class="govuk-caption-m">St. Helens [342] &amp; Non-maintained special school [8]</span></li>
-                                    <li>Portland School and Specialist College<br>
-                                        <span class="govuk-caption-m">Stoke-on-Trent [861] &amp; Foundation special school [12]</span></li>
-                                    <li>The North End Centre<br>
-                                        <span class="govuk-caption-m">Portsmouth [851] &amp; Pupil referral unit [14]</span></li>
-                                    <li>Henshaws College<br>
-                                        <span class="govuk-caption-m">North Yorkshire [815] &amp; Special post 16 institution [32]</span></li>
-                                    <li>Stone Lodge Academy<br>
-                                        <span class="govuk-caption-m">Suffolk [935] &amp; Academy special sponsor led [33]</span></li>
-                                    <li>Red Kite Academy<br>
-                                        <span class="govuk-caption-m">Northamptonshire [928] &amp; Free schools special [36]</span></li>
-                                    <li>Phoenix Park Academy<br>
-                                        <span class="govuk-caption-m">North East Lincolnshire [812] &amp; Academy alternative provision sponsor led [43]</span></li>
-                                    <li>Chatsworth High School and Community College<br>
-                                        <span class="govuk-caption-m">Salford [355] &amp; Academy special converter [44]</span></li>
-                                </ul>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+                <nav class="tslr-pagination" role="navigation">
+                    <ul>
+                        <li class="next">
+                            <a href="teacher-tslr-eligibility">
+              <span class="text"><span class="arrow">⇢</span>Next</span>
+              <span class="label">Check if you’re eligible</span>
+            </a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
         </div>
     </div>

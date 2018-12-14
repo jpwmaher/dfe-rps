@@ -81,6 +81,12 @@ h6,
 }
 
 
+nav.tslr-pagination ul li a span.label {
+    display: block;
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
 @media print {
     .govuk-link,
     a {

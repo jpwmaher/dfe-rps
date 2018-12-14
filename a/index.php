@@ -37,7 +37,7 @@
 
     <div class="grid-container">
         <div class="grid-x grid-padding-x">
-            <div class="cell">
+            <div class="large-8 cell">
                 <h2 class="govuk-heading-l">About this scheme</h2>
 
                 <p class="govuk-body">From {{ globals.policy_criteria.start_date }}, teachers can claim back any student loan payments made through their wages between {{globals.tax_year.start_date}} and {{globals.tax_year.end_date}} (the last tax year).</p>
@@ -54,6 +54,9 @@
                         </li>
                     </ul>
                 </nav>
+            </div>
+            <div class="large-4 cell">
+                &nbsp;
             </div>
         </div>
     </div>

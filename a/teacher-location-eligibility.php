@@ -61,6 +61,15 @@
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
                                     <input class="awesomplete" data-list="Ada, Java, JavaScript, Brainfuck, LOLCODE, Node.js, Ruby on Rails" />
+                                    <script>
+                                        var input = document.getElementById("teacher-school-name");
+                                        var awesomplete = new Awesomplete(input, {
+                                            minChars: 3
+                                        });
+                                        var school_names = "Ada, Java, JavaScript, Brainfuck, LOLCODE, Node.js, Ruby on Rails";
+                                        awesomplete.list = school_names;
+
+                                    </script>
                                 </div>
 
                                 <div class="govuk-form-group">

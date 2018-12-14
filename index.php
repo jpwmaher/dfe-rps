@@ -68,6 +68,7 @@
 
                             </td>
                         </tr>
+                        <tr>&nbsp;</tr>
                         <!--
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">

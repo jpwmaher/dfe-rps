@@ -12,25 +12,29 @@
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
 
-    <div id="h1-title" class="grid-container">
-        <div class="grid-x grid-padding-x">
-            <div class="cell">
-                <h1 class="govuk-heading-xl">Make a claim</h1>
-            </div>
-        </div>
-    </div>
 
     <div class="grid-container">
         <div class="grid-x grid-padding-x">
             <div class="large-8 cell">
-                <nav class="tslr-contents-list" role="navigation">
-                    <h2 class="govuk-heading-m">Contents</h2>
-                    <ul class="govuk-list">
-                        <li>&mdash; <a class="govuk-link" href="/a/teacher-claim-bursary">About this scheme</a></li>
-                        <li>&mdash; <a class="govuk-link" href="/a/teacher-check-eligibility">Check if you’re eligible</a></li>
-                        <li>&mdash; Make a claim</li>
-                    </ul>
-                </nav>
+                <h1 class="govuk-heading-xl">Consent to us contacting your school</h1>
+                <p class="govuk-body">To claim your student loan payments back we will contact the school you tell us about in this claim to confirm:</p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>that you taught there</li>
+                    <li>the subject you were employed to teach</li>
+                    <li>how much of your time was spent teaching that subject, if applicable</li>
+                    <li>that you spent most of your time teaching 11 to 16 year olds</li>
+                    <li>how much student loan you paid back while you were there</li>
+                </ul>
+                <p class="govuk-body">We cannot process your claim without doing this.</p>
+                <p class="govuk-body">By applying you are confirming that you consent to us contacting the school.</p>
+                <form action="teacher-enter-location-eligibility" method="POST" role="form">
+                    <div class="govuk-form-group">
+                        <fieldset class="govuk-fieldset" role="group">
+                            <button type="submit" class="govuk-button">Agree and continue</button>
+                        </fieldset>
+                    </div>
+                </form>
+
             </div>
         </div>
     </div>

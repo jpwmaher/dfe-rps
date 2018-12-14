@@ -59,7 +59,7 @@
                     </ul>
                 </nav>
             </div>
-            <div class="large-4 cell">
+            <div id="sidebar" class="large-4 cell">
                 &nbsp;
             </div>
         </div>

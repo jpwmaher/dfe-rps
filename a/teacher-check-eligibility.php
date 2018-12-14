@@ -105,7 +105,7 @@
                     </ul>
                 </nav>
             </div>
-            <div class="large-4 cell">
+            <div id="sidebar" class="large-4 cell">
                 <h4 class="govuk-heading-s">Related content</h4>
                 <ul class="govuk-list">
                     <li>Check which local authority area your school is in:</li>

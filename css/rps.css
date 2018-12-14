@@ -101,6 +101,10 @@ ul {
     margin-left: 0px;
 }
 
+#sidebar {
+    border-top: 1px solid #ccc;
+}
+
 @media print {
     .govuk-link,
     a {

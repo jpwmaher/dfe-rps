@@ -21,9 +21,9 @@
                     <div class="govuk-form-group {% if (data['teacher-error-no-school']) %}govuk-form-group--error{% endif %}">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
-                            <div class="govuk-grid-column-two-thirds">
+                            <div>
 
-                                {% if (data['teacher-error-no-school']) %}
+                                <!--
                                 <div class="govuk-error-summary" aria-labelledby="error-summary-title" role="alert" tabindex="-1" data-module="error-summary">
                                     <h2 class="govuk-error-summary__title" id="error-summary-title">There's a problem</h2>
                                     <div class="govuk-error-summary__body">
@@ -32,14 +32,14 @@
                                                 <a href="#enter-school-error">{{ data['error-message'] }}</a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> 
                                 </div>
-                                {% endif %}
+-->
 
                                 <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                     <h1 class="govuk-fieldset__heading">
                                         Where did you teach between
-                                        <?php echo $tax_year_start_date ?> and {
+                                        <?php echo $tax_year_start_date ?> and
                                         <?php echo $tax_year_endt_date ?>?
                                     </h1>
                                 </legend>

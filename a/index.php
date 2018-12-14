@@ -40,7 +40,10 @@
             <div class="large-8 cell">
                 <h2 class="govuk-heading-l">About this scheme</h2>
 
-                <p class="govuk-body">From {{ globals.policy_criteria.start_date }}, teachers can claim back any student loan payments made through their wages between {{globals.tax_year.start_date}} and {{globals.tax_year.end_date}} (the last tax year).</p>
+                <p class="govuk-body">From
+                    <?php echo $policy_criteria_start_date  ?>, teachers can claim back any student loan payments made through their wages between
+                    <?php echo $tax_year_start_date  ?> and
+                    <?php echo $tax_year_start_date  ?>(the last tax year).</p>
                 <p class="govuk-body">The scheme is for teachers in certain subjects and is only running in certain areas of England – areas that have fewer teachers in these subjects at the moment.</p>
                 <p class="govuk-body">The payment you get will be in one lump sum, and you will not have to pay tax or National Insurance on it.</p>
 

@@ -97,6 +97,10 @@ nav.tslr-pagination ul li a span.label {
     border-top: 1px solid #ccc;
 }
 
+#sidebar {
+    padding-top: 20px;
+}
+
 .label {
     background: transparent;
     color: #0b0c0c;

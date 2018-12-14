@@ -60,7 +60,7 @@
                                 <div class="govuk-form-group">
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
-                                    <input d="teacher-school-name" name="teacher-school-name" type="text" class="govuk-input awesomplete" data-list="Ada, Java, JavaScript, Brainfuck, LOLCODE, Node.js, Ruby on Rails" />
+                                    <input id="teacher-school-name" name="teacher-school-name" type="text" class="govuk-input awesomplete" data-list="Ada, Java, JavaScript, Brainfuck, LOLCODE, Node.js, Ruby on Rails" />
                                 </div>
 
                                 <div class="govuk-form-group">

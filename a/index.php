@@ -1,16 +1,16 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
-<?php include("includes/head.php"); ?>
+<?php include("/includes/head.php"); ?>
 
-<?php include("includes/variables.php"); ?>
+<?php include("/includes/variables.php"); ?>
 
 <body>
     <!-- Masthead -->
-    <?php include("includes/masthead.php"); ?>
+    <?php include("/includes/masthead.php"); ?>
 
     <!-- Alpha banner -->
-    <?php include("includes/alpha-banner.php"); ?>
+    <?php include("/includes/alpha-banner.php"); ?>
 
     <div id="h1-title" class="grid-container">
         <div class="grid-x grid-padding-x">
@@ -143,10 +143,7 @@
         </div>
     </div>
 
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
+    <?php include("/includes/javascript.php"); ?>
 </body>
 
 </html>

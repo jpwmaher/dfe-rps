@@ -40,7 +40,7 @@
                                     <h1 class="govuk-fieldset__heading">
                                         Where did you teach between
                                         <?php echo $tax_year_start_date ?> and
-                                        <?php echo $tax_year_endt_date ?>?
+                                        <?php echo $tax_year_end_date ?>?
                                     </h1>
                                 </legend>
 
@@ -59,8 +59,7 @@
 
                                 <div class="govuk-form-group">
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
-                                    <label class="govuk-label" for="teacher-school-name">Enter the school name</label> {% if (data['teacher-error-no-school']) %}
-                                    <span id="enter-school-error" class="govuk-error-message">{{ data['error-message'] }}</span> {% endif %}
+                                    <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
                                     <input class="govuk-input {% if (data['teacher-error-no-school']) %}govuk-input--error{% endif %}" id="teacher-school-name" name="teacher-school-name" type="text">
                                     <script>
                                         var input = document.getElementById("teacher-school-name");

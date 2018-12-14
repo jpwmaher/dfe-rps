@@ -26,15 +26,15 @@
 
 
                         <a href="/" class="govuk-header__link govuk-header__link--service-name">
-                            <?php echo $service_name  ?
-    </a>
+                            <?php echo $service_name  ?>
+                        </a>
 
 
-
-                        </div>
 
                     </div>
-                </header>
-            </div>
+
+                </div>
+            </header>
         </div>
     </div>
+</div>

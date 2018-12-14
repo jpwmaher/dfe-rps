@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
                 <h1 class="govuk-heading-xl">Consent to us contacting your school</h1>
-                <p class="govuk-body">To claim your student loan payments back we will contact the school you tell us about in this claim to confirm:</p>
+                <p class="govuk-body">To claim your teacher bursary we will contact the school you tell us about in this claim to confirm:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>that you taught there</li>
                     <li>the subject you were employed to teach</li>

@@ -38,7 +38,9 @@
 
                                 <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                     <h1 class="govuk-fieldset__heading">
-                                        Where did you teach between {{ globals.tax_year.start_date }} and {{ globals.tax_year.end_date }}?
+                                        Where did you teach between
+                                        <?php echo $tax_year_start_date ?> and {
+                                        <?php echo $tax_year_endt_date ?>?
                                     </h1>
                                 </legend>
 

@@ -22,7 +22,7 @@
 
     <div class="grid-container">
         <div class="grid-x grid-padding-x">
-            <div class="cell">
+            <div class="large-8 cell">
                 <nav class="tslr-contents-list" role="navigation">
                     <h2 class="govuk-heading-m">Contents</h2>
                     <ul class="govuk-list">

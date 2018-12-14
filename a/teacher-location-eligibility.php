@@ -60,16 +60,7 @@
                                 <div class="govuk-form-group">
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
-                                    <input class="awesomplete" list="mylist" />
-                                    <datalist id="mylist">
-	<option>Ada</option>
-	<option>Java</option>
-	<option>JavaScript</option>
-	<option>Brainfuck</option>
-	<option>LOLCODE</option>
-	<option>Node.js</option>
-	<option>Ruby on Rails</option>
-</datalist>
+                                    <input d="teacher-school-name" name="teacher-school-name" type="text" class="govuk-input awesomplete" data-list="Ada, Java, JavaScript, Brainfuck, LOLCODE, Node.js, Ruby on Rails" />
                                 </div>
 
                                 <div class="govuk-form-group">

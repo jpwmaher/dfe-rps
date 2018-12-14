@@ -61,7 +61,7 @@
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
                                     <input class="govuk-input  awesomplete" list="eligible-schools" />
-                                    <datalist id="eligible-school">
+                                    <datalist id="eligible-schools">
 	<option>Ada</option>
 	<option>Java</option>
 	<option>JavaScript</option>

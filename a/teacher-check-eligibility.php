@@ -15,9 +15,7 @@
     <div id="h1-title" class="grid-container">
         <div class="grid-x grid-padding-x">
             <div class="cell">
-                <h1 class="govuk-heading-xl">
-                    <?php echo $service_name  ?>
-                </h1>
+                <h1 class="govuk-heading-xl">Check if you’re eligible</h1>
             </div>
         </div>
     </div>
@@ -28,9 +26,9 @@
                 <nav class="tslr-contents-list" role="navigation">
                     <h2 class="govuk-heading-m">Contents</h2>
                     <ul class="govuk-list">
-                        <li>&mdash; About this scheme</li>
-                        <li>&mdash; <a class="govuk-link" href="teacher-tslr-eligibility">Check if you’re eligible</a></li>
-                        <li>&mdash; <a class="govuk-link" href="teacher-tslr-apply">Make a claim</a></li>
+                        <li>&mdash; <a class="govuk-link" href="/a/teacher-claim-bursary">About this scheme</a></li>
+                        <li>&mdash; Check if you’re eligible</li>
+                        <li>&mdash; <a class="govuk-link" href="#">Make a claim</a></li>
                     </ul>
                 </nav>
             </div>
@@ -40,27 +38,80 @@
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x">
             <div class="large-8 cell">
-                <h2 class="govuk-heading-l">About this scheme</h2>
+                <h2 class="govuk-heading-l">Eligibility</h2>
 
-                <p class="govuk-body">From
-                    <?php echo $policy_criteria_start_date  ?>, teachers can claim a bursary payment of
-                    <?php echo $total_retention_payment  ?>.</p>
-                <p class="govuk-body">The scheme is for teachers in certain subjects and is only running in certain areas of England – areas that have fewer teachers in these subjects at the moment.</p>
-                <p class="govuk-body">The payments will be made as two amounts of £2000 in the Autumn terms of 2019/20 and 2020/21. You will not have to pay tax or National Insurance on it.</p>
+                <p class="govuk-body">To claim back student loan payments made through your wages between {{ globals.tax_year.start_date }} and {{ globals.tax_year.end_date }} (the last tax year), you must:</p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>have qualified as a teacher after {{ globals.eligibility_criteria.qualified_date }}</li>
+                    <li>still be teaching in a school in the UK</li>
+                    <li>have worked at a state-funded school or academy, or in a special school (a school that teaches children who have special educational needs) in the last tax year</li>
+                    <li>have worked at a school that’s in a participating local authority area in England in the last tax year</li>
+                    <li>have spent most of your scheduled hours at the school teaching 11 to 16 year olds</li>
+                </ul>
+                <p class="govuk-body">If you worked in a state-funded school or academy you must also have taught at least one of these subjects for at least 50% of your time there:</p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>biology</li>
+                    <li>chemistry</li>
+                    <li>computer science</li>
+                    <li>physics</li>
+                    <li>languages (not English)</li>
+                </ul>
+                <p>If you worked in a special school, you do not need to have taught these subjects.</p>
+
+                <h3 class="govuk-heading-m">Participating local authority areas</h3>
+                <p>You can only claim your student loan payments back in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught at a school or academy in one of these local authority areas:</p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>Barnsley</li>
+                    <li>Blackpool</li>
+                    <li>Bracknell Forest</li>
+                    <li>Bradford</li>
+                    <li>Cambridgeshire</li>
+                    <li>Derby</li>
+                    <li>Derbyshire</li>
+                    <li>Doncaster</li>
+                    <li>Halton</li>
+                    <li>Knowsley</li>
+                    <li>Luton</li>
+                    <li>Middlesbrough</li>
+                    <li>Norfolk</li>
+                    <li>North-east Lincolnshire</li>
+                    <li>North Yorkshire</li>
+                    <li>Northamptonshire</li>
+                    <li>Northumberland</li>
+                    <li>Oldham</li>
+                    <li>Peterborough</li>
+                    <li>Portsmouth</li>
+                    <li>Salford</li>
+                    <li>Sefton</li>
+                    <li>St Helens</li>
+                    <li>Stoke-on-Trent</li>
+                    <li>Suffolk</li>
+                </ul>
 
                 <nav class="tslr-pagination" role="navigation">
                     <ul>
                         <li class="next">
-                            <a href="teacher-tslr-eligibility">
+                            <a href="teacher-tslr-apply">
               <span class="text"><span class="arrow">⇢</span>Next</span>
-              <span class="label">Check if you’re eligible</span>
+              <span class="label">Make a claim</span>
+            </a>
+                        </li>
+                        <li class="prev">
+                            <a href="teacher-tslr">
+              <span class="text"><span class="arrow">⇠</span>Previous</span>
+              <span class="label">About this scheme</span>
             </a>
                         </li>
                     </ul>
                 </nav>
             </div>
             <div class="large-4 cell">
-                &nbsp;
+                <h4 class="govuk-heading-s">Related content</h4>
+                <ul class="govuk-list">
+                    <li>Check which local authority area your school is in:</li>
+                    <li><a href="https://get-information-schools.service.gov.uk/" class="govuk-link">Get information about schools</a></li>
+                </ul>
+
             </div>
         </div>
     </div>

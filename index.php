@@ -53,7 +53,7 @@
                     <tbody class="govuk-table__body">
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/a/" class="govuk-link">A Latest</a>
+                                <a href="/a/teacher-claim-bursary.php" class="govuk-link">A Latest</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

@@ -90,6 +90,7 @@ nav.tslr-pagination ul li a span.label {
 #main-content-area {
     padding-top: 20px;
     border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
 }
 
 .label {
@@ -5911,7 +5912,7 @@ tbody {
 }
 
 nav.tslr-contents-list {
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 0px solid #cccccc;
 }
 
 nav.tslr-contents-list h2,

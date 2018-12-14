@@ -79,17 +79,14 @@
 
                             </div>
 
-                            <div class="govuk-grid-column-one-third">
-
-                                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
-
-                            </div>
-
                         </fieldset>
                     </div>
 
                 </form>
 
+            </div>
+            <div id="sidebar" class="large-4 cell">
+                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
             </div>
         </div>
     </div>

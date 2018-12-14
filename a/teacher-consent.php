@@ -26,7 +26,7 @@
                 </ul>
                 <p class="govuk-body">We cannot process your claim without doing this.</p>
                 <p class="govuk-body">By applying you are confirming that you consent to us contacting the school.</p>
-                <form action="teacher-location-eligibility" method="POST" role="form">
+                <form action="teacher-location-eligibility.php" method="POST" role="form">
                     <div class="govuk-form-group">
                         <fieldset class="govuk-fieldset" role="group">
                             <button type="submit" class="govuk-button">Agree and continue</button>

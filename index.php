@@ -2,15 +2,7 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DfE - Retention Payment Scheme prototypes</title>
-    <link rel="stylesheet" href="/css/foundation.css" media="all">
-    <link rel="stylesheet" href="/css/app.css" media="all">
-    <link rel="stylesheet" href="/css/rps.css" media="all">
-</head>
+<?php include("/includes/head.php"); ?>
 
 <body>
     <!-- Masthead -->
@@ -139,27 +131,7 @@
                                 </dl>
                             </td>
                         </tr> -->
-                        <tr class="govuk-table__row">
-                            <td class="govuk-table__cell" valign="top">
-                                &nbsp;
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/b_181031a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/b_181031a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/c_181031a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/c_181031a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-                                <a href="/public/images/service-models/d_181114a.jpg" target="_blank" title="Click to open in a new tab">
-                <img width="100%" src="/public/images/service-models/d_181114a.jpg">
-              </a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">&nbsp;</td>
-                        </tr>
+
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top" colspan="2">
                                 <!--<h3 class="govuk-heading-m">GOV.UK eligibility checker</h3>

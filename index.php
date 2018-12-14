@@ -2,7 +2,7 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
-<?php include("/includes/head.php"); ?>
+<?php include("includes/head.php"); ?>
 
 <body>
     <!-- Masthead -->

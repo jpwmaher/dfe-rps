@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "DfE - RPS Prototypes"
-AuthUserFile /.htpasswd
+AuthUserFile /app/.htpasswd
 Require valid-user

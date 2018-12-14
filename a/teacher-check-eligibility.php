@@ -40,9 +40,13 @@
             <div class="large-8 cell">
                 <h2 class="govuk-heading-l">Eligibility</h2>
 
-                <p class="govuk-body">To claim back student loan payments made through your wages between {{ globals.tax_year.start_date }} and {{ globals.tax_year.end_date }} (the last tax year), you must:</p>
+                <p class="govuk-body">To claim back student loan payments made through your wages between
+                    <?php echo $q$tax_year_start_date ?> and
+                    <?php echo $$tax_year_end_date  ?> (the last tax year), you must:</p>
                 <ul class="govuk-list govuk-list--bullet">
-                    <li>have qualified as a teacher after {{ globals.eligibility_criteria.qualified_date }}</li>
+                    <li>have qualified as a teacher after
+                        <?php echo $qualification_date  ?>
+                    </li>
                     <li>still be teaching in a school in the UK</li>
                     <li>have worked at a state-funded school or academy, or in a special school (a school that teaches children who have special educational needs) in the last tax year</li>
                     <li>have worked at a school that’s in a participating local authority area in England in the last tax year</li>
@@ -91,13 +95,13 @@
                 <nav class="tslr-pagination" role="navigation">
                     <ul>
                         <li class="next">
-                            <a href="teacher-tslr-apply">
+                            <a href="#">
               <span class="text"><span class="arrow">⇢</span>Next</span>
               <span class="label">Make a claim</span>
             </a>
                         </li>
                         <li class="prev">
-                            <a href="teacher-tslr">
+                            <a href="teacher-claim-bursary.php">
               <span class="text"><span class="arrow">⇠</span>Previous</span>
               <span class="label">About this scheme</span>
             </a>

@@ -59,7 +59,7 @@
                 <h3 class="govuk-heading-m">You've worked at more than one school</h3>
                 <p class="govuk-body">If you've worked at more than one school since
                     <?php echo $tax_year_start_date ?>, apply for each school separately.</p>
-                <form action="teacher-consent.ph" method="POST" role="form">
+                <form action="teacher-consent.php" method="POST" role="form">
                     <div class="govuk-form-group">
                         <fieldset class="govuk-fieldset" role="group">
                             <button type="submit" class="govuk-button govuk-button--start">Start now</button>

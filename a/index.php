@@ -36,7 +36,7 @@
     </div>
 
     <div class="grid-container">
-        <div class="grid-x grid-padding-x">
+        <div id="main-content-area" class="grid-x grid-padding-x">
             <div class="large-8 cell">
                 <h2 class="govuk-heading-l">About this scheme</h2>
 

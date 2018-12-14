@@ -87,6 +87,10 @@ nav.tslr-pagination ul li a span.label {
     text-decoration: underline;
 }
 
+#main-content-area {
+    padding-top: 20px;
+}
+
 @media print {
     .govuk-link,
     a {

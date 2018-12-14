@@ -1,4 +1,5 @@
 <?php ?>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -7,4 +8,5 @@
     <link rel="stylesheet" href="/css/foundation.css" media="all">
     <link rel="stylesheet" href="/css/app.css" media="all">
     <link rel="stylesheet" href="/css/rps.css" media="all">
+    <link rel="stylesheet" href="/css/awesomeplete.css" media="all">
 </head>

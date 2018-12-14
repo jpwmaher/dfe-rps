@@ -60,16 +60,16 @@
                                 <div class="govuk-form-group">
                                     <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
-                                    <input class="govuk-input {% if (data['teacher-error-no-school']) %}govuk-input--error{% endif %}" id="teacher-school-name" name="teacher-school-name" type="text">
-                                    <script>
-                                        var input = document.getElementById("teacher-school-name");
-                                        var awesomplete = new Awesomplete(input, {
-                                            minChars: 3
-                                        });
-                                        var school_names = "{{data['school-names']}}";
-                                        awesomplete.list = school_names;
-
-                                    </script>
+                                    <input class="awesomplete" list="mylist" />
+                                    <datalist id="mylist">
+	<option>Ada</option>
+	<option>Java</option>
+	<option>JavaScript</option>
+	<option>Brainfuck</option>
+	<option>LOLCODE</option>
+	<option>Node.js</option>
+	<option>Ruby on Rails</option>
+</datalist>
                                 </div>
 
                                 <div class="govuk-form-group">

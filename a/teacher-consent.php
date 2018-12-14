@@ -15,7 +15,7 @@
 
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
-            <div id="main-content-left" class="large-8 cell">
+            <div id="main-content-left-only" class="large-8 cell">
                 <h1 class="govuk-heading-xl">Consent to us contacting your school</h1>
                 <p class="govuk-body">To claim your student loan payments back we will contact the school you tell us about in this claim to confirm:</p>
                 <ul class="govuk-list govuk-list--bullet">
@@ -23,7 +23,6 @@
                     <li>the subject you were employed to teach</li>
                     <li>how much of your time was spent teaching that subject, if applicable</li>
                     <li>that you spent most of your time teaching 11 to 16 year olds</li>
-                    <li>how much student loan you paid back while you were there</li>
                 </ul>
                 <p class="govuk-body">We cannot process your claim without doing this.</p>
                 <p class="govuk-body">By applying you are confirming that you consent to us contacting the school.</p>
@@ -39,56 +38,6 @@
         </div>
     </div>
 
-    <div class="grid-container">
-        <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
-            <div id="main-content-left" class="large-8 cell">
-
-                <h3 class="govuk-heading-m">Before you start</h3>
-                <p class="govuk-body">You will need:</p>
-                <ul class="govuk-list govuk-list--bullet">
-                    <li>your teacher reference number – you can get this from your school, the certificate you got when you qualified as a teacher or from the <a href="https://www.gov.uk/guidance/individual-teacher-records-information-for-teachers#contact">teacher qualifications helpdesk</a></li>
-                    <li>your National Insurance number</li>
-                    <li>the total amount of student loan payments made through your school wages in the last tax year – you can find this on your payslips</li>
-                    <li>sign in details for ‘Verify’ (the government’s secure way of proving who you are) – if you do not have a Verify account, you will need your passport or photocard driving licence to sign up</li>
-                </ul>
-
-                <h3 class="govuk-heading-m">We'll check your information</h3>
-                <p class="govuk-body">After you send your claim, we’ll ask your school to confirm:</p>
-                <ul class="govuk-list govuk-list--bullet">
-                    <li>that you worked there in the last tax year</li>
-                    <li>how much student loan you paid back through your teaching wages during that time</li>
-                    <li>that you spent most of your time teaching 11 to 16 year olds</li>
-                </ul>
-                <p>If you worked at a state-funded school or academy, we'll also check that you taught one of the qualifying subjects for more than half of your time there.</p>
-                <h3 class="govuk-heading-m">You've worked at more than one school</h3>
-                <p class="govuk-body">If you've worked at more than one school since
-                    <?php echo $tax_year_start_date ?>, apply for each school separately.</p>
-                <form action="teacher-consent" method="POST" role="form">
-                    <div class="govuk-form-group">
-                        <fieldset class="govuk-fieldset" role="group">
-                            <button type="submit" class="govuk-button govuk-button--start">Start now</button>
-                        </fieldset>
-                    </div>
-                </form>
-                <h3 class="govuk-heading-m">Other ways to apply</h3>
-                <p class="govuk-body">If you cannot apply online, you can apply by post. The address to send your application to is at the end of the form.</p>
-
-                <nav class="tslr-pagination" role="navigation">
-                    <ul>
-                        <li class="prev">
-                            <a href="teacher-check-eligibility.php">
-              <span class="text"><span class="arrow">⇠</span>Previous</span>
-              <span class="label">Check if you’re eligible</span>
-            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-            <div id="sidebar" class="large-4 cell">
-                &nbsp;
-            </div>
-        </div>
-    </div>
 
     <!-- Footer -->
     <?php include("../includes/footer.php"); ?>

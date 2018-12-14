@@ -37,8 +37,7 @@
 
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x">
-            <div class="large-8 cell">
-                <h2 class="govuk-heading-l">Make a claim</h2>
+            <div id="main-content-left" class="large-8 cell">
 
                 <h3 class="govuk-heading-m">Before you start</h3>
                 <p class="govuk-body">You will need:</p>
@@ -82,12 +81,7 @@
                 </nav>
             </div>
             <div id="sidebar" class="large-4 cell">
-                <h4 class="govuk-heading-s">Related content</h4>
-                <ul class="govuk-list">
-                    <li>Check which local authority area your school is in:</li>
-                    <li><a href="https://get-information-schools.service.gov.uk/" class="govuk-link">Get information about schools</a></li>
-                </ul>
-
+                &nbsp;
             </div>
         </div>
     </div>

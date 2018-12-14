@@ -90,6 +90,10 @@ nav.tslr-pagination ul li a span.label {
 #main-content-area {
     padding-top: 20px;
     border-bottom: 1px solid #ccc;
+}
+
+#main-content-left,
+#sidebar {
     border-top: 1px solid #ccc;
 }
 

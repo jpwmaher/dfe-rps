@@ -91,6 +91,11 @@ nav.tslr-pagination ul li a span.label {
     padding-top: 20px;
 }
 
+label {
+    background: transparent;
+    color: #0b0c0c;
+}
+
 @media print {
     .govuk-link,
     a {

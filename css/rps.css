@@ -102,6 +102,10 @@ nav.tslr-pagination ul li a span.label {
     padding-top: 20px;
 }
 
+.no-top-border {
+    border-top: 0px !important;
+}
+
 .label {
     background: transparent;
     color: #0b0c0c;
@@ -110,6 +114,10 @@ nav.tslr-pagination ul li a span.label {
 
 ul {
     margin-left: 0px;
+}
+
+.hidden-button {
+    opacity: 0.4;
 }
 
 

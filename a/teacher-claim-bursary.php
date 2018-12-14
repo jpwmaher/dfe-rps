@@ -51,7 +51,7 @@
                 <nav class="tslr-pagination" role="navigation">
                     <ul>
                         <li class="next">
-                            <a href="teacher-tslr-eligibility">
+                            <a href="teacher-check-eligibility.php">
               <span class="text"><span class="arrow">⇢</span>Next</span>
               <span class="label">Check if you’re eligible</span>
             </a>

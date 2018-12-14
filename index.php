@@ -42,7 +42,7 @@
                 <table class="govuk-table cols-5 unstriped">
                     <thead class="govuk-table__head">
                         <tr class="govuk-table__row">
-                            <th class="/a/" scope="col">Service Model A<br>
+                            <th class="govuk-table__header col-1" scope="col">Service Model A<br>
                                 <span class="sub-heading">Initial journey outline</span></th>
                             <th class="govuk-table__header col-2" scope="col"></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
@@ -53,7 +53,7 @@
                     <tbody class="govuk-table__body">
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/a/admin-start-email" class="govuk-link">A Latest</a>
+                                <a href="/a/" class="govuk-link">A Latest</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

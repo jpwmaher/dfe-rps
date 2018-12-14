@@ -94,6 +94,11 @@ nav.tslr-pagination ul li a span.label {
 .label {
     background: transparent;
     color: #0b0c0c;
+    font-size: 16px;
+}
+
+ul {
+    margin-left: 0px;
 }
 
 @media print {

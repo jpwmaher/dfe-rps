@@ -66,20 +66,20 @@
 
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
-                                <div class="govuk-radios__item">
+                                <div class="multiple-choice">
 
                                     <label class="govuk-label govuk-radios__label" for="x">Email</label>
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" value="results-page-1.php" id="x">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="results-page-1.php" id="x">
 
                                 </div>
 
 
-                                <div class="govuk-radios__item">
+                                <div class="multiple-choice">
 
                                     <label class="govuk-label govuk-radios__label" for="x">Email</label>
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" value="results-page-2.php" id="x">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="results-page-2.php" id="x">
 
                                 </div>
 

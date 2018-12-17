@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form name="quoted" method="POST" onsubmit="get_action(this);">
+                <!--     <form name="quoted" method="POST" onsubmit="get_action(this);">
                     <div class="form-group">
                         <fieldset>
 
@@ -47,10 +47,9 @@
                         form.action = document.querySelector('input[name = "x"]:checked').value;
                     }
 
-                </script>
+                </script> -->
 
-
-                <form action="teacher-check-send" method="POST" role="form">
+                <form action="teacher-check-send" method="POST" role="form" onsubmit="get_action(this);">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -69,34 +68,19 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false">
+                                    <label class="govuk-label govuk-radios__label" for="x">Email</label>
 
-                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
-                                </div>
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-email">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-email-address">Enter email address</label>
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" value="results-page-1.php" id="x">
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="">
-                                        </div>
-                                    </div>
                                 </div>
+
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-mobile" name="teacher-contact-method" type="radio" value="mobile" aria-controls="conditional-contact-method-conditional-mobile" aria-expanded="false">
+                                    <label class="govuk-label govuk-radios__label" for="x">Email</label>
 
-                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
-                                </div>
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-mobile">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" value="results-page-1.php" id="x">
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="">
-                                        </div>
-                                    </div>
                                 </div>
 
                             </div>
@@ -110,6 +94,12 @@
 
                 </form>
 
+                <script type="text/javascript">
+                    function get_action(form) {
+                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
+
+                </script>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

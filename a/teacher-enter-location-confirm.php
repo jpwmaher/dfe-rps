@@ -55,9 +55,9 @@
                     <textarea class="actual_quote" name="actual_quote" required="required" placeholder="Write the question here!"></textarea><br><br><br>
                     <div class="checkboxes" required="required">
                         <h3 style="margin-top:-20px;">Please select one catagory that the quote falls into.</h3>
-                        <label for="x"><input type="radio" name="x" value="stupid.php" id = "x" checked="checked" />    <span>stupid</span></label><br>
-                        <label for="x"><input type="radio" name="x" value="stupider.php" id = "x" /> <span>stupider</span>    </label><br>
-                        <label for="x"><input type="radio" name="x" value="stupidest.php" id = "x"/>    <span>stupidest</span></label>
+                        <label for="x"><input type="radio" name="x" value="results-page-1.php" id = "x" checked="checked" />    <span>1</span></label><br>
+                        <label for="x"><input type="radio" name="x" value="results-page-2.php" id = "x" /> <span>2</span>    </label><br>
+                        <label for="x"><input type="radio" name="x" value="results-page-3.php" id = "x"/>    <span>3</span></label>
                     </div>
                     <input id="submit1" type="submit"><br>
                 </form>

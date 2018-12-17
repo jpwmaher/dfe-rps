@@ -49,12 +49,12 @@
                                     </h1>
                                 </legend>
 
-                                <input class="govuk-input" id="teacher-num-schools" name="teacher-num-schools" type="hidden" value="1">
+                                <!--  <input class="govuk-input" id="teacher-num-schools" name="teacher-num-schools" type="hidden" value="1"> -->
 
                                 <span id="trn-hint" class="govuk-hint">
-              <details class="govuk-details">
-                <summary class="govuk-details__summary">
-                  <span class="govuk-details__summary-text">You taught at more than one school</span>
+                                <details class="govuk-details">
+                                <summary class="govuk-details__summary">
+                                        <span class="govuk-details__summary-text">You taught at more than one school</span>
                                 </summary>
                                 <div class="govuk-details__text">
                                     <p class="govuk-body">For now, enter one of the schools you've taught at. You can check another school when you've finished.</p>
@@ -68,8 +68,8 @@
                                     <input class="govuk-input  awesomplete" list="eligible-schools" required pattern="number" aria-errormessage="example1Error1" />
                                     <?php include("../includes/school-list.php"); ?>
                                     <span class="form-error" id="example1Error1">
-            Error message
-          </span>
+                                    Error message
+                                    </span>
                                 </div>
 
                                 <div class="govuk-form-group">

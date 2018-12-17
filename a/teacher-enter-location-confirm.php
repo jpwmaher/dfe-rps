@@ -36,6 +36,7 @@
                                 <input id="example-contact-by-email" type="radio" name="radio-contact-group" value="results-page-2.php">
                                 <label for="example-contact-by-email">Email</label>
                             </div>
+                            <input id="submit1" type="submit"><br>
 
                         </fieldset>
                     </div>
@@ -49,7 +50,7 @@
                 </script>
 
 
-                <form name="quoted" method="POST" onsubmit="get_action(this);">
+                <!--  <form name="quoted" method="POST" onsubmit="get_action(this);">
 
                     <input id="poster" type="text" name="poster" required="required" placeholder="Credited Individual."> <br>
                     <textarea class="actual_quote" name="actual_quote" required="required" placeholder="Write the question here!"></textarea><br><br><br>
@@ -61,7 +62,7 @@
                         <label for="x"><input type="radio" name="x" value="results-page-3.php" id = "x"/>    <span>3</span></label>
                     </div>
                     <input id="submit1" type="submit"><br>
-                </form>
+                </form> -->
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

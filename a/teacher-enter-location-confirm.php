@@ -68,7 +68,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-1.php" id="x">
+                                    <input class="govuk-radios__input" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-1.php" id="x">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
                                 </div>
@@ -76,7 +76,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-2.php" id="x">
+                                    <input class="govuk-radios__input" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-2.php" id="x">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
                                 </div>

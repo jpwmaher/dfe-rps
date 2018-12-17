@@ -17,7 +17,12 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-enter-location-confirm.php" method="POST" role="form">
+                <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide>
+
+                    <div data-abide-error class="alert callout" style="display: none;">
+                        <p><i class="fi-alert"></i> There are some errors in your form.</p>
+                    </div>
+
                     <div class="govuk-form-group">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 

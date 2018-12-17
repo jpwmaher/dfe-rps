@@ -37,7 +37,7 @@
                     var menu = document.getElementById("gender");
 
                     goBtn.onclick = function() {
-                        window.location = menu.value;
+                        window.location = gender.value;
                     }
 
                 </script>

@@ -65,8 +65,11 @@
                                 <div class="govuk-form-group">
                                     <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
-                                    <input class="govuk-input  awesomplete" list="eligible-schools" required />
+                                    <input class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
                                     <?php include("../includes/school-list.php"); ?>
+                                    <span class="form-error" id="example1Error1">
+            Oh dear oh dear
+          </span>
                                 </div>
 
                                 <div class="govuk-form-group">

@@ -18,12 +18,12 @@
             <div id="main-content-left-only" class="large-8 cell">
 
                 <?php
-        $name = $_GET['poster'];
+        $name = $_POST['poster'];
         echo $name
       ?>
 
                     <?php
-        $quote = $_GET['actual_quote'];
+        $quote = $_POST['actual_quote'];
         echo $quote
       ?>
 

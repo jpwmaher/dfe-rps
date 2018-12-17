@@ -63,7 +63,7 @@
                                 </span>
 
                                 <div class="govuk-form-group">
-                                    <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true">
+                                    <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name</label>
                                     <input class="govuk-input  awesomplete" list="eligible-schools" required />
                                     <?php include("../includes/school-list.php"); ?>

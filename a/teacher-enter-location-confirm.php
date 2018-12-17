@@ -75,7 +75,7 @@
                     <input type="radio" onclick="idForm()" name="choice" value="ps3" />PS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="radio" onclick="idForm()" name="choice" value="psp" />PSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-                    <input type="button" id="goBtn" value="GO!">
+                    <input type="submit" value="Submit">
                 </form>
 
             </div>

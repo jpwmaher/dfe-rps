@@ -25,7 +25,7 @@
 
                 <form id="menu">
 
-                    <input type="radio" name="gender" selected="selected">Select One<br/>
+                    <input type="radio" name="gender">Select One<br/>
                     <input type="radio" name="gender" value="http://www.domain-one.com"><br/>
                     <input type="radio" name="gender" value="http://www.domain-two.com"><br/>
                     <input type="button" id="goBtn" value="GO!">
@@ -34,7 +34,7 @@
 
                 <script>
                     var goBtn = document.getElementById("goBtn");
-                    var menu = document.getElementById("gender");
+                    var menu = document.getElementById("menu");
 
                     goBtn.onclick = function() {
                         window.location = menu.value;

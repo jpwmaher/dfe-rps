@@ -42,7 +42,7 @@
                 <table class="govuk-table cols-5 unstriped">
                     <thead class="govuk-table__head">
                         <tr class="govuk-table__row">
-                            <th class="govuk-table__header col-1" scope="col">Service Model A<br>
+                            <th class="govuk-table__header col-1" scope="col">Prototype A<br>
                                 <span class="sub-heading">Initial journey outline</span></th>
                             <th class="govuk-table__header col-2" scope="col"></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
@@ -97,13 +97,13 @@
                             </td>
                         </tr> -->
 
-                        <tr class="govuk-table__row">
+                        <!--    <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top" colspan="2">
-                                <!--<h3 class="govuk-heading-m">GOV.UK eligibility checker</h3>
+                                <h3 class="govuk-heading-m">GOV.UK eligibility checker</h3>
                                 <p class="govuk-body">
                                     <span class="sub-heading">Using the 'check before you start' pattern</span>
                                     <a href="/z/guidance" class="govuk-link">Check eligibility and register interest</a>
-                                </p> -->
+                                </p> 
                             </td>
                             <td class="govuk-table__cell" valign="top" colspan="3">
                                 <h4 class="govuk-heading-s">Eligible schools</h4>
@@ -132,7 +132,7 @@
                                         <span class="govuk-caption-m">Salford [355] &amp; Academy special converter [44]</span></li>
                                 </ul>
                             </td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>

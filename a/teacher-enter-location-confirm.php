@@ -1,4 +1,3 @@
-s
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -19,7 +18,7 @@ s
             <div id="main-content-left-only" class="large-8 cell">
 
                 <form action="teacher-enter-location-confirm" method="POST" role="form">
-                    <div class="govuk-form-group">
+                    <div class="govuk-form-group {% if (data['teacher-error-no-school']) %}govuk-form-group--error{% endif %}">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
                             <div>

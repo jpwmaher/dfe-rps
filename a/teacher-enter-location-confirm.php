@@ -19,10 +19,10 @@
 
                 <form onsubmit="return mysubmit();">
                     <select id="option" name="Region">
-   <option value="value1.html">Option1</option>
-   <option value="value2.html">Option2</option>
-   <option value="value3.html">Option3</option>
-   <option value="value3.html">Option4</option>
+   <option value="http://www.google.com">Option1</option>
+   <option value="http://www.amazon.co.uk">Option2</option>
+   <option value="http://www.apple.com">Option3</option>
+   <option value="http://www.google.com">Option4</option>
    <option value="value3.html">Option5</option>
 </select>
 
@@ -35,7 +35,7 @@
                         //you can return false; here to prevent the form being submitted
                         //useful if you want to validate the form
 
-                        window.location.href = document.getElementById('option').value;
+                        window.location.href = 'http://' + document.getElementById('option').value;
                     }
 
                 </script>

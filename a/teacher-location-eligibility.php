@@ -21,6 +21,7 @@
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i> There are some errors in your form.</p>
+                        <p><a href="#example1Error1">Please enter the school name</a></p>
                     </div>
 
                     <div class="govuk-form-group">
@@ -62,9 +63,11 @@
 
                                 <div class="govuk-form-group">
                                     <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
-                                    <label class="govuk-label" for="teacher-school-name">Enter the school name                                     <span class="form-error" id="example1Error1">
+                                    <label class="govuk-label" for="teacher-school-name">Enter the school name                                     
+                                        <span class="form-error" id="example1Error1">
                                     Error message
-                                    </span></label>
+                                    </span>
+                                    </label>
                                     <input class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
                                     <?php include("../includes/school-list.php"); ?>
 

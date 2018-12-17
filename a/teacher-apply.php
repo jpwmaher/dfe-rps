@@ -26,8 +26,8 @@
                 <nav class="tslr-contents-list" role="navigation">
                     <h2 class="govuk-heading-m">Contents</h2>
                     <ul class="govuk-list">
-                        <li>&mdash; <a class="govuk-link" href="/a/teacher-claim-bursary">About this scheme</a></li>
-                        <li>&mdash; <a class="govuk-link" href="/a/teacher-check-eligibility">Check if you’re eligible</a></li>
+                        <li>&mdash; <a class="govuk-link" href="teacher-claim-bursary.php">About this scheme</a></li>
+                        <li>&mdash; <a class="govuk-link" href="teacher-check-eligibility.php">Check if you’re eligible</a></li>
                         <li>&mdash; Make a claim</li>
                     </ul>
                 </nav>

@@ -30,7 +30,7 @@
                     <ul class="govuk-list">
                         <li>&mdash; About this scheme</li>
                         <li>&mdash; <a class="govuk-link" href="teacher-check-eligibility.php">Check if you’re eligible</a></li>
-                        <li>&mdash; <a class="govuk-link" href="#">Make a claim</a></li>
+                        <li>&mdash; <a class="govuk-link" href="teacher-apply.php">Make a claim</a></li>
                     </ul>
                 </nav>
             </div>

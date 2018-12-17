@@ -110,7 +110,7 @@
                     <div class="grid-container">
                         <div class="grid-x grid-margin-x">
                             <fieldset class="cell large-6">
-                                <button class="button" type="submit">Submit</button>
+                                <button class="button" type="submit" value="Submit">Submit</button>
                             </fieldset>
                             <fieldset class="cell large-6">
                                 <button class="button" type="reset" value="Reset">Reset</button>

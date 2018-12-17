@@ -19,10 +19,10 @@
 
                 <form onsubmit="return mysubmit();">
                     <select id="option" name="Region">
-   <option value="http://www.google.com">Option1</option>
-   <option value="http://www.amazon.co.uk">Option2</option>
-   <option value="http://www.apple.com">Option3</option>
-   <option value="http://www.google.com">Option4</option>
+   <option value="www.google.com">Option1</option>
+   <option value="www.amazon.co.uk">Option2</option>
+   <option value="www.apple.com">Option3</option>
+   <option value="www.google.com">Option4</option>
    <option value="value3.html">Option5</option>
 </select>
 

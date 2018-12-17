@@ -42,41 +42,29 @@
 
                 </script> -->
 
+                <?php
+                if(isset($_POST['radio1']) && ($_POST['radio1']) == "Osoba fizyczna"){
 
-                <script type="text/javascript">
-                    function idForm() {
-                        var selectvalue = $('input[name=choice]:checked', '#idForm').val();
+    header("Location: http://www.example.com/non_company.php"); 
 
+ }
 
-                        if (selectvalue == "pc") {
-                            window.open('http://www.google.com', '_self');
-                            return true;
-                        } else if (selectvalue == "ps2") {
-                            window.open('http://www.google.com', '_self');
-                            return true;
-                        } else if (selectvalue == 'ps3') {
-                            window.open('http://www.google.com', '_self');
-                            return true;
-                        } else if (selectvalue == 'psp') {
-                            window.open('http://www.google.com', '_self');
-                            return true;
-                        }
-                        return false;
-                    };
+elseif(isset($_POST['radio1']) && ($_POST['radio1']) == "Firma"){
 
-                </script>
+    header("Location: http://www.example.com/company.php"); 
 
+ }
 
+ else{
+        header("Location: http://www.example.com/redirect_to_home.php"); 
+}
+                ?>
+                    <form>
+                        <input type="radio" name="radio1" value="Osoba fizyczna" />Non-company
+                        <input type="radio" name="radio1" value="Firma" />Company
+                        <input type="submit" value="" />
+                    </form>
 
-                Games<br /><br />
-                <form id="idForm">ALL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <input type="radio" onclick="idForm()" name="choice" value="pc" />PC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <input type="radio" onclick="idForm()" name="choice" value="ps2" />PS2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <input type="radio" onclick="idForm()" name="choice" value="ps3" />PS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <input type="radio" onclick="idForm()" name="choice" value="psp" />PSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-                    <input type="submit" value="Submit">
-                </form>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

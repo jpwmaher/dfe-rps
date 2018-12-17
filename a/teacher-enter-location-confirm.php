@@ -25,16 +25,16 @@
 
                 <form id="menu">
 
-                    <label><input type="radio" name="gender">Select One</label>
-                    <label><input type="radio" name="gender" value="http://www.domain-one.com"></label>
-                    <label><input type="radio" name="gender" value="http://www.domain-two.com"></label>
+                    <label><input type="radio" id="gender" name="gender">Select One</label>
+                    <label><input type="radio" id="gender" name="gender" value="http://www.domain-one.com"></label>
+                    <label><input type="radio" id="gender" name="gender" value="http://www.domain-two.com"></label>
                     <input type="button" id="goBtn" value="GO!">
 
                 </form>
 
                 <script>
                     var goBtn = document.getElementById("goBtn");
-                    var menu = document.getElementById("menu");
+                    var menu = document.getElementById("gender");
 
                     goBtn.onclick = function() {
                         window.location = menu.value;

@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-check-send" method="POST" role="form">
+                <form method="POST" role="form" onsubmit="get_action(this);">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -36,35 +36,27 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false">
+                                    <input class="govuk-radios__input" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-1.php" id="x" data-toggle-focus="email-reveal">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
-                                </div>
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-email">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-email-address">Enter email address</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="">
-                                        </div>
+                                    <div class="secondary callout is-hidden" id="email-reveal" data-toggler="is-hidden">
+                                        <p>This is only visible when the above field has focus.</p>
                                     </div>
                                 </div>
+
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-mobile" name="teacher-contact-method" type="radio" value="mobile" aria-controls="conditional-contact-method-conditional-mobile" aria-expanded="false">
+                                    <input class="govuk-radios__input" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-2.php" id="x" data-toggle-focus="sms-reveal">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
-                                </div>
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-mobile">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="">
-                                        </div>
+                                    <div class="secondary callout is-hidden" id="sms-reveal" data-toggler="is-hidden">
+                                        <p>This is only visible when the above field has focus.</p>
                                     </div>
                                 </div>
+
 
                             </div>
 

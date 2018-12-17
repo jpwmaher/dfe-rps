@@ -17,12 +17,17 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form>
-                    <select id="menu">
-  <option selected="selected">Select One</option>
-  <option value="http://www.domain-one.com">London</option>
-  <option value="http://www.domain-two.com">Glasgow</option>
-</select>
+                <!--   <form>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
+</form> -->
+
+                <form id="menu">
+
+                    <input type="radio" name="gender" selected="selected">Select One<br/>
+                    <input type="radio" name="gender" value="http://www.domain-one.com"><br/>
+                    <input type="radio" name="gender" value="http://www.domain-two.com"><br/>
                     <input type="button" id="goBtn" value="GO!">
 
                 </form>

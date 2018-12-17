@@ -20,8 +20,10 @@
                 <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
-                        <p><i class="fi-alert"></i> There are some errors in your form.</p>
-                        <p><a href="#example1Error1">Please enter the school name</a></p>
+                        <p><i class="fi-alert"></i>
+                            <?php echo $form_generic_error_message ?>
+                        </p>
+                        <p><a href="#example1Error1">Please enter the school name or postcode</a></p>
                     </div>
 
                     <div class="govuk-form-group">
@@ -65,7 +67,7 @@
                                     <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name                                     
                                         <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
-                                    Error message
+                                   Enter the school name or postcode
                                     </span>
                                     </label>
                                     <input id="teacher-school-name" class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />

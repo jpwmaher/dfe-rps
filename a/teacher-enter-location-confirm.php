@@ -49,7 +49,7 @@
 
                 </script> -->
 
-                <form action="teacher-check-send" method="POST" role="form" onsubmit="get_action(this);">
+                <form method="POST" role="form" onsubmit="get_action(this);">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -66,22 +66,21 @@
 
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
-                                <div class="multiple-choice">
+                                <div class="govuk-radios__item">
 
-                                    <label class="govuk-label govuk-radios__label" for="x">Email</label>
+                                    <input class="govuk-radios__input" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-1.php" id="x">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="results-page-1.php" id="x">
-
+                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
                                 </div>
 
 
-                                <div class="multiple-choice">
+                                <div class="govuk-radios__item">
 
-                                    <label class="govuk-label govuk-radios__label" for="x">Email</label>
+                                    <input class="govuk-radios__input" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" name="x" type="radio" value="results-page-2.php" id="x">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="results-page-2.php" id="x">
-
+                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
                                 </div>
+
 
                             </div>
 

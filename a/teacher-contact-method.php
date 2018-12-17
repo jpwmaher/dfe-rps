@@ -39,7 +39,7 @@
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
                                 </div>
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-email">
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-email">
                                     <div class="govuk-form-group">
                                         <div class="govuk-form-group">
                                             <label class="govuk-label" for="teacher-email-address">Enter email address</label>
@@ -55,7 +55,7 @@
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
                                 </div>
-                                <div class="govuk-radios__conditional" id="conditional-contact-method-conditional-mobile">
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-mobile">
                                     <div class="govuk-form-group">
                                         <div class="govuk-form-group">
                                             <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>

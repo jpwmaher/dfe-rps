@@ -65,16 +65,18 @@
                     };
 
                 </script>
-                </head>
 
-                <body>
-                    Games<br /><br />
-                    <form id="idForm">ALL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <input type="radio" onclick="idForm()" name="choice" value="pc" />PC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <input type="radio" onclick="idForm()" name="choice" value="ps2" />PS2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <input type="radio" onclick="idForm()" name="choice" value="ps3" />PS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <input type="radio" onclick="idForm()" name="choice" value="psp" />PSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    </form>
+
+
+                Games<br /><br />
+                <form id="idForm">ALL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" onclick="idForm()" name="choice" value="pc" />PC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" onclick="idForm()" name="choice" value="ps2" />PS2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" onclick="idForm()" name="choice" value="ps3" />PS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" onclick="idForm()" name="choice" value="psp" />PSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    <input type="button" id="goBtn" value="GO!">
+                </form>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">
@@ -88,6 +90,6 @@
     <?php include("../includes/footer.php"); ?>
 
     <?php include("../includes/javascript.php"); ?>
-    </body>
+</body>
 
 </html>

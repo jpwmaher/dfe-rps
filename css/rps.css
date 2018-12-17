@@ -2041,6 +2041,10 @@ only screen and (min-resolution: 2dppx) {
     display: none;
 }
 
+.govuk-checkboxes__conditional--hidden {
+    display: none;
+}
+
 .govuk-checkboxes__conditional > :last-child {
     margin-bottom: 0;
 }

@@ -64,11 +64,11 @@
                                 <div class="govuk-form-group">
                                     <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name                                     
-                                        <span class="form-error" id="example1Error1">
+                                        <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
                                     Error message
                                     </span>
                                     </label>
-                                    <input class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
+                                    <input id="teacher-school-name" class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
                                     <?php include("../includes/school-list.php"); ?>
 
                                 </div>

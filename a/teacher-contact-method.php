@@ -19,34 +19,6 @@
 
                 <form action="teacher-check-send" method="POST" role="form" onsubmit="get_action(this);">
 
-                    <ul class="radio">
-                        <li>
-                            <input type="radio" name="Postage_Method" id="post" value="Post" onchange="showSelect();">
-                            <label for="post">&nbsp;Please Post</label>
-                        </li>
-
-                        <select id="my_select" class="hide">
-                <option value="nxday">Next Day Monday to Friday </option>
-                <option value="b9">Before 9 a.m. Monday to Friday </option>
-                <option value="b10">Before 10 a.m. Monday to Friday </option>
-                <option value="b12">Before 12 a.m. Monday to Friday </option>
-                <option value="sat9">Saturday Before 9 a.m.  </option>
-                <option value="sat10">Saturday Before 10 a.m. </option>
-            </select>
-
-
-                        <li>
-                            <input type="radio" name="Postage_Method" id="post" onchange="hide()" value="Arrange Own Pick Up ">
-                            <label for="own">&nbsp;Will arrange own pick up</label>
-                        </li>
-
-                        <li>
-                            <input type="radio" name="Postage_Method" id="post" value="Collect in person">
-                            <label for="collect">&nbsp;Will collect in person</label>
-                        </li>
-                    </ul>
-
-
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -63,7 +35,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
                                 </div>
@@ -79,7 +51,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-mobile" name="teacher-contact-method" type="radio" value="mobile" aria-controls="conditional-contact-method-conditional-mobile" aria-expanded="true">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-mobile" name="teacher-contact-method" type="radio" value="mobile" aria-controls="conditional-contact-method-conditional-mobile" aria-expanded="true" onchange="showSelect2();">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
                                 </div>
@@ -111,12 +83,24 @@
                 </script>
                 <script>
                     function showSelect() {
-                        var select = document.getElementById('my_select');
+                        var select = document.getElementById('conditional-contact-method-conditional-email');
                         select.className = 'show';
                     }
 
                     function hide() {
-                        document.getElementById("my_select").style.display = 'none';
+                        document.getElementById("conditional-contact-method-conditional-email").style.display = 'none';
+                    }
+
+                </script>
+
+                <script>
+                    function showSelect2() {
+                        var select = document.getElementById('conditional-contact-method-conditional-mobile');
+                        select.className = 'show';
+                    }
+
+                    function hide() {
+                        document.getElementById("conditional-contact-method-conditional-mobile").style.display = 'none';
                     }
 
                 </script>

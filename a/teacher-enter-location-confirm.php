@@ -42,24 +42,25 @@
 
                 </script> -->
 
-                <fieldset>
-                    <legend>Select option</legend>
-                    <center>
-                        <form method="post" action="">
-                            <input type="radio" name="radio1" value="blue" />Non-company
-                            </br>
-                            <input type="radio" name="radio1" value="red" />Company
-                            </br>
-                            <input type="submit" class="buttonStyle2" value="" />
-                        </form>
-                </fieldset>
+                <script type="text/javascript">
+                    function get_action(form) {
+                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
 
-                <?php 
-            if ( isset($_POST['radio1']) ) {
-    $filename = $_POST['radio1'] . "php";
-    header("Location: http://google.com/".$filename); 
-}
-?>
+                </script>
+
+
+                <form name="quoted" method="get" onsubmit="get_action(this);">
+                    <input id="poster" type="text" name="poster" required="required" placeholder="Credited Individual."> <br>
+                    <textarea class="actual_quote" name="actual_quote" required="required" placeholder="Write the question here!"></textarea><br><br><br>
+                    <div class="checkboxes" required="required">
+                        <h3 style="margin-top:-20px;">Please select one catagory that the quote falls into.</h3>
+                        <label for="x"><input type="radio" name="x" value="stupid.php" id = "x" checked="checked" />    <span>stupid</span></label><br>
+                        <label for="x"><input type="radio" name="x" value="stupider.php" id = "x" /> <span>stupider</span>    </label><br>
+                        <label for="x"><input type="radio" name="x" value="stupidest.php" id = "x"/>    <span>stupidest</span></label>
+                    </div>
+                    <input id="submit1" type="submit"><br>
+                </form>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

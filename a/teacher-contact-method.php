@@ -18,6 +18,35 @@
             <div id="main-content-left-only" class="large-8 cell">
 
                 <form action="teacher-check-send" method="POST" role="form" onsubmit="get_action(this);">
+
+                    <ul class="radio">
+                        <li>
+                            <input type="radio" name="Postage_Method" id="post" value="Post" onchange="showSelect();">
+                            <label for="post">&nbsp;Please Post</label>
+                        </li>
+
+                        <select id="my_select" class="hide">
+                <option value="nxday">Next Day Monday to Friday </option>
+                <option value="b9">Before 9 a.m. Monday to Friday </option>
+                <option value="b10">Before 10 a.m. Monday to Friday </option>
+                <option value="b12">Before 12 a.m. Monday to Friday </option>
+                <option value="sat9">Saturday Before 9 a.m.  </option>
+                <option value="sat10">Saturday Before 10 a.m. </option>
+            </select>
+
+
+                        <li>
+                            <input type="radio" name="Postage_Method" id="post" onchange="hide()" value="Arrange Own Pick Up ">
+                            <label for="own">&nbsp;Will arrange own pick up</label>
+                        </li>
+
+                        <li>
+                            <input type="radio" name="Postage_Method" id="post" value="Collect in person">
+                            <label for="collect">&nbsp;Will collect in person</label>
+                        </li>
+                    </ul>
+
+
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -29,8 +58,6 @@
                             <span id="changed-name-hint" class="govuk-hint">
               We'll only use these details to update you about your claim.
             </span>
-
-
 
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
@@ -79,6 +106,17 @@
                 <script type="text/javascript">
                     function get_action(form) {
                         form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
+
+                </script>
+                <script>
+                    function showSelect() {
+                        var select = document.getElementById('my_select');
+                        select.className = 'show';
+                    }
+
+                    function hide() {
+                        document.getElementById("my_select").style.display = 'none';
                     }
 
                 </script>

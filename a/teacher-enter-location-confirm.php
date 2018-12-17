@@ -17,16 +17,6 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <script>
-                    var goBtn = document.getElementById("goBtn");
-                    var menu = document.getElementById("menu");
-
-                    goBtn.onclick = function() {
-                        window.location = menu.value;
-                    }
-
-                </script>
-
                 <form>
                     <select id="menu">
   <option selected="selected">Select One</option>
@@ -36,6 +26,16 @@
                     <input type="button" id="goBtn" value="GO!">
 
                 </form>
+
+                <script>
+                    var goBtn = document.getElementById("goBtn");
+                    var menu = document.getElementById("menu");
+
+                    goBtn.onclick = function() {
+                        window.location = menu.value;
+                    }
+
+                </script>
 
 
             </div>

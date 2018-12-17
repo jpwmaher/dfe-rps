@@ -3893,6 +3893,11 @@ only screen and (min-resolution: 2dppx) {
     display: none;
 }
 
+
+.govuk-radios__conditional--hidden {
+    display: none;
+}
+
 .govuk-radios__conditional > :last-child {
     margin-bottom: 0;
 }

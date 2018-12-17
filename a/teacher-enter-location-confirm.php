@@ -33,7 +33,8 @@
                             </div>
                             <p class="form-block">or</p>
                             <div class="multiple-choice">
-                                <label for="x"><input type="radio" name="x" value="results-page-3.php" id = "x"/>    <span>3</span></label>
+                                <input id="example-contact-by-email" type="radio" name="radio-contact-group" value="results-page-2.php">
+                                <label for="example-contact-by-email">Email</label>
                             </div>
 
                         </fieldset>

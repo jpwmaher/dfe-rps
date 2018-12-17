@@ -42,29 +42,24 @@
 
                 </script> -->
 
-                <?php
-                if(isset($_POST['radio1']) && ($_POST['radio1']) == "Osoba fizyczna"){
+                <fieldset>
+                    <legend>Select option</legend>
+                    <center>
+                        <form method="post" action="">
+                            <input type="radio" name="radio1" value="blue" />Non-company
+                            </br>
+                            <input type="radio" name="radio1" value="red" />Company
+                            </br>
+                            <input type="submit" class="buttonStyle2" value="" />
+                        </form>
+                </fieldset>
 
-    header("Location: http://www.example.com/non_company.php"); 
-
- }
-
-elseif(isset($_POST['radio1']) && ($_POST['radio1']) == "Firma"){
-
-    header("Location: http://www.example.com/company.php"); 
-
- }
-
- else{
-        header("Location: http://www.example.com/redirect_to_home.php"); 
+                <?php 
+            if ( isset($_POST['radio1']) ) {
+    $filename = $_POST['radio1'] . "php";
+    header("Location: http://google.com/".$filename); 
 }
-                ?>
-                    <form>
-                        <input type="radio" name="radio1" value="Osoba fizyczna" />Non-company
-                        <input type="radio" name="radio1" value="Firma" />Company
-                        <input type="submit" value="" />
-                    </form>
-
+?>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

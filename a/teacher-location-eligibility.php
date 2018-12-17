@@ -28,7 +28,7 @@
 
                             <div>
 
-                                <!--
+
                                 <div class="govuk-error-summary" aria-labelledby="error-summary-title" role="alert" tabindex="-1" data-module="error-summary">
                                     <h2 class="govuk-error-summary__title" id="error-summary-title">There's a problem</h2>
                                     <div class="govuk-error-summary__body">
@@ -37,9 +37,9 @@
                                                 <a href="#enter-school-error">{{ data['error-message'] }}</a>
                                             </li>
                                         </ul>
-                                    </div> 
+                                    </div>
                                 </div>
--->
+
 
                                 <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                     <h1 class="govuk-fieldset__heading">

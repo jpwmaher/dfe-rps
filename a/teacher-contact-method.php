@@ -17,45 +17,64 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="" method="POST" role="form" data-abide novalidate>
-                    <div class="form-group">
-                        <fieldset>
+                <form action="teacher-check-send" method="POST" role="form">
+                    <div class="govuk-form-group ">
+                        <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
-                            <legend>
-                                <h1 class="heading-medium">
-                                    How do you want to be contacted?
+                            <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
+                                <h1 class="govuk-fieldset__heading">
+                                    How do you want us to contact you?
                                 </h1>
                             </legend>
+                            <span id="changed-name-hint" class="govuk-hint">
+              We'll only use these details to update you about your claim.
+            </span>
 
-                            <div class="multiple-choice" data-target="contact-by-email">
-                                <input id="example-contact-by-email" type="radio" name="radio-contact-group" value="Yes">
-                                <label for="example-contact-by-email">Email</label>
-                            </div>
-                            <div class="panel panel-border-narrow js-hidden" id="contact-by-email">
-                                <label class="form-label" for="contact-email">Email address</label>
-                                <input class="form-control" name="contact-email" type="text" id="contact-email">
-                            </div>
 
-                            <div class="multiple-choice" data-target="contact-by-phone">
-                                <input id="example-contact-by-phone" type="radio" name="radio-contact-group" value="No">
-                                <label for="example-contact-by-phone">Phone</label>
-                            </div>
-                            <div class="panel panel-border-narrow js-hidden" id="contact-by-phone">
-                                <label class="form-label" for="contact-phone">Phone number</label>
-                                <input class="form-control" name="contact-phone" type="tel" id="contact-phone">
-                            </div>
 
-                            <div class="multiple-choice" data-target="contact-by-text">
-                                <input id="example-contact-by-text" type="radio" name="radio-contact-group" value="No">
-                                <label for="example-contact-by-text">Text message</label>
-                            </div>
-                            <div class="panel panel-border-narrow js-hidden" id="contact-by-text">
-                                <label class="form-label" for="contact-text-message">Mobile phone number</label>
-                                <input class="form-control" name="contact-text-message" type="text" id="contact-text-message">
+                            <div class="govuk-radios govuk-radios--conditional" data-module="radios">
+
+                                <div class="govuk-radios__item">
+
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false">
+
+                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
+                                </div>
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-email">
+                                    <div class="govuk-form-group">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label" for="teacher-email-address">Enter email address</label>
+
+                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="govuk-radios__item">
+
+                                    <input class="govuk-radios__input" id="contact-method-conditional-mobile" name="teacher-contact-method" type="radio" value="mobile" aria-controls="conditional-contact-method-conditional-mobile" aria-expanded="false">
+
+                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
+                                </div>
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-contact-method-conditional-mobile">
+                                    <div class="govuk-form-group">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>
+
+                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="">
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
 
                         </fieldset>
                     </div>
+
+
+                    <button type="submit" class="govuk-button">Continue</button>
+
+
                 </form>
 
                 <script type="text/javascript">

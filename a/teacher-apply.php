@@ -80,9 +80,9 @@
                     </ul>
                 </nav>
             </div>
-            <div id="sidebar" class="large-4 cell">
+            <!--   <div id="sidebar" class="large-4 cell">
                 &nbsp;
-            </div>
+            </div> -->
         </div>
     </div>
 

@@ -21,7 +21,7 @@
   <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
   <input type="radio" name="gender" value="other"> Other
-</form> -->
+</form> 
 
                 <form id="menu">
 
@@ -37,10 +37,44 @@
                     var menu = document.getElementById("gender");
 
                     goBtn.onclick = function() {
-                        window.location = gender.value;
+                        window.location = menu.value;
                     }
 
+                </script> -->
+
+
+                <script type="text/javascript">
+                    function idForm() {
+                        var selectvalue = $('input[name=choice]:checked', '#idForm').val();
+
+
+                        if (selectvalue == "pc") {
+                            window.open('http://www.google.com', '_self');
+                            return true;
+                        } else if (selectvalue == "ps2") {
+                            window.open('http://www.google.com', '_self');
+                            return true;
+                        } else if (selectvalue == 'ps3') {
+                            window.open('http://www.google.com', '_self');
+                            return true;
+                        } else if (selectvalue == 'psp') {
+                            window.open('http://www.google.com', '_self');
+                            return true;
+                        }
+                        return false;
+                    };
+
                 </script>
+                </head>
+
+                <body>
+                    Games<br /><br />
+                    <form id="idForm">ALL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" onclick="idForm()" name="choice" value="pc" />PC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" onclick="idForm()" name="choice" value="ps2" />PS2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" onclick="idForm()" name="choice" value="ps3" />PS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" onclick="idForm()" name="choice" value="psp" />PSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </form>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">
@@ -54,6 +88,6 @@
     <?php include("../includes/footer.php"); ?>
 
     <?php include("../includes/javascript.php"); ?>
-</body>
+    </body>
 
 </html>

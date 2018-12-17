@@ -23,11 +23,11 @@
   <input type="radio" name="gender" value="other"> Other
 </form> -->
 
-                <!--     <form id="menu">
+                <form id="menu">
 
-                    <input type="radio" name="gender">Select One<br/>
-                    <input type="radio" name="gender" value="http://www.domain-one.com"><br/>
-                    <input type="radio" name="gender" value="http://www.domain-two.com"><br/>
+                    <label><input type="radio" name="gender">Select One</label>
+                    <label><input type="radio" name="gender" value="http://www.domain-one.com"></label>
+                    <label><input type="radio" name="gender" value="http://www.domain-two.com"></label>
                     <input type="button" id="goBtn" value="GO!">
 
                 </form>
@@ -40,28 +40,7 @@
                         window.location = menu.value;
                     }
 
-                </script> -->
-
-                <form id="urlForm">
-                    <div id="bounds">
-                        <label><input type="radio" name="toggle" id="key1" value="http://www.domain-one.com"><span>On</span></label>
-                        <label><input type="radio" name="toggle" id="key2" value="http://www.domain-two.com"><span>Off</span></label>
-                    </div>
-                    <input type="submit">
-                </form>
-
-                <script>
-                    $(document).ready(function() {
-                        $('#urlForm').submit(function() {
-                            goUrl = '/?constraint=' + $('input[name="toggle"]:checked').val();
-                            console.log(goUrl);
-                            //window.location = goUrl;          
-                            return false; // Prevent the default form behaviour     
-                        });
-                    });
-
                 </script>
-
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

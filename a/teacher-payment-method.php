@@ -72,7 +72,7 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-number"><br/>
                                    Enter the  bank account number
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required pattern="bankaccnum">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="number" value="" required pattern="bankaccnum">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="#">Sort code</label>
@@ -110,9 +110,6 @@
     <script>
         // Set default options
         Foundation.Abide.defaults.patterns['bankaccnum'] = /^(\d){8}$/;
-
-        // Initialize Foundation
-        $(document).foundation();
 
     </script>
 </body>

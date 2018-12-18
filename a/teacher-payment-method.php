@@ -65,23 +65,23 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-name"><br/>
                                    Enter the name of the account holder
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required>
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required pattern="alpha">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="bank-account-number">Account number</label>
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-number"><br/>
                                    Enter the  bank account number
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required>
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required pattern="number">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="#">Sort code</label>
                                     <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-1"><br/>
                                    Enter the sort code
                                     </span>
-                                    <input class="govuk-input govuk-input--width-2 dis-inline" id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
-                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
-                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 dis-inline" id="#" name="teacher-bank-sortcode-1" type="text" value="" required pattern="number">
+                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-2" type="text" value="" required pattern="number">
+                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-3" type="text" value="" required pattern="number">
                                 </div>
                             </div>
 

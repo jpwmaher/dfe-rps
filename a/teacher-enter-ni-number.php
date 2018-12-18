@@ -66,7 +66,7 @@
                                     </span>
                                 <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
-                                <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required>
+                                <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required pattern="alpha_numeric">
                             </div>
 
                             <div class="govuk-form-group">

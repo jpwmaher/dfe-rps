@@ -44,7 +44,7 @@
                                         <div class="govuk-form-group">
                                             <label class="govuk-label" for="teacher-email-address">Enter email address</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="">
+                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="" pattern="email">
                                         </div>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@
                                         <div class="govuk-form-group">
                                             <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="">
+                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="" pattern="number">
                                         </div>
                                     </div>
                                 </div>

@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-enter-trn.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>

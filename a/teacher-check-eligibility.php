@@ -5,7 +5,7 @@
 
 <?php include("../includes/variables.php"); ?>
 
-<body>
+<body class="govuk-template__body js-enabled">
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 
@@ -53,44 +53,12 @@
                     <li>have spent most of your scheduled hours at the school teaching 11 to 16 year olds</li>
                 </ul>
                 <p class="govuk-body">If you worked in a state-funded school or academy you must also have taught at least one of these subjects for at least 50% of your time there:</p>
-                <ul class="govuk-list govuk-list--bullet">
-                    <li>biology</li>
-                    <li>chemistry</li>
-                    <li>computer science</li>
-                    <li>physics</li>
-                    <li>languages (not English)</li>
-                </ul>
+                <?php include("../includes/eligible-subjects.php"); ?>
                 <p>If you worked in a special school, you do not need to have taught these subjects.</p>
 
                 <h3 class="govuk-heading-m">Participating local authority areas</h3>
                 <p>You can only claim your student loan payments back in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught at a school or academy in one of these local authority areas:</p>
-                <ul class="govuk-list govuk-list--bullet">
-                    <li>Barnsley</li>
-                    <li>Blackpool</li>
-                    <li>Bracknell Forest</li>
-                    <li>Bradford</li>
-                    <li>Cambridgeshire</li>
-                    <li>Derby</li>
-                    <li>Derbyshire</li>
-                    <li>Doncaster</li>
-                    <li>Halton</li>
-                    <li>Knowsley</li>
-                    <li>Luton</li>
-                    <li>Middlesbrough</li>
-                    <li>Norfolk</li>
-                    <li>North-east Lincolnshire</li>
-                    <li>North Yorkshire</li>
-                    <li>Northamptonshire</li>
-                    <li>Northumberland</li>
-                    <li>Oldham</li>
-                    <li>Peterborough</li>
-                    <li>Portsmouth</li>
-                    <li>Salford</li>
-                    <li>Sefton</li>
-                    <li>St Helens</li>
-                    <li>Stoke-on-Trent</li>
-                    <li>Suffolk</li>
-                </ul>
+                <?php include("../includes/participating-local-authorities.php"); ?>
 
                 <nav class="tslr-pagination" role="navigation">
                     <ul>

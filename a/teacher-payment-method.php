@@ -79,12 +79,6 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-1"><br/>
                                    Enter the sort code
                                     </span>
-                                    <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-2"><br/>
-                                   Enter the sort code
-                                    </span>
-                                    <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-3"><br/>
-                                   Enter the sort code
-                                    </span>
                                     <input class="govuk-input govuk-input--width-2 dis-inline" id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
                                     <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
                                     <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>

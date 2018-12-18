@@ -109,7 +109,7 @@
 
     <script>
         // Set default options
-        Foundation.Abide.defaults.patterns['bankaccnum'] = /^[1-9]\d*/;
+        Foundation.Abide.defaults.patterns['bankaccnum'] = /^([0-9]){3,4}$/;
 
     </script>
 </body>

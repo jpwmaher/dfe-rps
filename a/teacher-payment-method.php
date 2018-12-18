@@ -17,8 +17,6 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <div class="govuk-inset-text">You have successfully confirmed your identity.</div>
-
                 <!--       <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
@@ -43,42 +41,43 @@
 
                 </form> -->
 
-                <form action="teacher-enter-ni-number.php" method="POST" role="form" data-abide novalidate>
-
-                    <div data-abide-error class="alert callout" style="display: none;">
-                        <p><i class="fi-alert"></i>
-                            <?php echo $form_generic_error_message ?>
-                        </p>
-                        <p><a href="#example1Error1">Please enter your Teacher Reference Number</a></p>
-                    </div>
-
+                <form action="teacher-contact-method.php" method="POST" role="form" novalidate data-abide>
                     <div class="govuk-form-group ">
-                        <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
+                        <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What's your teacher reference number?
+                                    Your account details
                                 </h1>
                             </legend>
 
                             <div class="govuk-form-group">
-                                <label class="govuk-label" for="teacher-trn">Teacher reference number</label>
-                                <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
-                                   Enter your teacher reference number
-                                    </span>
-                                <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span>
+                                <h2 class="govuk-heading-m">Enter your account details</h2>
+                                <div class="govuk-form-group">
+                                    <label class="govuk-label" for="bank-account-name">Name of account holder</label>
 
-                                <input class="govuk-input " id="teacher-trn" name="teacher-trn" type="text" value="" required>
-                            </div>
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required>
+                                </div>
+                                <div class="govuk-form-group">
+                                    <label class="govuk-label" for="bank-account-number">Account number</label>
 
-                            <div class="govuk-form-group">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required>
+                                </div>
+                                <div class="govuk-form-group">
+                                    <label class="govuk-label" for="#">Sort code</label>
 
-                                <button type="submit" class="govuk-button">Continue</button>
-
+                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>
+                                </div>
                             </div>
 
                         </fieldset>
                     </div>
+
+
+                    <button type="submit" class="govuk-button">Continue</button>
+
 
                 </form>
 

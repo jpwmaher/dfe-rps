@@ -17,8 +17,6 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <div class="govuk-inset-text">You have successfully confirmed your identity.</div>
-
                 <!--       <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
@@ -49,7 +47,7 @@
                         <p><i class="fi-alert"></i>
                             <?php echo $form_generic_error_message ?>
                         </p>
-                        <p><a href="#example1Error1">Please enter your Teacher Reference Number</a></p>
+                        <p><a href="#example1Error1">Please enter your National Insurance Number</a></p>
                     </div>
 
                     <div class="govuk-form-group ">
@@ -57,18 +55,18 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What's your teacher reference number?
+                                    What's your National Insurance number?
                                 </h1>
                             </legend>
 
                             <div class="govuk-form-group">
-                                <label class="govuk-label" for="teacher-trn">Teacher reference number</label>
+                                <label class="govuk-label" for="teacher-ni">National Insurance number</label>
                                 <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
-                                   Enter your teacher reference number
+                                   Enter your National Insurance number
                                     </span>
-                                <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span>
+                                <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
-                                <input class="govuk-input " id="teacher-trn" name="teacher-trn" type="text" value="" required>
+                                <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required>
                             </div>
 
                             <div class="govuk-form-group">

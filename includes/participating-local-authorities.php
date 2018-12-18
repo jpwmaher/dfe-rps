@@ -1,5 +1,5 @@
 <?php ?>
-<h4>North East</h4>
+<h5>North East</h5>
 <ul class="govuk-list govuk-list--bullet">
     <li>County Durham</li>
     <li>Darlington</li>
@@ -15,7 +15,7 @@
     <li>Sunderland</li>
 </ul>
 
-<h4>North West</h4>
+<h5>North West</h5>
 <ul class="govuk-list govuk-list--bullet">
     <li>Blackburn with Darwen</li>
     <li>Blackpool</li>

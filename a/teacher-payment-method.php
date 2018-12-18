@@ -107,7 +107,7 @@
 
     <?php include("../includes/javascript.php"); ?>
 
-    <script>
+    <script type="text/javascript">
         // Set default options
         Foundation.Abide.defaults.patterns['bankaccnum'] = /^([0-9]){3,4}$/;
 

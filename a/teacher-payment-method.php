@@ -72,7 +72,7 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-number"><br/>
                                    Enter the  bank account number
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required pattern="number">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required pattern="bankaccnum8">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="#">Sort code</label>
@@ -106,6 +106,30 @@
     <?php include("../includes/footer.php"); ?>
 
     <?php include("../includes/javascript.php"); ?>
+
+    <script>
+        function bankaccnum(
+            $el, /* jQuery element to validate */
+            required, /* is the element required according to the `[required]` attribute */
+            parent /* parent of the jQuery element `$el` */
+        ) {
+            if (!required) return true;
+            var from = $('#' + $el.attr('data-greater-than')).val(),
+                to = $el.val();
+            return (parseInt(to) > parseInt(from));
+        };
+
+        // Set default options
+        Foundation.Abide.defaults.patterns['bankaccnum8'] = ^ (\d) {
+            8
+        }
+        $;
+        Foundation.Abide.defaults.validators['greater_than'] = bankaccnum;
+
+        // Initialize Foundation
+        $(document).foundation();
+
+    </script>
 </body>
 
 </html>

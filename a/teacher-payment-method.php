@@ -66,9 +66,9 @@
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="#">Sort code</label>
 
-                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
-                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
-                                    <input class="govuk-input govuk-input--width-2 " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 dis-inline" id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
+                                    <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>
                                 </div>
                             </div>
 

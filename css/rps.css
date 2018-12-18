@@ -123,6 +123,9 @@ ul {
     opacity: 0.2;
 }
 
+.dis-in {
+    display: inline;
+}
 
 @media print {
     .govuk-link,

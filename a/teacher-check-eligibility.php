@@ -48,7 +48,7 @@
                         <?php echo $qualification_date  ?>
                     </li>
                     <li>still be teaching in a school in the UK</li>
-                    <li>have worked at a state-funded school or academy, or in a special school (a school that teaches children who have special educational needs), a 16-19 school, including academies and free schools or a sixth form or further education college in the last tax year</li>
+                    <li>have worked at a state-funded school or academy, in a special school (a school that teaches children who have special educational needs), a 16-19 school (including academies and free schools), or a sixth form or further education college in the last tax year</li>
                     <li>have worked at a school that’s in a participating local authority area in England in the last tax year</li>
                 </ul>
                 <p class="govuk-body">If you worked in a state-funded school or academy, a 16-19 school, or further education college you must also have taught at least one of these subjects for at least 50% of your time there:</p>
@@ -56,7 +56,7 @@
                 <p>If you worked in a special school, you do not need to have taught these subjects.</p>
 
                 <h3 class="govuk-heading-m">Participating local authority areas</h3>
-                <p>You can only claim your student loan payments back in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught at a school or academy in one of these local authority areas:</p>
+                <p>You can only claim your bursary payment in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught at a school or academy in one of these local authority areas:</p>
                 <?php include("../includes/participating-local-authorities.php"); ?>
 
                 <nav class="tslr-pagination" role="navigation">

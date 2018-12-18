@@ -42,6 +42,13 @@
                 </form> -->
 
                 <form action="teacher-contact-method.php" method="POST" role="form" novalidate data-abide>
+
+                    <div data-abide-error class="alert callout" style="display: none;">
+                        <p><i class="fi-alert"></i>
+                            <?php echo $form_generic_error_message ?>
+                        </p>
+                    </div>
+
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
 
@@ -55,17 +62,29 @@
                                 <h2 class="govuk-heading-m">Enter your account details</h2>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="bank-account-name">Name of account holder</label>
-
+                                    <span class="form-error" id="example1Error1" data-form-error-for="bank-account-name"><br/>
+                                   Enter the name of the account holder
+                                    </span>
                                     <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required>
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="bank-account-number">Account number</label>
-
+                                    <span class="form-error" id="example1Error1" data-form-error-for="bank-account-number"><br/>
+                                   Enter the  bank account number
+                                    </span>
                                     <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="text" value="" required>
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="#">Sort code</label>
-
+                                    <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-1"><br/>
+                                   Enter the sort code
+                                    </span>
+                                    <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-2"><br/>
+                                   Enter the sort code
+                                    </span>
+                                    <span class="form-error" id="example1Error1" data-form-error-for="teacher-bank-sortcode-3"><br/>
+                                   Enter the sort code
+                                    </span>
                                     <input class="govuk-input govuk-input--width-2 dis-inline" id="#" name="teacher-bank-sortcode-1" type="text" value="" required>
                                     <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-2" type="text" value="" required>
                                     <input class="govuk-input govuk-input--width-2 dis-inline " id="#" name="teacher-bank-sortcode-3" type="text" value="" required>

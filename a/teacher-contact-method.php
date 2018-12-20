@@ -13,7 +13,7 @@
     <?php include("../includes/masthead.php"); ?>
 
     <!-- Footer1 -->
-    <?php include("../includes/footer.php "); ?>
+    <?php include("../includes/masthead.php "); ?>
 
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>

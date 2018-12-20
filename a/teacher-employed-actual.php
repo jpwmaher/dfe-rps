@@ -30,17 +30,20 @@
                         <p><a href="#example1Error1">Please enter the subject you were employed to teach</a></p>
                     </div>
 
-                    <div class="govuk-form-group ">
-                        <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
+                    <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
-                            <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
-                                <h1 class="govuk-fieldset__heading">
-                                    What subject was the majority of time spent teaching at
-                                    <?php echo $_POST['teacher-school-name']; ?>
-                                </h1>
-                            </legend>
+                        <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
+                            <h1 class="govuk-fieldset__heading">
+                                What subject was the majority of time spent teaching at
+                                <?php echo $_POST['teacher-school-name']; ?>
+                            </h1>
+                        </legend>
 
+                        <div class="govuk-form-group ">
+                            <br/>
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
+
+                                <br/>
 
                                 <div class="govuk-radios__item">
 
@@ -158,9 +161,9 @@
 
                             </div>
 
-                        </fieldset>
-                    </div>
 
+                        </div>
+                    </fieldset>
                 </form>
 
 

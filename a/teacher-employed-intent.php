@@ -41,6 +41,7 @@
                             </legend>
 
                             <div class="govuk-form-group">
+                                <br/>
                                 <!--  <label class="govuk-label" for="teacher-intent">Enter the subject you were employed to teach at</label>
                                 <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
                                    Enter the subject were you employed to teach at <?php echo $_POST["teacher-school-name"]; ?>
@@ -170,7 +171,7 @@
 
 
                             <div class="govuk-form-group">
-
+                                <br/>
                                 <button type="submit" class="govuk-button">Continue</button>
 
                             </div>

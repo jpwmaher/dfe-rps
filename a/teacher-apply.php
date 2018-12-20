@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -21,7 +22,7 @@
     </div>
 
     <div class="grid-container">
-        <div class="grid-x grid-padding-x">
+        <div class="grid-x grid-padding-x grid-margin-x">
             <div class="large-8 cell">
                 <nav class="tslr-contents-list" role="navigation">
                     <h2 class="govuk-heading-m">Contents</h2>

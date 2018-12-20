@@ -1,5 +1,5 @@
 <?php 
-$service_name = "Teachers: claim bursary payments";
+$service_name = "Teachers: claim retention payments";
 $policy_criteria_start_date = "2019";
 $academic_year_start_date = "1st September 2017";
 $academic_year_end_date = "30 June 2018";

@@ -21,7 +21,7 @@
                 <ul class="govuk-list govuk-list--bullet">
                     <li>that you taught there</li>
                     <li>the subject you were employed to teach</li>
-                    <li>how much of your time was spent teaching that subject, if applicable</li>
+                    <li>how much of your time was spent teaching qualifying subjects, if applicable</li>
                 </ul>
                 <p class="govuk-body">We cannot process your claim without doing this.</p>
                 <p class="govuk-body">By applying you are confirming that you consent to us contacting the school.</p>

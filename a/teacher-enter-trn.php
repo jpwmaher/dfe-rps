@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <div class="govuk-inset-text">You have successfully confirmed your identity.</div>
+                <!--  <div class="govuk-inset-text">You have successfully confirmed your identity.</div> -->
 
                 <!--       <form action="teacher-enter-location-confirm.php" method="POST" role="form" data-abide novalidate>
 

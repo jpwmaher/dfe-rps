@@ -40,7 +40,7 @@
             <div id="main-content-left" class="large-8 cell">
                 <h2 class="govuk-heading-l">Eligibility</h2>
 
-                <p class="govuk-body">To claim your bursary payments you must:</p>
+                <p class="govuk-body">To claim your retention payments you must:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>have qualified as a teacher after
                         <?php echo $qualification_date  ?>
@@ -59,7 +59,7 @@
                 <p>If you worked in a special school, you do not need to have taught these subjects.</p>
 
                 <h3 class="govuk-heading-m">Participating local authority areas</h3>
-                <p>You can only claim your bursary payment in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught in one of these local authority areas:</p>
+                <p>You can only claim your retention payment in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught in one of these local authority areas:</p>
                 <?php include("../includes/participating-local-authorities.php"); ?>
 
                 <nav class="tslr-pagination" role="navigation">

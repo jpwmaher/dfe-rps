@@ -41,13 +41,13 @@
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Email</label>
                                 </div>
                                 <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-email">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-email-address">Enter email address</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="" pattern="email">
-                                        </div>
+                                    <div class="govuk-form-group  govuk-radios__conditional">
+                                        <label class="govuk-label" for="teacher-email-address">Enter email address</label>
+
+                                        <input class="govuk-input govuk-!-width-two-thirds" id="teacher-email-address" name="teacher-email-address" type="email" value="" pattern="email">
                                     </div>
+
                                 </div>
 
                                 <div class="govuk-radios__item">
@@ -57,13 +57,13 @@
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-mobile">Text message</label>
                                 </div>
                                 <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-mobile">
-                                    <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-mobile-number">Enter mobile number</label>
 
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teacher-mobile-number" name="teacher-mobile-number" type="number" value="" pattern="number">
-                                        </div>
+                                    <div class="govuk-form-group govuk-radios__conditional">
+                                        <label class="govuk-label " for="teacher-mobile-number ">Enter mobile number</label>
+
+                                        <input class="govuk-input govuk-!-width-two-thirds " id="teacher-mobile-number " name="teacher-mobile-number " type="number " value=" " pattern="number ">
                                     </div>
+
                                 </div>
 
                             </div>
@@ -71,13 +71,13 @@
                         </fieldset>
                     </div>
 
-                    <button type="submit" class="govuk-button">Continue</button>
+                    <button type="submit " class="govuk-button ">Continue</button>
 
                 </form>
 
-                <script type="text/javascript">
+                <script type="text/javascript ">
                     function get_action(form) {
-                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                        form.action = document.querySelector('input[name = "x "]:checked').value;
                     }
 
                 </script>
@@ -88,7 +88,7 @@
                     }
 
                     function hide() {
-                        document.getElementById("conditional-contact-method-conditional-email").style.display = 'none';
+                        document.getElementById("conditional-contact-method-conditional-email ").style.display = 'none';
                     }
 
                 </script>
@@ -99,23 +99,23 @@
                     }
 
                     function hide() {
-                        document.getElementById("conditional-contact-method-conditional-mobile").style.display = 'none';
+                        document.getElementById("conditional-contact-method-conditional-mobile ").style.display = 'none';
                     }
 
                 </script>
 
             </div>
-            <div id="sidebar" class="large-4 cell no-top-border">
-                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
+            <div id="sidebar " class="large-4 cell no-top-border ">
+                <!--      <button type="submit " name="skip-verify " value="yes " class="govuk-button hidden-button ">Skip Verify</button> -->
             </div>
         </div>
     </div>
 
 
     <!-- Footer -->
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../includes/footer.php "); ?>
 
-    <?php include("../includes/javascript.php"); ?>
+    <?php include("../includes/javascript.php "); ?>
 </body>
 
 </html>

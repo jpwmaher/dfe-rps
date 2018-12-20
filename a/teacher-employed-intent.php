@@ -49,7 +49,10 @@
                         <p><i class="fi-alert"></i>
                             <?php echo $form_generic_error_message ?>
                         </p>
-                        <p><a href="#example1Error1">Please enter the subject specialised in during initial teacher training</a></p>
+                        <p><a href="#example1Error1">Please enter the subject you were employed to teach at <?php
+        $name = $_POST['name'];
+        echo $teacher-school-name
+      ?></a></p>
                     </div>
 
                     <div class="govuk-form-group ">
@@ -57,7 +60,7 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What subject did you specialise in during initial teacher training?
+                                    What subject were you employed to teach?
                                 </h1>
                             </legend>
 

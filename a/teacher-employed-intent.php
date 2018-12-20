@@ -5,7 +5,7 @@
 
 <?php include("../includes/variables.php"); ?>
 
-<?php  $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
+<?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
 <body>
     <!-- Masthead -->

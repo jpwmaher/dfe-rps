@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>

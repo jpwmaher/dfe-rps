@@ -22,7 +22,7 @@
                 <!--   <div class="govuk-inset-text">You have successfully confirmed your identity.</div> -->
 
 
-                <form action="teacher-enter-trn.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-enter-trn.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
@@ -59,7 +59,7 @@
 
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-physics">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="x" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-physics">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
                     Physics
@@ -67,7 +67,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-chemistry">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-chemistry">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-chemistry">
                     Chemistry
@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-biology">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-biology">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-biology">
                     Biology
@@ -83,7 +83,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
                     Sciences are taught as one at <?php echo $_POST['teacher-school-name']; ?>
@@ -96,7 +96,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="check-teaching" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="x" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-compscience">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
                     Maths
@@ -105,7 +105,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-languages" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-languages">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-languages" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-languages">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-languages">
                     Languages (not including English)
@@ -115,7 +115,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="check-teaching" type="radio" value="other" aria-controls="conditional-check-teaching-conditional-other" aria-expanded="false">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-check-teaching-conditional-other" aria-expanded="false">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
                     Other
@@ -136,6 +136,13 @@
                         </div>
                     </fieldset>
                 </form>
+
+                <script type="text/javascript">
+                    function get_action(form) {
+                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
+
+                </script>
 
 
             </div>

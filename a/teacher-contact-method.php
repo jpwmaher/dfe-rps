@@ -12,6 +12,7 @@
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 
+    <!-- Footer1 -->
     <?php include("../includes/footer.php "); ?>
 
     <!-- Alpha banner -->

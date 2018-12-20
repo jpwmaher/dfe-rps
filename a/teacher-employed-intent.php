@@ -56,7 +56,7 @@
 
                                 <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
-                                    <input type="hidden" name="teacher-school-name" />
+                                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
 
                                     <div class="govuk-radios__item">
 

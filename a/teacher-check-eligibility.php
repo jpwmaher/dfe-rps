@@ -14,7 +14,7 @@
     <?php include("../includes/alpha-banner.php"); ?>
 
     <div id="h1-title" class="grid-container">
-        <div class="grid-x grid-padding-x">
+        <div class="grid-x grid-padding-x grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <h1 class="govuk-heading-xl">Check if you’re eligible</h1>
             </div>

@@ -44,7 +44,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input type="hidden" name="teacher-school-name" />
+                                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
 
                                     <input class="govuk-radios__input" id="check-teaching-conditional-science" name="check-teaching" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
 

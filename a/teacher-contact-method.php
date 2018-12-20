@@ -8,7 +8,7 @@
 
 <?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
-<body>
+<body class="govuk-template__body js-enabled">
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 

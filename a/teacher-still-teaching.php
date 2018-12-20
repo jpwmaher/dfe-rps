@@ -68,7 +68,7 @@
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">
-                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
+                <!--    <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button> -->
             </div>
         </div>
     </div>

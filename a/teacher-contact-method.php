@@ -17,6 +17,7 @@
 
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
+    <?php include("../includes/alpha-banner.php"); ?>
 
 
     <div class="grid-container">

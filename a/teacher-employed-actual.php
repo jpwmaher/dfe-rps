@@ -5,6 +5,8 @@
 
 <?php include("../includes/variables.php"); ?>
 
+<?php  $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
+
 <body>
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
@@ -33,7 +35,7 @@
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
                                     What subject was the majority of time spent teaching at
-                                    <?php echo $_SESSION['post-data']['teacher-school-name']; ?>
+                                    <?php echo $_SESSION['teacher-school-name']; ?>
                                 </h1>
                             </legend>
 

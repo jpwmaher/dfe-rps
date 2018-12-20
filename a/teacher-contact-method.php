@@ -12,6 +12,8 @@
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 
+    <?php include("../includes/footer.php "); ?>
+
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
 

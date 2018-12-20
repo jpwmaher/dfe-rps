@@ -33,7 +33,7 @@
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
                                     What subject was the majority of time spent teaching at
-                                    <?php echo $_POST["teacher-school-name"]; ?>
+                                    <?php echo $_SESSION['post-data']['teacher-school-name']; ?>
                                 </h1>
                             </legend>
 

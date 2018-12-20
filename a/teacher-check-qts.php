@@ -37,14 +37,14 @@
 
                                         <input class="govuk-radios__input" name="x" type="radio" value="results-page-1.php" id="x">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-qts-2012">On or after 1 September 2012</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-qts-2012">On or after <?php echo $qualification_date  ?></label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
                                         <input class="govuk-radios__input" name="x" type="radio" value="results-page-2.php" id="x">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-qts-none">Before 1 September 2012</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-qts-none">Before <?php echo $qualification_date  ?></label>
 
                                     </div>
                                 </div>
@@ -113,7 +113,7 @@
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">
-                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
+
             </div>
         </div>
     </div>

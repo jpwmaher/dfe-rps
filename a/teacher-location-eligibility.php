@@ -70,7 +70,7 @@
                         </fieldset>
                     </div>
 
-                </form> -->
+                </form>
 
 
             </div>

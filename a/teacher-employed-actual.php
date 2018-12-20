@@ -34,7 +34,7 @@
 
                         <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                             <h1 class="govuk-fieldset__heading">
-                                What subject was the majority of time spent teaching at
+                                What subject was the majority of your time spent teaching at
                                 <?php echo $_POST['teacher-school-name']; ?>
                             </h1>
                         </legend>
@@ -42,8 +42,6 @@
                         <div class="govuk-form-group ">
                             <br/>
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
-
-                                <br/>
 
                                 <div class="govuk-radios__item">
 

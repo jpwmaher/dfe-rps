@@ -17,7 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-enter-trn.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-still-teaching.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
@@ -89,7 +89,6 @@
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">
-                <button type="submit" name="skip-verify" value="yes" class="govuk-button hidden-button">Skip Verify</button>
             </div>
         </div>
     </div>

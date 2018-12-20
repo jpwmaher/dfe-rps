@@ -17,7 +17,12 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-employed-intent.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-employed-intent.php" method="post">
+                    Name: <input type="text" name="name"><br> E-mail: <input type="text" name="email"><br>
+                    <input type="submit">
+                </form>
+
+                <!--    <form action="teacher-employed-intent.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
@@ -31,17 +36,6 @@
 
                             <div>
 
-                                <!--   <div class="govuk-error-summary" aria-labelledby="error-summary-title" role="alert" tabindex="-1" data-module="error-summary">
-                                    <h2 class="govuk-error-summary__title" id="error-summary-title">There's a problem</h2>
-                                    <div class="govuk-error-summary__body">
-                                        <ul class="govuk-list govuk-error-summary__list">
-                                            <li>
-                                                <a href="#enter-school-error">{{ data['error-message'] }}</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div> -->
-
                                 <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                     <h1 class="govuk-fieldset__heading">
                                         Where did you teach between
@@ -49,8 +43,6 @@
                                         <?php echo $academic_year_end_date ?>?
                                     </h1>
                                 </legend>
-
-                                <!--  <input class="govuk-input" id="teacher-num-schools" name="teacher-num-schools" type="hidden" value="1"> -->
 
                                 <span id="trn-hint" class="govuk-hint">
                                 <details class="govuk-details">
@@ -64,7 +56,6 @@
                                 </span>
 
                                 <div class="govuk-form-group">
-                                    <!-- <input class="govuk-input" id="teacher-schools-setup" name="teacher-schools-setup" type="hidden" value="true"> -->
                                     <label class="govuk-label" for="teacher-school-name">Enter the school name                                     
                                         <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
                                    Enter the school name or postcode
@@ -84,7 +75,7 @@
                         </fieldset>
                     </div>
 
-                </form>
+                </form> -->
 
 
             </div>

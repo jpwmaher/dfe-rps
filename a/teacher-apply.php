@@ -55,7 +55,7 @@
                 <p>If you worked at a state-funded school or academy, we'll also check that you taught one of the qualifying subjects for more than half of your time there.</p>
                 <h3 class="govuk-heading-m">You've worked at more than one school</h3>
                 <p class="govuk-body">If you've worked at more than one school since
-                    <?php echo $tax_year_start_date ?>, apply for each school separately.</p>
+                    <?php echo $academic_year_start_date ?>, apply for each school separately.</p>
                 <form action="teacher-consent.php" method="POST" role="form">
                     <div class="govuk-form-group">
                         <fieldset class="govuk-fieldset" role="group">

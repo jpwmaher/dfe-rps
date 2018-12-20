@@ -45,8 +45,8 @@
                                 <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                     <h1 class="govuk-fieldset__heading">
                                         Where did you teach between
-                                        <?php echo $tax_year_start_date ?> and
-                                        <?php echo $tax_year_end_date ?>?
+                                        <?php echo $academic_year_start_date ?> and
+                                        <?php echo $academic_year_end_date ?>?
                                     </h1>
                                 </legend>
 

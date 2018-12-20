@@ -64,6 +64,15 @@
 
                                     <div class="govuk-radios__item">
 
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="check-teaching" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
+                    Maths
+                  </label>
+                                    </div>
+
+                                    <div class="govuk-radios__item">
+
                                         <input class="govuk-radios__input" id="check-teaching-conditional-languages" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-languages">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-languages">
@@ -71,14 +80,6 @@
                   </label>
                                     </div>
 
-                                    <div class="govuk-radios__item">
-
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="check-teaching" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
-                    Computer science
-                  </label>
-                                    </div>
 
                                     <div class="govuk-radios__item">
 
@@ -161,24 +162,24 @@
                                 </div>
 
                             </div>
+
+
+                            <div class="govuk-form-group">
+
+                                <button type="submit" class="govuk-button">Continue</button>
+
+                            </div>
+
+                        </fieldset>
                     </div>
 
-                    <div class="govuk-form-group">
+                </form>
 
-                        <button type="submit" class="govuk-button">Continue</button>
 
-                    </div>
-
-                    </fieldset>
             </div>
-
-            </form>
-
-
+            <div id="sidebar" class="large-4 cell no-top-border">
+            </div>
         </div>
-        <div id="sidebar" class="large-4 cell no-top-border">
-        </div>
-    </div>
     </div>
 
 

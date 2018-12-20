@@ -46,8 +46,14 @@
                         <?php echo $qualification_date  ?>
                     </li>
                     <li>still be teaching in a school in the UK</li>
-                    <li>have worked at a state-funded school or academy, in a special school (a school that teaches children who have special educational needs), a 16-19 school (including academies and free schools), or a sixth form or further education college in the last tax year</li>
-                    <li>have worked at a school that’s in a participating local authority area in England in the last tax year</li>
+                    <li>have worked at
+                        <ul>
+                            <li>a state-funded school or academy</li>
+                            <li>in a special school (a school that teaches children who have special educational needs)</li>
+                            <li>a 16-19 school (including academies and free schools)</li>
+                            <li>a sixth form or further education college in the last tax year</li>
+                            <li>have worked at a school that’s in a participating local authority area in England in the last tax year</li>
+                        </ul>
                 </ul>
                 <p class="govuk-body">If you worked in a state-funded school or academy, a 16-19 school, or further education college you must also have taught at least one of these subjects for at least 50% of your time there:</p>
                 <?php include("../includes/eligible-subjects.php"); ?>

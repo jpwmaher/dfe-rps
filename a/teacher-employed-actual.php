@@ -18,7 +18,7 @@
 
                 <!--   <div class="govuk-inset-text">You have successfully confirmed your identity.</div> -->
 
-                <form action="teacher-employed-actual.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-enter-trn.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>

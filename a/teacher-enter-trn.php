@@ -43,7 +43,7 @@
 
                 </form> -->
 
-                <form action="teacher-enter-ni-number.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-payment-method.php" method="POST" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>

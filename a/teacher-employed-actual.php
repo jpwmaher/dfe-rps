@@ -52,45 +52,45 @@
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Science (physics, chemistry or biology)</label>
                                 </div>
                                 <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-email">
+
                                     <div class="govuk-form-group">
-                                        <div class="govuk-form-group">
-                                            <label class="govuk-label" for="teacher-email-address">Which science subject did you teach the most?</label>
+                                        <label class="govuk-label" for="teacher-email-address">Which science subject did you teach the most?</label>
 
-                                            <div class="govuk-radios__item">
+                                        <div class="govuk-radios__item">
 
-                                                <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-physics">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-physics">
 
-                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
+                                            <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
                     Physics
                   </label>
-                                            </div>
-                                            <div class="govuk-radios__item">
+                                        </div>
+                                        <div class="govuk-radios__item">
 
-                                                <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-chemistry">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-chemistry">
 
-                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-chemistry">
+                                            <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-chemistry">
                     Chemistry
                   </label>
-                                            </div>
-                                            <div class="govuk-radios__item">
+                                        </div>
+                                        <div class="govuk-radios__item">
 
-                                                <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-biology">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-biology">
 
-                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-biology">
+                                            <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-biology">
                     Biology
                   </label>
-                                            </div>
-                                            <div class="govuk-radios__item">
+                                        </div>
+                                        <div class="govuk-radios__item">
 
-                                                <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
 
-                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
+                                            <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
                     Sciences are taught as one at <?php echo $_POST['teacher-school-name']; ?>
                   </label>
-                                            </div>
-
                                         </div>
+
                                     </div>
+
                                 </div>
 
                                 <div class="govuk-radios__item">

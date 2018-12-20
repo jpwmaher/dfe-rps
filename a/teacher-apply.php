@@ -43,16 +43,17 @@
                 <p class="govuk-body">You will need:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>your teacher reference number – you can get this from your school, the certificate you got when you qualified as a teacher or from the <a href="https://www.gov.uk/guidance/individual-teacher-records-information-for-teachers#contact">teacher qualifications helpdesk</a></li>
-                    <li>your National Insurance number</li>
                     <li>sign in details for ‘Verify’ (the government’s secure way of proving who you are) – if you do not have a Verify account, you will need your passport or photocard driving licence to sign up</li>
+                    <li>your bank account details</li>
                 </ul>
 
                 <h3 class="govuk-heading-m">We'll check your information</h3>
                 <p class="govuk-body">After you send your claim, we’ll ask your school to confirm:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>that you worked there in the last tax year</li>
+                    <li>that you taught one of the qualifying subjects for more than half of your time there</li>
                 </ul>
-                <p>If you worked at a state-funded school or academy, we'll also check that you taught one of the qualifying subjects for more than half of your time there.</p>
+
                 <h3 class="govuk-heading-m">You've worked at more than one school</h3>
                 <p class="govuk-body">If you've worked at more than one school since
                     <?php echo $academic_year_start_date ?>, apply for each school separately.</p>

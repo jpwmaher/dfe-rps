@@ -43,15 +43,54 @@
                             <br/>
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
+                                <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
+
                                 <div class="govuk-radios__item">
 
-                                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="teacher-contact-method" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-science" name="check-teaching" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
+                                    <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Science (physics, chemistry or biology)</label>
+                                </div>
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-contact-method-conditional-email">
+                                    <div class="govuk-form-group">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label" for="teacher-email-address">Which science subject did you teach the most?</label>
 
-                                    <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science">
-                    Science (physics, chemistry or biology)
+                                            <div class="govuk-radios__item">
+
+                                                <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-physics">
+
+                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
+                    Physics
                   </label>
+                                            </div>
+                                            <div class="govuk-radios__item">
+
+                                                <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-chemistry">
+
+                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-chemistry">
+                    Chemistry
+                  </label>
+                                            </div>
+                                            <div class="govuk-radios__item">
+
+                                                <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-biology">
+
+                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-biology">
+                    Biology
+                  </label>
+                                            </div>
+                                            <div class="govuk-radios__item">
+
+                                                <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
+
+                                                <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
+                    Sciences are taught as one at <?php echo $_POST['teacher-school-name']; ?>
+                  </label>
+                                            </div>
+
+                                        </div>
+                                    </div>
                                 </div>
 
                                 <div class="govuk-radios__item">
@@ -82,74 +121,7 @@
                   </label>
                                 </div>
 
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-check-teaching-conditional-other">
 
-                                    <div class="govuk-form-group ">
-
-
-
-                                        <label class="govuk-label" for="teaching-subject-other">
-                      Enter the subject or subjects you were employed to teach
-                    </label>
-                                        <input class="govuk-input govuk-!-width-two-thirds" id="teaching-subject-other" name="teaching-subject-other">
-
-                                    </div>
-
-                                    <div class="govuk-form-group ">
-
-                                        <fieldset class="govuk-fieldset">
-
-                                            <legend class="govuk-fieldset__legend govuk-fieldset__legend--m">
-                                                <h2 class="govuk-fieldset__heading">
-                                                    Which subject did you spend most of your time teaching?
-                                                </h2>
-                                            </legend>
-
-
-
-                                            <div class="govuk-radios">
-
-                                                <div class="govuk-radios__item">
-
-                                                    <input class="govuk-radios__input" id="teaching-time-science" name="check-teaching-time" type="radio" value="science">
-
-                                                    <label class="govuk-label govuk-radios__label" for="teaching-time-science">
-                            Science (physics, chemistry or biology)
-                          </label>
-                                                </div>
-
-                                                <div class="govuk-radios__item">
-
-                                                    <input class="govuk-radios__input" id="teaching-time-languages" name="check-teaching-time" type="radio" value="languages">
-
-                                                    <label class="govuk-label govuk-radios__label" for="teaching-time-languages">
-                            Languages (not including English)
-                          </label>
-                                                </div>
-
-                                                <div class="govuk-radios__item">
-
-                                                    <input class="govuk-radios__input" id="teaching-time-compscience" name="check-teaching-time" type="radio" value="compscience">
-
-                                                    <label class="govuk-label govuk-radios__label" for="teaching-time-compscience">
-                            Computer science
-                          </label>
-                                                </div>
-
-                                                <div class="govuk-radios__item">
-
-                                                    <input class="govuk-radios__input" id="teaching-time-other" name="check-teaching-time" type="radio" value="other">
-
-                                                    <label class="govuk-label govuk-radios__label" for="teaching-time-other">
-                            Other
-                          </label>
-                                                </div>
-                                            </div>
-
-                                        </fieldset>
-                                    </div>
-
-                                </div>
 
                             </div>
 

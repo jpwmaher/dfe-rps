@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -62,7 +63,7 @@
                             </legend>
 
                             <div class="govuk-form-group">
-                                <label class="govuk-label" for="teacher-trn">Teacher reference number</label>
+                                <!-- <label class="govuk-label" for="teacher-trn">Teacher reference number</label> -->
                                 <span class="form-error" id="example1Error1" data-form-error-for="teacher-school-name"><br/>
                                    Enter your teacher reference number
                                     </span>

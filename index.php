@@ -43,7 +43,7 @@
                     <thead class="govuk-table__head">
                         <tr class="govuk-table__row">
                             <th class="govuk-table__header col-1" scope="col">Prototype A<br>
-                                <span class="sub-heading">Initial journey outline</span></th>
+                                <span class="sub-heading">January usability sessions</span></th>
                             <th class="govuk-table__header col-2" scope="col"></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
                             <th class="govuk-table__header col-4" scope="col"></th>
@@ -53,7 +53,7 @@
                     <tbody class="govuk-table__body">
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/a/teacher-claim-bursary.php" class="govuk-link">A Latest</a>
+                                <a href="/a/teacher-claim-bursary.php" class="govuk-link">A - Teachers</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

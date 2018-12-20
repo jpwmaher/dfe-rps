@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -54,6 +55,8 @@
               </span>  -->
 
                                 <div class="govuk-radios govuk-radios--conditional" data-module="radios">
+
+                                    <input type="hidden" name="teacher-school-name" />
 
                                     <div class="govuk-radios__item">
 

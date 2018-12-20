@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -35,13 +36,15 @@
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
                                     What subject was the majority of time spent teaching at
-                                    <?php echo $_SESSION['teacher-school-name']; ?>
+                                    <?php echo $_POST['teacher-school-name']; ?>
                                 </h1>
                             </legend>
 
                             <div class="govuk-radios govuk-radios--conditional" data-module="radios">
 
                                 <div class="govuk-radios__item">
+
+                                    <input type="hidden" name="teacher-school-name" />
 
                                     <input class="govuk-radios__input" id="check-teaching-conditional-science" name="check-teaching" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
 

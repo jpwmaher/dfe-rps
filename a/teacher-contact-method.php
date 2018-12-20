@@ -12,12 +12,9 @@
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 
-    <!-- Footer1 -->
-    <?php include("../includes/masthead.php "); ?>
-
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
-    <?php include("../includes/alpha-banner.php"); ?>
+    <?php include("../includes/footer.php"); ?>
 
 
     <div class="grid-container">

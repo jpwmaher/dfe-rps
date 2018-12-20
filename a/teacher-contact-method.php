@@ -82,11 +82,10 @@
         </div>
     </div>
 
-
     <!-- Footer -->
     <?php include("../includes/footer.php "); ?>
 
-    <script type="text/javascript ">
+    <!--  <script type="text/javascript ">
         function get_action(form) {
             form.action = document.querySelector('input[name = "x "]:checked').value;
         }
@@ -113,7 +112,7 @@
             document.getElementById("conditional-contact-method-conditional-mobile ").style.display = 'none';
         }
 
-    </script>
+    </script> -->
 
     <?php include("../includes/javascript.php "); ?>
 </body>

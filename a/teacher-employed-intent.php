@@ -12,7 +12,6 @@
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
 
-
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
@@ -49,10 +48,7 @@
                         <p><i class="fi-alert"></i>
                             <?php echo $form_generic_error_message ?>
                         </p>
-                        <p><a href="#example1Error1">Please enter the subject you were employed to teach at <?php
-        $name = $_POST['name'];
-        echo $teacher-school-name
-      ?></a></p>
+                        <p><a href="#example1Error1">Please enter the subject you were employed to teach</a></p>
                     </div>
 
                     <div class="govuk-form-group ">
@@ -60,7 +56,8 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What subject were you employed to teach?
+                                    What subject were you employed to teach at
+                                    <?php echo $_POST['teacher-school-name'];      ?>?
                                 </h1>
                             </legend>
 

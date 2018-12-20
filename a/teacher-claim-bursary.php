@@ -1,4 +1,4 @@
-<?php include("../includes/session-start.php"); ?>
+<?php ?>
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 

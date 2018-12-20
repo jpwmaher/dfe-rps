@@ -1,3 +1,4 @@
-<?php 
-session_start(); 
+<?php
+// Start the session
+session_start();
 ?>

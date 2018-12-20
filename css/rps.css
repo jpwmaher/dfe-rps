@@ -3743,6 +3743,13 @@ only screen and (min-resolution: 2dppx) {
     clear: left;
 }
 
+.govuk-radios__conditional {
+    margin-bottom: 15px;
+    margin-left: 18px;
+    padding-left: 33px;
+    border-left: 4px solid #bfc1c3;
+}
+
 @media print {
     .govuk-radios__item {
         font-family: sans-serif;

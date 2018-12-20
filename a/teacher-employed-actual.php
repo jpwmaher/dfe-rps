@@ -57,7 +57,7 @@
                                     <div class="govuk-form-group">
                                         <label class="govuk-label" for="teacher-email-address">Which science subject did you teach the most?</label>
 
-                                        <div class="govuk-radios__item">
+                                        <div class="govuk-radios__item govuk-radios__conditional">
 
                                             <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-physics">
 
@@ -65,7 +65,7 @@
                     Physics
                   </label>
                                         </div>
-                                        <div class="govuk-radios__item">
+                                        <div class="govuk-radios__itemgovuk-radios__conditional">
 
                                             <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-chemistry">
 
@@ -73,7 +73,7 @@
                     Chemistry
                   </label>
                                         </div>
-                                        <div class="govuk-radios__item">
+                                        <div class="govuk-radios__conditional">
 
                                             <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-biology">
 

@@ -47,16 +47,12 @@
                             <th class="govuk-table__header col-2" scope="col"></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
                             <th class="govuk-table__header col-4" scope="col"></th>
-                            <th class="govuk-table__header col-5" scope="col"></th>
                         </tr>
                     </thead>
                     <tbody class="govuk-table__body">
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/a/teacher-claim-bursary.php" class="govuk-link">A - Teachers</a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

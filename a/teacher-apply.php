@@ -47,12 +47,12 @@
                     <li>your bank account details</li>
                 </ul>
 
-                <h3 class="govuk-heading-m">We'll check your information</h3>
+                <!--   <h3 class="govuk-heading-m">We'll check your information</h3>
                 <p class="govuk-body">After you send your claim, we’ll ask your school to confirm:</p>
                 <ul class="govuk-list govuk-list--bullet">
                     <li>that you worked there in the last academic year</li>
                     <li>that you taught one of the qualifying subjects for more than half of your time there, if applicable</li>
-                </ul>
+                </ul> -->
 
                 <h3 class="govuk-heading-m">You've worked at more than one school</h3>
                 <p class="govuk-body">If you've worked at more than one school since

@@ -17,39 +17,50 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <!--     <form name="quoted" method="POST" onsubmit="get_action(this);">
-                    <div class="form-group">
-                        <fieldset>
+                <form action="check-location-search" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
+                    <div class="govuk-form-group ">
+                        <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
 
-                            <legend>
-                                <h1 class="heading-medium">Where do you live?</h1>
+                            <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
+                                <h1 class="govuk-fieldset__heading">
+                                    When did you qualify as a teacher?
+                                </h1>
                             </legend>
 
-                            <div class="multiple-choice">
-                                <label for="x"><input type="radio" name="x" value="results-page-1.php" id = "x" checked="checked" />    <span>1</span></label>
+
+
+                            <div class="govuk-form-group">
+
+                                <div class="govuk-radios">
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="x" type="radio" value="results-page-1.php" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-qts-2012">On or after 1 September 2012</label>
+                                    </div>
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="x" type="radio" value="results-page-2.php" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-qts-none">Before 1 September 2012</label>
+
+                                    </div>
+                                </div>
                             </div>
-                            <div class="multiple-choice">
-                                <label for="x"><input type="radio" name="x" value="results-page-2.php" id = "x" /> <span>2</span>    </label>
+
+                            <div class="govuk-form-group">
+
+                                <button type="submit" class="govuk-button">Continue</button>
+
                             </div>
-                            <p class="form-block">or</p>
-                            <div class="multiple-choice">
-                                <input id="example-contact-by-email" type="radio" name="radio-contact-group" value="results-page-2.php">
-                                <label for="example-contact-by-email">Email</label>
-                            </div>
-                            <input id="submit1" type="submit"><br>
 
                         </fieldset>
                     </div>
                 </form>
 
-                <script type="text/javascript">
-                    function get_action(form) {
-                        form.action = document.querySelector('input[name = "x"]:checked').value;
-                    }
-
-                </script> -->
-
-                <form method="POST" role="form" onsubmit="get_action(this);">
+                <!--    <form method="POST" role="form" onsubmit="get_action(this);">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
@@ -91,7 +102,7 @@
                     <button type="submit" class="govuk-button">Continue</button>
 
 
-                </form>
+                </form> -->
 
                 <script type="text/javascript">
                     function get_action(form) {

@@ -1,5 +1,5 @@
 <?php ?>
-<!doctype html>
+<?php include("../includes/session-start.php"; ?><!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("includes/head.php"); ?>

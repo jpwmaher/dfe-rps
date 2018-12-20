@@ -6,7 +6,9 @@
 
 <?php include("../includes/variables.php"); ?>
 
-<body class="govuk-template__body js-enabled">
+<?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
+
+<body>
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
 

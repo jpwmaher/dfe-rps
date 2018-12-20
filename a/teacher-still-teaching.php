@@ -35,14 +35,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-still-teaching-yes" name="check-still-teaching" type="radio" value="yes">
+                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-qualified-itt.php" id="x">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-still-teaching-no" name="check-still-teaching" type="radio" value="no">
+                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-not-eligible.php" id="x">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

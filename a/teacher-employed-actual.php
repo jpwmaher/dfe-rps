@@ -143,6 +143,17 @@
         </div>
     </div>
 
+    <script>
+        function showSelect() {
+            var select = document.getElementById('conditional-contact-method-conditional-email');
+            select.className = 'show';
+        }
+
+        function hide() {
+            document.getElementById("conditional-contact-method-conditional-email").style.display = 'none';
+        }
+
+    </script>
 
     <!-- Footer -->
     <?php include("../includes/footer.php"); ?>

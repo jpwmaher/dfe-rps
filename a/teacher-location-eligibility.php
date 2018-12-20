@@ -17,12 +17,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-employed-intent.php" method="post">
-                    Name: <input type="text" name="name"><br> E-mail: <input type="text" name="email"><br>
-                    <input type="submit">
-                </form>
-
-                <!--    <form action="teacher-employed-intent.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-employed-intent.php" method="post" role="form" data-abide novalidate>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
@@ -61,7 +56,7 @@
                                    Enter the school name or postcode
                                     </span>
                                     </label>
-                                    <input id="teacher-school-name" class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
+                                    <input id="teacher-school-name" name="teacher-school-name" class="govuk-input  awesomplete" list="eligible-schools" required aria-errormessage="example1Error1" />
                                     <?php include("../includes/school-list.php"); ?>
 
                                 </div>

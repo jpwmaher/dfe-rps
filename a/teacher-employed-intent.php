@@ -56,8 +56,8 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    <?php echo $_POST["name"]; ?> - What subject were you employed to teach at
-                                    <?php echo $_POST["email"]; ?>
+                                    What subject were you employed to teach at
+                                    <?php echo $_POST["teacher-school-name"]; ?>
                                 </h1>
                             </legend>
 

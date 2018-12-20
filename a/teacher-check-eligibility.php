@@ -47,7 +47,7 @@
                         <?php echo $qualification_date  ?>
                     </li>
                     <li>still be teaching in a school in the UK</li>
-                    <li>have worked in a participating local authority area in England in the last academic year, at either
+                    <li>have worked in a participating local authority area in England in the last academic year, at either:
                         <ul>
                             <li>a state-funded school or academy</li>
                             <li>in a special school (a school that teaches children who have special educational needs)</li>

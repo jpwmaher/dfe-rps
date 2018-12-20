@@ -75,35 +75,6 @@
 
                 </form>
 
-                <script type="text/javascript ">
-                    function get_action(form) {
-                        form.action = document.querySelector('input[name = "x "]:checked').value;
-                    }
-
-                </script>
-                <script>
-                    function showSelect() {
-                        var select = document.getElementById('conditional-contact-method-conditional-email');
-                        select.className = 'show';
-                    }
-
-                    function hide() {
-                        document.getElementById("conditional-contact-method-conditional-email ").style.display = 'none';
-                    }
-
-                </script>
-                <script>
-                    function showSelect2() {
-                        var select = document.getElementById('conditional-contact-method-conditional-mobile');
-                        select.className = 'show';
-                    }
-
-                    function hide() {
-                        document.getElementById("conditional-contact-method-conditional-mobile ").style.display = 'none';
-                    }
-
-                </script>
-
             </div>
             <div id="sidebar " class="large-4 cell no-top-border ">
                 <!--      <button type="submit " name="skip-verify " value="yes " class="govuk-button hidden-button ">Skip Verify</button> -->
@@ -114,6 +85,35 @@
 
     <!-- Footer -->
     <?php include("../includes/footer.php "); ?>
+
+    <script type="text/javascript ">
+        function get_action(form) {
+            form.action = document.querySelector('input[name = "x "]:checked').value;
+        }
+
+    </script>
+    <script>
+        function showSelect() {
+            var select = document.getElementById('conditional-contact-method-conditional-email');
+            select.className = 'show';
+        }
+
+        function hide() {
+            document.getElementById("conditional-contact-method-conditional-email ").style.display = 'none';
+        }
+
+    </script>
+    <script>
+        function showSelect2() {
+            var select = document.getElementById('conditional-contact-method-conditional-mobile');
+            select.className = 'show';
+        }
+
+        function hide() {
+            document.getElementById("conditional-contact-method-conditional-mobile ").style.display = 'none';
+        }
+
+    </script>
 
     <?php include("../includes/javascript.php "); ?>
 </body>

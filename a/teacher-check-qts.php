@@ -35,7 +35,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-location-eligibility.php" id="x">
+                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-still-teaching.php" id="x">
 
                                         <label class="govuk-label govuk-radios__label" for="check-qts-2012">On or after <?php echo $qualification_date  ?></label>
                                     </div>

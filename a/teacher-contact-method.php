@@ -14,8 +14,6 @@
 
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
-    <?php include("../includes/footer.php"); ?>
-
 
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
@@ -86,7 +84,7 @@
     </div>
 
     <!-- Footer -->
-    <?php include("../includes/footer.php "); ?>
+    <?php include("../includes/footer.php"); ?>
 
     <script type="text/javascript ">
         function get_action(form) {

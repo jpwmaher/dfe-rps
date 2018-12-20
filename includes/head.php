@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/css/foundation.css" media="all">
     <link rel="stylesheet" href="/css/app.css" media="all">
     <link rel="stylesheet" href="/css/rps.css" media="all">
-    <link rel="stylesheet" href="/css/awesomeplete.css" media="all">
+    <link rel="stylesheet" href="/css/awesomplete.css" media="all">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.1.3/awesomplete.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.1.3/awesomplete.min.js" async=""></script>
 </head>

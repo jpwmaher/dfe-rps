@@ -87,84 +87,31 @@
                                     </div> -->
 
 
+
+
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-other" name="check-teaching" type="radio" value="other" aria-controls="conditional-check-teaching-conditional-other" aria-expanded="false">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-subject" aria-expanded="false" onchange="showSelect2();">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
                     Other
                   </label>
                                     </div>
 
-                                    <div class="govuk-radios__conditional govuk-radios__conditional--hidden" id="conditional-check-teaching-conditional-other">
+                                    <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-subject">
 
-                                        <div class="govuk-form-group ">
+                                        <div class="govuk-form-group govuk-radios__conditional">
 
+                                            <label class="govuk-label" for="teacher-ni">Please specify which subject you taught for more than 50% of your time</label>
 
+                                            <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
-                                            <label class="govuk-label" for="teaching-subject-other">
-                      Enter the subject or subjects you were employed to teach
-                    </label>
-                                            <input class="govuk-input govuk-!-width-two-thirds" id="teaching-subject-other" name="teaching-subject-other">
+                                            <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required pattern="alpha_numeric">
 
-                                        </div>
-
-                                        <div class="govuk-form-group ">
-
-                                            <fieldset class="govuk-fieldset">
-
-                                                <legend class="govuk-fieldset__legend govuk-fieldset__legend--m">
-                                                    <h2 class="govuk-fieldset__heading">
-                                                        Which subject did you spend most of your time teaching?
-                                                    </h2>
-                                                </legend>
-
-
-
-                                                <div class="govuk-radios">
-
-                                                    <div class="govuk-radios__item">
-
-                                                        <input class="govuk-radios__input" id="teaching-time-science" name="check-teaching-time" type="radio" value="science">
-
-                                                        <label class="govuk-label govuk-radios__label" for="teaching-time-science">
-                            Science (physics, chemistry or biology)
-                          </label>
-                                                    </div>
-
-                                                    <div class="govuk-radios__item">
-
-                                                        <input class="govuk-radios__input" id="teaching-time-languages" name="check-teaching-time" type="radio" value="languages">
-
-                                                        <label class="govuk-label govuk-radios__label" for="teaching-time-languages">
-                            Languages (not including English)
-                          </label>
-                                                    </div>
-
-                                                    <div class="govuk-radios__item">
-
-                                                        <input class="govuk-radios__input" id="teaching-time-compscience" name="check-teaching-time" type="radio" value="compscience">
-
-                                                        <label class="govuk-label govuk-radios__label" for="teaching-time-compscience">
-                            Computer science
-                          </label>
-                                                    </div>
-
-                                                    <div class="govuk-radios__item">
-
-                                                        <input class="govuk-radios__input" id="teaching-time-other" name="check-teaching-time" type="radio" value="other">
-
-                                                        <label class="govuk-label govuk-radios__label" for="teaching-time-other">
-                            Other
-                          </label>
-                                                    </div>
-                                                </div>
-
-                                            </fieldset>
+                                            <br/>
                                         </div>
 
                                     </div>
-
                                 </div>
 
                             </div>
@@ -193,6 +140,17 @@
     <?php include("../includes/footer.php"); ?>
 
     <?php include("../includes/javascript.php"); ?>
+    <script>
+        function showSelect2() {
+            var select = document.getElementById('conditional-subject');
+            select.className = 'show';
+        }
+
+        function hide() {
+            document.getElementById("conditional-subject").style.display = 'none';
+        }
+
+    </script>
 </body>
 
 </html>

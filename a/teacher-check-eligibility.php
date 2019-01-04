@@ -55,11 +55,11 @@
                             <li>a sixth form or further education college</li>
                         </ul>
                 </ul>
-                <p class="govuk-body">If you worked in a state-funded school or academy, a 16-19 school, or further education college you must also have taught at least one of these subjects for the majority of your time there:</p>
+                <p class="govuk-body">If you worked in a state-funded school or academy, a 16-19 school, or further education college you must also have taught at least one of these subjects for at least 50% of your time there:</p>
                 <?php include("../includes/eligible-subjects.php"); ?>
                 <p>If you worked in a special school, you do not need to have taught these subjects.</p>
 
-                <h3 class="govuk-heading-m">Participating local authority areas</h3>
+                <h3 class="govuk-heading-m">Potential participating local authority areas</h3>
                 <p>You can only claim your retention payment in certain areas in England – areas where there are fewer teachers in these subjects at the moment. To make a claim, you must have taught in one of these local authority areas:</p>
                 <?php include("../includes/participating-local-authorities.php"); ?>
 

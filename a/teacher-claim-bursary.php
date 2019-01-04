@@ -47,7 +47,7 @@
                     <?php echo $policy_criteria_start_date  ?>, teachers can claim a retention payment of
                     <?php echo $total_retention_payment  ?>.</p>
                 <p class="govuk-body">The scheme is for teachers in certain subjects and is only running in certain areas of England – areas that have fewer teachers in these subjects at the moment.</p>
-                <p class="govuk-body">The payments will be made as a lump sum of £2000 in the Spring term of 2018/19. You will not have to pay tax or National Insurance on it.</p>
+                <p class="govuk-body">The payments will be made as a lump sum of £2000 in the Autumn term of 2018/19. You will not have to pay tax or National Insurance on it.</p>
 
                 <nav class="tslr-pagination" role="navigation">
                     <ul>

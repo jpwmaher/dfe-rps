@@ -35,7 +35,7 @@
 
                         <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                             <h1 class="govuk-fieldset__heading">
-                                What subject was the majority of your time spent teaching at
+                                What subject was at least 50% of your time spent teaching at
                                 <?php echo $_POST['teacher-school-name']; ?>?
                             </h1>
                         </legend>
@@ -103,26 +103,39 @@
                   </label>
                                 </div>
 
-                                <div class="govuk-radios__item">
+                                <!--    <div class="govuk-radios__item">
 
                                     <input class="govuk-radios__input" id="check-teaching-conditional-languages" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-languages">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-languages">
                     Languages (not including English)
                   </label>
-                                </div>
+                                </div> -->
 
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-check-teaching-conditional-other" aria-expanded="false">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-subject" aria-expanded="false">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
                     Other
                   </label>
                                 </div>
 
+                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-subject">
 
+                                    <div class="govuk-form-group govuk-radios__conditional">
+
+                                        <label class="govuk-label" for="teacher-ni">National Insurance number</label>
+
+                                        <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
+
+                                        <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required pattern="alpha_numeric">
+
+                                        <br/>
+                                    </div>
+
+                                </div>
 
                             </div>
 
@@ -131,7 +144,6 @@
                                 <button type="submit" class="govuk-button">Continue</button>
 
                             </div>
-
 
                         </div>
                     </fieldset>
@@ -159,6 +171,18 @@
 
         function hide() {
             document.getElementById("conditional-contact-method-conditional-email").style.display = 'none';
+        }
+
+    </script>
+
+    <script>
+        function showSelect() {
+            var select = document.getElementById('conditional-subject');
+            select.className = 'show';
+        }
+
+        function hide() {
+            document.getElementById("conditional-subject").style.display = 'none';
         }
 
     </script>

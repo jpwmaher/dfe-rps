@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -57,7 +58,7 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What subject did you specialise in during initial teacher training?
+                                    What subject did you specialise in during your initial teacher training?
                                 </h1>
                             </legend>
 

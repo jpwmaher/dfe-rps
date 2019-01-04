@@ -122,20 +122,7 @@
                   </label>
                                 </div>
 
-                                <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-subject">
 
-                                    <div class="govuk-form-group govuk-radios__conditional">
-
-                                        <label class="govuk-label" for="teacher-ni">Please specify which subject you taught for more than 50% of your time</label>
-
-                                        <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
-
-                                        <input class="govuk-input " id="teacher-ni" name="teacher-ni" type="text" value="" required pattern="alpha_numeric">
-
-                                        <br/>
-                                    </div>
-
-                                </div>
 
                             </div>
 
@@ -175,17 +162,6 @@
 
     </script>
 
-    <script>
-        function showSelect2() {
-            var select = document.getElementById('conditional-subject');
-            select.className = 'show';
-        }
-
-        function hide() {
-            document.getElementById("conditional-subject").style.display = 'none';
-        }
-
-    </script>
 
     <!-- Footer -->
     <?php include("../includes/footer.php"); ?>

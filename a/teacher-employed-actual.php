@@ -48,7 +48,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="email" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="teacher-enter-trn.php" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Science (physics, chemistry or biology)</label>
                                 </div>

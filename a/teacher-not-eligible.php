@@ -16,7 +16,7 @@
         <div class="grid-x grid-padding-x grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <h1 class="govuk-heading-xl">
-                    Success page (content to follow)
+                    Ineligible page (content to follow)
                 </h1>
             </div>
         </div>

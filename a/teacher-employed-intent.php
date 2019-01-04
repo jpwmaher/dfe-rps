@@ -102,7 +102,7 @@
 
                                         <div class="govuk-form-group govuk-radios__conditional">
 
-                                            <label class="govuk-label" for="teacher-ni">Please specify which subject you taught for more than 50% of your time</label>
+                                            <label class="govuk-label" for="teacher-ni">Please specify</label>
 
                                             <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 

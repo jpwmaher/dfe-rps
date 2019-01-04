@@ -61,7 +61,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-science" name="check-teaching" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-science" name="x" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science">
                     Science (physics, chemistry or biology)
@@ -70,7 +70,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="check-teaching" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="x" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
                     Maths
@@ -127,6 +127,13 @@
                     </div>
 
                 </form>
+
+                <script type="text/javascript">
+                    function get_action(form) {
+                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
+
+                </script>
 
 
             </div>

@@ -59,7 +59,7 @@
 
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="x" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-physics">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="y" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-physics">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
                     Physics
@@ -67,7 +67,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-chemistry">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-chemistry" name="y" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-chemistry">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-chemistry">
                     Chemistry
@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-biology">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-biology" name="y" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-biology">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-biology">
                     Biology
@@ -83,7 +83,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="y" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
                     Sciences are taught as one at <?php echo $_POST['teacher-school-name']; ?>

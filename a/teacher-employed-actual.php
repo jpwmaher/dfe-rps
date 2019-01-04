@@ -115,7 +115,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-subject" aria-expanded="false" onchange="showSelect2();">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-other" name="x" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-subject" aria-expanded="false">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
                     Other

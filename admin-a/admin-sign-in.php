@@ -57,6 +57,7 @@
                                 <h1 class="govuk-fieldset__heading">
                                     DfE Sign-in
                                 </h1>
+                                <p class="govuk-body">DfE Sign-in is the new way to access some education sector services.</p>
                             </legend>
 
                             <div class="govuk-form-group">
@@ -84,6 +85,12 @@
 
 
                     <button type="submit" class="govuk-button">Sign in</button>
+
+                    <div class="govuk-form-group">
+                        <div class="govuk-inset-text">
+                            <p>By continuing you accept the <a href="#">terms and conditions</a>.</p>
+                        </div>
+                    </div>
 
 
                 </form>

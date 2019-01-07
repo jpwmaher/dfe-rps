@@ -86,7 +86,7 @@
                                             <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
-                    Sciences are taught as one at <?php echo $_POST['teacher-school-name']; ?>
+                    Combined sciences
                   </label>
                                         </div>
                                         <br/>

@@ -5,7 +5,6 @@ $worked = $_POST['worked'];
 $intent = $_POST['intent'];
     ?>
 
-
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -28,14 +27,7 @@ $intent = $_POST['intent'];
 
                 <!--   <div class="govuk-inset-text">You have successfully confirmed your identity.</div> -->
 
-                <form action="admin-claim-teacher-1.php" method="POST" role="form" data-abide novalidate>
-
-                    <div data-abide-error class="alert callout" style="display: none;">
-                        <p><i class="fi-alert"></i>
-                            <?php echo $form_generic_error_message ?>
-                        </p>
-                        <p><a href="#example1Error1">Please enter the subject you were employed to teach</a></p>
-                    </div>
+                <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
@@ -47,54 +39,31 @@ $intent = $_POST['intent'];
                             </legend>
 
                             <div class="govuk-form-group">
-                                <br/>
 
-
-                                <div class="govuk-radios govuk-radios--conditional" data-module="radios">
+                                <div class="govuk-radios">
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-science" name="intent" type="radio" value="Science" data-aria-controls="conditional-check-teaching-conditional-science">
+                                        <input class="govuk-radios__input" name="intent" type="radio" id="x" value="Science">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science">
-                    Science (physics, chemistry or biology)
-                  </label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Science</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="intent" type="radio" value="Maths" data-aria-controls="conditional-check-teaching-conditional-compscience">
+                                        <input class="govuk-radios__input" name="intent" type="radio" id="x" value="Maths">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
-                    Maths
-                  </label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">Maths</label>
                                     </div>
-
-
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-other" name="intent" type="radio" value="Other" aria-controls="conditional-subject" aria-expanded="false" onchange="showSelect2();">
+                                        <input class="govuk-radios__input" name="intent" type="radio" id="x" value="Other">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
-                    Other
-                  </label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">Other</label>
                                     </div>
 
-                                    <div class="govuk-radios__conditional govuk-radios__conditional--hidden hide" id="conditional-subject">
-
-                                        <div class="govuk-form-group govuk-radios__conditional">
-
-                                            <label class="govuk-label" for="teacher-ni">Please specify</label>
-
-                                            <input class="govuk-input " id="teacher-ni" name="intent" type="text" value="" pattern="alpha_numeric">
-
-                                            <br/>
-                                        </div>
-
-                                    </div>
                                 </div>
-
                             </div>
 
 

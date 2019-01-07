@@ -22,14 +22,13 @@
                     Check claims from teachers at Moorside High School
                 </h1>
 
-                <p class="govuk-body">These teachers have applied to claim back their student loan payments.</p>
+                <p class="govuk-body">These teachers have applied to claim a retention payment.</p>
                 <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:
                 </p>
 
                 <ul class="govuk-list govuk-list--bullet">
                     <li>the subject they taught</li>
                     <li>how much of their time was spent teaching that subject</li>
-                    <li>how much student loan they paid back through their wages</li>
                 </ul>
 
                 <p class="govuk-body">The teachers listed have given us permission to check these details with you.</p>
@@ -42,18 +41,10 @@
 
                             <ul class="app-task-list">
                                 <li>
-                                    <h2 class="app-task-list__section">To be completed (3)</h2>
+                                    <h2 class="app-task-list__section">To be completed (1)</h2>
                                     <ul class="app-task-list__items">
                                         <li class="app-task-list__item">
-                                            <button type="submit" class="button-as-link" formaction="admin-claim" name="claim-id" value="1">Jane Jones<span class="date-applied">Due by 11 Dec 2018</span></button>
-                                            <strong class="govuk-tag incomplete app-task-list__task-completed">To do</strong>
-                                        </li>
-                                        <li class="app-task-list__item">
-                                            <button type="submit" class="button-as-link" formaction="admin-claim" name="claim-id" value="2">Barbara Smith<span class="date-applied">Due by 12 Dec 2018</span></button>
-                                            <strong class="govuk-tag incomplete app-task-list__task-completed">To do</strong>
-                                        </li>
-                                        <li class="app-task-list__item">
-                                            <button type="submit" class="button-as-link" formaction="admin-claim" name="claim-id" value="3">David Powell<span class="date-applied">Due by 15 Dec 2018</span></button>
+                                            <button type="submit" class="button-as-link" formaction="admin-claim" name="claim-id" value="1">Jane Jones<span class="date-applied">Due by 11 Feb 2019</span></button>
                                             <strong class="govuk-tag incomplete app-task-list__task-completed">To do</strong>
                                         </li>
                                     </ul>

@@ -102,7 +102,7 @@ echo '</pre>'; ?>
                                         <?php echo $academic_year_end_date ?>?</dt>
 
                                 <?php 
-    if (!empty($_SESSION["worked"])) {
+    if (!empty($_POST["worked"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
                                     <?php echo $worked ?>
@@ -129,7 +129,7 @@ echo '</pre>'; ?>
 
 
                                 <?php 
-    if (!empty($_SESSION["intent"])) {
+    if (!empty($_POST["intent"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
                                     <?php echo $intent ?>

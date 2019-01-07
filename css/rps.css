@@ -119,6 +119,10 @@ ul {
     margin-left: 0px;
 }
 
+.app-task-list ul.app-task-list__items {
+    padding-left: 0px;
+}
+
 .hidden-button {
     opacity: 0.2;
 }

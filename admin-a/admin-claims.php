@@ -33,6 +33,7 @@
                                 <h1 class="govuk-fieldset__heading">
                                     Check claims from teachers at Moorside High School
                                 </h1>
+                                <br/>
                                 <p class="govuk-body">These teachers have applied to claim back their student loan payments.</p>
                                 <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:
                                 </p>
@@ -42,6 +43,7 @@
                                     <li>how much student loan they paid back through their wages</li>
                                 </ul>
                                 <p class="govuk-body">The teachers listed have given us permission to check these details with you.</p>
+                                <br/>
                                 <form action="admin-claim" method="POST" role="form">
                                     <div class="govuk-form-group">
                                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

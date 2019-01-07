@@ -1,5 +1,9 @@
 <?php ?>
 
+<?php 
+$worked = $_POST['worked'];
+    ?>
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 

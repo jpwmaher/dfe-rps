@@ -93,6 +93,8 @@
                                     <?php
 $username = isset($_POST['user']) ? $_POST['user'] : 'nobody';
 ?>
+
+                                        <?php echo $username ?>
                                 </dd>
 
                                 <dd class="app-check-your-answers__change">

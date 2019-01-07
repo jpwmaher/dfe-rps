@@ -77,8 +77,6 @@
                     </div>
                 </form>
 
-                <button type="submit" class="govuk-button">Sign in</button>
-
             </div>
 
             <div id="sidebar" class="large-4 cell no-top-border">

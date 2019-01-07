@@ -67,7 +67,7 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-name"><br/>
                                    Enter your email address
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required pattern="email">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="email" value="" required pattern="email">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="bank-account-number">Password</label>

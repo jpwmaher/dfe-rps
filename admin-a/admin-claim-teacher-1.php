@@ -85,7 +85,8 @@
                             <div class="app-check-your-answers__contents">
 
 
-                                <dt class="app-check-your-answers__question">Did they work at the school between 6 April 2018 and 5 April 2019?</dt>
+                                <dt class="app-check-your-answers__question">Did they work at the school between                                         <?php echo $academic_year_start_date ?> and
+                                        <?php echo $academic_year_end_date ?>?</dt>
 
                                 <dd class="app-check-your-answers__answer">Yes</dd>
 

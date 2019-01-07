@@ -88,7 +88,12 @@
                                 <dt class="app-check-your-answers__question">Did they work at the school between                                         <?php echo $academic_year_start_date ?> and
                                         <?php echo $academic_year_end_date ?>?</dt>
 
-                                <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+
+                                    <?php
+$username = isset($_POSY['user']) ? $_POST['user'] : 'nobody';
+?>
+                                </dd>
 
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" formaction="admin-confirm-location-eligibility">Update<span class="govuk-visually-hidden"> school eligibility</span></button>

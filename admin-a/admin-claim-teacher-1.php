@@ -91,7 +91,7 @@
                                 <dd class="app-check-your-answers__answer answer-incomplete">
 
                                     <?php
-$username = isset($_POSY['user']) ? $_POST['user'] : 'nobody';
+$username = isset($_POST['user']) ? $_POST['user'] : 'nobody';
 ?>
                                 </dd>
 

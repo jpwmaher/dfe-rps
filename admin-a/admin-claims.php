@@ -13,7 +13,14 @@
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
 
+    <!-- Breadcrumbs -->
+    <div class="govuk-breadcrumbs">
+        <ol class="govuk-breadcrumbs__list">
+            <li class="govuk-breadcrumbs__list-item" aria-current="page">All claims: Moorside High School</li>
+        </ol>
+    </div>
 
+    <!-- Main content -->
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
@@ -53,7 +60,7 @@
                                     <h2 class="app-task-list__section">Completed claims (1)</h2>
                                     <ul class="app-task-list__items">
                                         <li class="app-task-list__item">
-                                            ID: TSLR-089 <span class="date-applied">Completed on 05 Dec 2018</span>
+                                            ID: RPS-089 <span class="date-applied">Completed on 05 Dec 2018</span>
                                             <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Completed</strong>
                                         </li>
                                     </ul>

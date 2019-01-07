@@ -46,10 +46,7 @@
                         <!-- only add a heading for a list if there is more than one list -->
                         <h2 class="govuk-heading-m">Teacher details</h2>
 
-                        <!-- use additional modifier class to change column widths for multiple groups of questions and answers: -->
-                        <!--   * `app-check-your-answers--short` for short questions -->
-                        <!--   * `app-check-your-answers__questions-long` for long questions -->
-                        <!--   * none for single group of q&a -->
+
                         <dl class="app-check-your-answers app-check-your-answers--short">
 
                             <div class="app-check-your-answers__contents">
@@ -103,7 +100,7 @@
 
 
                                 <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="admin-confirm-location-eligibility">Update<span class="govuk-visually-hidden"> school eligibility</span></button>
+                                    <button type="submit" class="button-as-link" formaction="admin-confirm-worked.php">Update<span class="govuk-visually-hidden"> school eligibility</span></button>
                                 </dd>
 
                             </div>

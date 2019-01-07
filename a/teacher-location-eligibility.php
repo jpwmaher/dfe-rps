@@ -1,4 +1,16 @@
-<?php ?><!doctype html>
+<?php session_start(); ?>
+
+<?php 
+$worked = $_POST['worked'];
+$intent = $_POST['intent'];
+    ?>
+
+<?php 
+$_SESSION['worked'] = $_POST['worked'];
+$_SESSION['intent'] = $_POST['intent'];
+?>
+
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>

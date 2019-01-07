@@ -94,7 +94,7 @@ $worked = isset($_POST['worked']) ? $_POST['worked'] : 'Incomplete';
                                         <?php echo $academic_year_end_date ?>?</dt>
 
                                     <?php 
-    if (!empty($_POST["mail"])) {
+    if (!empty($_POST["worked"])) {
   ?>
                                     <dd class="app-check-your-answers__answer">
                                         <?php echo $worked ?>

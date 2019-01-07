@@ -39,14 +39,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x">
+                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="YEP">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x">
+                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="NOPE">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

@@ -101,7 +101,7 @@ $worked = isset($_POST['worked']) ? $_POST['worked'] : 'Incomplete';
                                     </dd>
                                     <?php } else { ?>
                                     <dd class="app-check-your-answers__answer answer-incomplete">
-                                        <?php echo $worked ?>
+                                        Incomplete
                                     </dd>
                                     <?php } ?>
 

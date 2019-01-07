@@ -2,6 +2,7 @@
 
 <?php 
 $worked = $_POST['worked'];
+$intent = $_POST['intent'];
     ?>
 
 <!doctype html>
@@ -117,10 +118,20 @@ $worked = $_POST['worked'];
                                 <dt class="app-check-your-answers__question">What subject were they originally employed to teach at Moorside High School?</dt>
 
 
-                                <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
+                                <?php 
+    if (!empty($_POST["intent"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $intent ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
 
                                 <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="admin-confirm-teaching-eligibility">Update<span class="govuk-visually-hidden"> teaching eligibility</span></button>
+                                    <a class="button-as-link" href="admin-employed-intent.php">Update</a>
                                 </dd>
 
                             </div>

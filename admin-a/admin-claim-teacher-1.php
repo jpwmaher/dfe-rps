@@ -100,7 +100,7 @@
 
 
                                 <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="admin-confirm-worked.php">Update<span class="govuk-visually-hidden"> school eligibility</span></button>
+                                    <a class="button-as-link" href="admin-confirm-worked.php">Update</a>
                                 </dd>
 
                             </div>

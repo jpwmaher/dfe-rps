@@ -27,6 +27,8 @@ $_SESSION['intent'] = $_POST['intent'];
 
                 <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
+                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_POST[ 'worked']);?>" />
+
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 

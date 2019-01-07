@@ -5,6 +5,10 @@ $worked = $_POST['worked'];
 $intent = $_POST['intent'];
     ?>
 
+<?php 
+$_SESSION['worked'] = $_POST['worked'];
+?>
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -92,7 +96,7 @@ $intent = $_POST['intent'];
                                         <?php echo $academic_year_end_date ?>?</dt>
 
                                 <?php 
-    if (!empty($_POST["worked"])) {
+    if (!empty($_SESSION["worked"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
                                     <?php echo $worked ?>
@@ -119,7 +123,7 @@ $intent = $_POST['intent'];
 
 
                                 <?php 
-    if (!empty($_POST["intent"])) {
+    if (!empty($_SESSION["intent"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
                                     <?php echo $intent ?>

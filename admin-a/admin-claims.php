@@ -41,6 +41,7 @@
 
                 <ul class="govuk-list govuk-list--bullet">
                     <li>the subject they taught</li>
+                    <li>the subject they were originally employed to teach at Moorside High School</li>
                     <li>how much of their time was spent teaching that subject</li>
                 </ul>
 

@@ -101,7 +101,7 @@
 
 
 
-                                <dt class="app-check-your-answers__question">Did they actually teach biology, chemistry, physics, computer science or languages (not English)?</dt>
+                                <dt class="app-check-your-answers__question">What subject were they originally employed to teach at Moorside High School?</dt>
 
 
                                 <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
@@ -116,26 +116,13 @@
                             <div class="app-check-your-answers__contents">
 
 
-                                <dt class="app-check-your-answers__question">Between 6 April 2018 and 5 April 2019, did they spend most of their scheduled hours teaching people who are 11 to 16 years old?</dt>
+                                <dt class="app-check-your-answers__question">Between <?php echo $academic_year_start_date ?> and
+                                        <?php echo $academic_year_end_date ?>, did they spend more than 50% of their time teaching Physics or Maths?</dt>
 
                                 <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
 
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" formaction="admin-confirm-phase-eligibility">Update<span class="govuk-visually-hidden"> educational phase</span></button>
-                                </dd>
-
-                            </div>
-
-
-                            <div class="app-check-your-answers__contents">
-
-
-                                <dt class="app-check-your-answers__question">How much student loan did they repay between 6 April 2018 and 5 April 2019?</dt>
-
-                                <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
-
-                                <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="admin-confirm-repayment-amount">Update<span class="govuk-visually-hidden"> student loan amount</span></button>
                                 </dd>
 
                             </div>

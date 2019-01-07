@@ -107,7 +107,7 @@
 <option id='St Clare's Catholic Primary School'>St Clare's Catholic Primary School</option>
 <option id='St Columba's Catholic Primary School'>St Columba's Catholic Primary School</option>
 <option id='St Joseph's Catholic Primary School'>St Joseph's Catholic Primary School</option>
-<option id='St Mary's &St Peter's Catholic Primary School'>St Mary's &St Peter's Catholic Primary School</option>
+<option id='St Mary's &St Peter's Catholic Primary School'>St Mary's & St Peter's Catholic Primary School</option>
 <option id='St William's Catholic Primary School'>St William's Catholic Primary School</option>
 <option id='St Francis Catholic Primary School'>St Francis Catholic Primary School</option>
 <option id='Our Lady and St Brendan's Catholic Primary School'>Our Lady and St Brendan's Catholic Primary School</option>
@@ -278,11 +278,9 @@
 <option id='Lower Fields Primary Academy'>Lower Fields Primary Academy</option>
     <option id='Montgomery High School'>Montgomery High School</option>
     <option id='St Marys Catholic Academy'>St Mary's Catholic Academy</option>
-    <option id='Dixons City Academy'>Dixons City Academy</option>
     <option id='Cowley International College'>Cowley International College</option>
     <option id='Hall Cross Academy'>Hall Cross Academy</option>
     <option id='Castleford Academy'>Castleford Academy</option>
     <option id='Brine Leas'>Brine Leas</option>
-    <option id='Castleford Academy'>Castleford Academy</option>
     <option id='Broadland High Ormiston Academy'>Broadland High Ormiston Academy</option>
 </datalist>

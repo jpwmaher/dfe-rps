@@ -42,7 +42,7 @@
 
                 </form> -->
 
-                <form action="teacher-contact-method.php" method="POST" role="form" novalidate data-abide>
+                <form action="admin-claims.php" method="POST" role="form" novalidate data-abide>
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>

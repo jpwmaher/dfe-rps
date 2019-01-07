@@ -18,21 +18,25 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-
-                <h1 class="govuk-fieldset__heading">
+                <h1 class="govuk-heading-xl">
                     Check claims from teachers at Moorside High School
                 </h1>
                 <br/>
+
                 <p class="govuk-body">These teachers have applied to claim back their student loan payments.</p>
                 <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:
                 </p>
+
                 <ul class="govuk-list govuk-list--bullet">
                     <li>the subject they taught</li>
                     <li>how much of their time was spent teaching that subject</li>
                     <li>how much student loan they paid back through their wages</li>
                 </ul>
+
                 <p class="govuk-body">The teachers listed have given us permission to check these details with you.</p>
+
                 <br/>
+
                 <form action="admin-claim" method="POST" role="form">
                     <div class="govuk-form-group">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

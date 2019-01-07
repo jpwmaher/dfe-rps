@@ -14,10 +14,16 @@
     <?php include("../includes/alpha-banner.php"); ?>
 
     <!-- Breadcrumbs -->
-    <div class="govuk-breadcrumbs">
-        <ol class="govuk-breadcrumbs__list">
-            <li class="govuk-breadcrumbs__list-item" aria-current="page">All claims: Moorside High School</li>
-        </ol>
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="govuk-breadcrumbs">
+                    <ol class="govuk-breadcrumbs__list">
+                        <li class="govuk-breadcrumbs__list-item" aria-current="page">All claims: Moorside High School</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Main content -->

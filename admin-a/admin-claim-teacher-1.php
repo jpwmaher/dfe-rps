@@ -96,11 +96,13 @@ $worked = isset($_POST['worked']) ? $_POST['worked'] : 'Incomplete';
                                     <?php 
     if (!empty($_POST["mail"])) {
   ?>
-                                    <dd class="app-check-your-answers__answer answer-incomplete">
+                                    <dd class="app-check-your-answers__answer">
                                         <?php echo $worked ?>
                                     </dd>
                                     <?php } else { ?>
-                                    <p>OH YEAH</p>
+                                    <dd class="app-check-your-answers__answer answer-incomplete">
+                                        <?php echo $worked ?>
+                                    </dd>
                                     <?php } ?>
 
                                     <!--      <dd class="app-check-your-answers__answer answer-incomplete">

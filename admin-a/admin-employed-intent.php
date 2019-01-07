@@ -49,7 +49,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-science" name="intent" type="radio" value="science" data-aria-controls="conditional-check-teaching-conditional-science">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-science" name="intent" type="radio" value="Science" data-aria-controls="conditional-check-teaching-conditional-science">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science">
                     Science (physics, chemistry or biology)
@@ -58,7 +58,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="intent" type="radio" value="compscience" data-aria-controls="conditional-check-teaching-conditional-compscience">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="intent" type="radio" value="Maths" data-aria-controls="conditional-check-teaching-conditional-compscience">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
                     Maths
@@ -79,7 +79,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-other" name="intent" type="radio" value="teacher-not-eligible.php" aria-controls="conditional-subject" aria-expanded="false" onchange="showSelect2();">
+                                        <input class="govuk-radios__input" id="check-teaching-conditional-other" name="intent" type="radio" value="Other" aria-controls="conditional-subject" aria-expanded="false" onchange="showSelect2();">
 
                                         <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-other">
                     Other

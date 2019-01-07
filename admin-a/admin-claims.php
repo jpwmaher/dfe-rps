@@ -21,7 +21,6 @@
                 <h1 class="govuk-heading-xl">
                     Check claims from teachers at Moorside High School
                 </h1>
-                <br/>
 
                 <p class="govuk-body">These teachers have applied to claim back their student loan payments.</p>
                 <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:

@@ -83,7 +83,7 @@
                     </div>
 
 
-                    <button type="submit" class="govuk-button">Continue</button>
+                    <button type="submit" class="govuk-button">Sign in</button>
 
 
                 </form>

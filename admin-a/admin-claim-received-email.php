@@ -42,7 +42,7 @@
 
 
     <!-- Footer -->
-    <!-- <?php include("../includes/footer.php"); ?>-->
+    <!-- <?php include("../includes/footer.php"); ?> -->
 
     <?php include("../includes/javascript.php"); ?>
 </body>

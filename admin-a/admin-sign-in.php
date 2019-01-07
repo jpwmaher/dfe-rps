@@ -74,7 +74,7 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-number"><br/>
                                    Enter your password
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="number" value="" required pattern="number">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-number" name="teacher-bank-account-number" type="password" value="" required>
                                     <p class="govuk-body-s"><a href="#">I've forgotten my password</a></p>
                                 </div>
 

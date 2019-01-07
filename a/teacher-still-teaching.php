@@ -1,4 +1,5 @@
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
@@ -17,7 +18,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="check-phase" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
+                <form action="teacher-qualified-itt.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
 

@@ -16,7 +16,7 @@
 
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
-            <div id="main-content-left-only" class="large-8 cell callout">
+            <div id="main-content-left-only" class="large-8 cell callout secondary">
 
 
                 <h2 class="govuk-heading-s">Subject</h2>
@@ -42,7 +42,7 @@
 
 
     <!-- Footer -->
-    <?php include("../includes/footer.php"); ?>
+    <!-- <?php include("../includes/footer.php"); ?>-->
 
     <?php include("../includes/javascript.php"); ?>
 </body>

@@ -66,7 +66,7 @@
                                     <span class="form-error" id="example1Error1" data-form-error-for="bank-account-name"><br/>
                                    Enter the name of the account holder
                                     </span>
-                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required pattern="alpha">
+                                    <input class="govuk-input govuk-!-width-two-thirds " id="teacher-bank-account-name" name="teacher-bank-account-name" type="text" value="" required pattern="letters_and_spaces">
                                 </div>
                                 <div class="govuk-form-group">
                                     <label class="govuk-label" for="bank-account-number">Account number</label>

@@ -57,7 +57,7 @@
                                     <h2 class="app-task-list__section">To be completed (1)</h2>
                                     <ul class="app-task-list__items">
                                         <li class="app-task-list__item">
-                                            <button type="submit" class="button-as-link" formaction="admin-claim" name="claim-id" value="1">Jane Jones<span class="date-applied">Due by 11 Feb 2019</span></button>
+                                            <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Jane Jones<span class="date-applied">Due by 11 Feb 2019</span></button>
                                             <strong class="govuk-tag incomplete app-task-list__task-completed">To do</strong>
                                         </li>
                                     </ul>

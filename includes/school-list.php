@@ -276,4 +276,13 @@
 <option id='Shipley CofE Primary School'>Shipley CofE Primary School</option>
 <option id='Crossley Hall Primary School'>Crossley Hall Primary School</option>
 <option id='Lower Fields Primary Academy'>Lower Fields Primary Academy</option>
+    <option id='Montgomery High School'>Montgomery High School</option>
+    <option id='St Marys Catholic Academy'>St Mary's Catholic Academy</option>
+    <option id='Dixons City Academy'>Dixons City Academy</option>
+    <option id='Cowley International College'>Cowley International College</option>
+    <option id='Hall Cross Academy'>Hall Cross Academy</option>
+    <option id='Castleford Academy'>Castleford Academy</option>
+    <option id='Brine Leas'>Brine Leas</option>
+    <option id='Castleford Academy'>Castleford Academy</option>
+    <option id='Broadland High Ormiston Academy'>Broadland High Ormiston Academy</option>
 </datalist>

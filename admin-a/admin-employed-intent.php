@@ -1,5 +1,11 @@
 <?php session_start(); ?>
 
+<?php 
+$worked = $_POST['worked'];
+$intent = $_POST['intent'];
+    ?>
+
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -64,16 +70,6 @@
                   </label>
                                     </div>
 
-                                    <!--    <div class="govuk-radios__item">
-
-                                        <input class="govuk-radios__input" id="check-teaching-conditional-languages" name="check-teaching" type="radio" value="languages" data-aria-controls="conditional-check-teaching-conditional-languages">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-languages">
-                    Languages (not including English)
-                  </label>
-                                    </div> -->
-
-
 
 
                                     <div class="govuk-radios__item">
@@ -90,8 +86,6 @@
                                         <div class="govuk-form-group govuk-radios__conditional">
 
                                             <label class="govuk-label" for="teacher-ni">Please specify</label>
-
-                                            <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
                                             <input class="govuk-input " id="teacher-ni" name="intent" type="text" value="" pattern="alpha_numeric">
 
@@ -114,13 +108,6 @@
                     </div>
 
                 </form>
-
-                <script type="text/javascript">
-                    function get_action(form) {
-                        form.action = document.querySelector('input[name = "x"]:checked').value;
-                    }
-
-                </script>
 
 
             </div>

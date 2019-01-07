@@ -57,7 +57,7 @@
                                 <h1 class="govuk-fieldset__heading">
                                     DfE Sign-in
                                 </h1>
-                                <p class="govuk-body">DfE Sign-in is the new way to access some education sector services.</p>
+                                <p class="govuk-body"><br/>DfE Sign-in is the new way to access some education sector services.</p>
                             </legend>
 
                             <div class="govuk-form-group">

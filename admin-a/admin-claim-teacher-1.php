@@ -6,8 +6,8 @@ $_SESSION['intent'] = $_POST['intent'];
 ?>
 
 <?php 
-$worked = $_SESSION['worked'];
-$intent = $_SESSION['intent'];
+$worked = $_POST['worked'];
+$intent = $_POST['intent'];
     ?>
 
 

@@ -26,6 +26,7 @@
                                 <h1 class="govuk-fieldset__heading">
                                     Check school information
                                 </h1>
+                                <br/>
                                 <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
                                     <?php echo $academic_year_start_date ?> and
                                     <?php echo $academic_year_end_date ?>?</p>
@@ -39,14 +40,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="YEP">
+                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="Yes">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="NOPE">
+                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="No">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

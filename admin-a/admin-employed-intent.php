@@ -5,19 +5,12 @@ $_SESSION['worked'] = $_POST['worked'];
 $_SESSION['intent'] = $_POST['intent'];
 ?>
 
-<?php 
-$worked = $_SESSION['worked'];
-$intent = $_SESSION['intent'];
-    ?>
-
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("../includes/head.php"); ?>
 
 <?php include("../includes/variables.php"); ?>
-
-<?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
 <body>
     <!-- Masthead -->

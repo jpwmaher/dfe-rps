@@ -5,10 +5,6 @@ $_SESSION['worked'] = $_POST['worked'];
 $_SESSION['intent'] = $_POST['intent'];
 ?>
 
-<?php 
-$worked = $_SESSION['worked'];
-$intent = $_SESSION['intent'];
-    ?>
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">

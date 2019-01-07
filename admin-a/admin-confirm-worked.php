@@ -26,9 +26,9 @@ $_SESSION['intent'] = $_POST['intent'];
             <div id="main-content-left-only" class="large-8 cell">
 
                 <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
-                    
-                    <input type="hidden" name="intent" value="<?=htmlspecialchars($_POST[ 'intent']);?>" />
-                    
+
+                    <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION[ 'intent']);?>" />
+
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
 

@@ -14,6 +14,10 @@
  } 
 ?>
 
+<?php 
+$intent = $_POST['intent'];
+$worked = $_POST['worked'];
+?>
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">

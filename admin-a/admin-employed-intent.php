@@ -1,8 +1,13 @@
 <?php session_start(); ?>
 
 <?php 
-$worked = $_POST['worked'];
-$intent = $_POST['intent'];
+$_SESSION['worked'] = $_POST['worked'];
+$_SESSION['intent'] = $_POST['intent'];
+?>
+
+<?php 
+$worked = $_SESSION['worked'];
+$intent = $_SESSION['intent'];
     ?>
 
 <!doctype html>

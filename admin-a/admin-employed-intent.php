@@ -1,14 +1,5 @@
 <?php session_start(); ?>
 
-<?php 
-$worked = $_POST['worked'];
-$intent = $_POST['intent'];
-    ?>
-
-<?php 
-$_SESSION['worked'] = $_POST['worked'];
-$_SESSION['intent'] = $_POST['intent'];
-?>
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -54,8 +45,6 @@ $_SESSION['intent'] = $_POST['intent'];
 
 
                                 <div class="govuk-radios govuk-radios--conditional" data-module="radios">
-
-                                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
 
                                     <div class="govuk-radios__item">
 

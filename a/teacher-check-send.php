@@ -29,12 +29,6 @@
             <div id="main-content-left" class="large-8 cell">
                 <h1 class="govuk-heading-xl">Check your answers</h1>
 
-                <?php 
-                echo '<pre>';
-var_dump($_SESSION);
-echo '</pre>';
-                ?>
-
                 <form action="teacher-success.php" method="POST" role="form">
                     <div class="govuk-form-group">
 
@@ -49,7 +43,7 @@ echo '</pre>';
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">School</dt>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $_SESSION["teacher-school-name"]; ?>
+                                    <?php echo $_POST['teacher-school-name']; ?>
                                 </dd>
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" value="location" name="teacher-check-send-edit" formaction="teacher-enter-location">Change<span class="govuk-visually-hidden"> school eligibility</span></button>

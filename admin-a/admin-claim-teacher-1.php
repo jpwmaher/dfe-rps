@@ -55,10 +55,6 @@ $worked = $_POST['worked'];
                     Retention payment claim details:
                 </h1>
 
-                <?php echo '<pre>';
-var_dump($_SESSION);
-echo '</pre>'; ?>
-
                 <br/>
 
                 <form action="admin-confirmation" method="POST" role="form">

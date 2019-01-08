@@ -43,8 +43,10 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    What subject were you originally employed to teach at Moorside High School?
+                                    Check school information
                                 </h1>
+                                <br/>
+                                <p class="govuk-body">What subject was <strong>Jane Jones</strong> originally employed to teach at Moorside High School?</p>
                             </legend>
 
                             <div class="govuk-form-group">

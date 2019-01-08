@@ -51,6 +51,8 @@
 
                 <form action="teacher-contact-method.php" method="POST" role="form" novalidate data-abide>
 
+                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
+
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
                             <?php echo $form_generic_error_message ?>

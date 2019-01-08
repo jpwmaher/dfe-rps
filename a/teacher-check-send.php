@@ -29,6 +29,12 @@
             <div id="main-content-left" class="large-8 cell">
                 <h1 class="govuk-heading-xl">Check your answers</h1>
 
+                <?php 
+                echo '<pre>';
+var_dump($_SESSION);
+echo '</pre>';
+                ?>
+
                 <form action="teacher-success.php" method="POST" role="form">
                     <div class="govuk-form-group">
 
@@ -73,11 +79,11 @@
 
                 <h2 class="govuk-heading-m">Confirm your claim</h2>
                 <p>By submitting this claim you are confirming that, to the best of your knowledge, the details you are providing are correct.</p>
-                <form action="teacher-enter-location-confirm" method="POST" role="form">
+                <form action="teacher-success.php" method="POST" role="form">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
-                            <button type="submit" class="govuk-button" formaction="teacher-confirmation">Confirm and send</button>
+                            <button type="submit" class="govuk-button" formaction="teacher-success.php">Confirm and send</button>
 
                         </fieldset>
                     </div>

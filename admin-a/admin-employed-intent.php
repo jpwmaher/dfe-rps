@@ -85,6 +85,10 @@
 
                             </div>
 
+                            <p class="govuk-body">
+                                <button type="submit" class="button-as-link" name="admin-claim-teacher-1.php" value="cancel">Skip for now</button>
+                            </p>
+
                         </fieldset>
                     </div>
 

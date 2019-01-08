@@ -53,9 +53,9 @@
                                     Check school information
                                 </h1>
                                 <br/>
-                                <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
+                                <p class="govuk-body">Between
                                     <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>?</p>
+                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p>
                             </legend>
 
 

@@ -64,7 +64,7 @@ $split = $_POST['split'];
 
                 <br/>
 
-                <form action="admin-confirmation" method="POST" role="form">
+                <form action="admin-confirmation.php" method="POST" role="form">
                     <div class="govuk-form-group">
 
                         <input id="admin-claim" name="admin-claim" type="hidden" value="true">

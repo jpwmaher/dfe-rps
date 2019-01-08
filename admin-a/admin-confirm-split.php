@@ -50,15 +50,15 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Check school information
+                                    Between
+                                    <?php echo $academic_year_start_date ?> and
+                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?
                                 </h1>
                                 <br/>
-                                <p class="govuk-body">Between
+                                <!--      <p class="govuk-body">Between
                                     <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p>
+                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p> -->
                             </legend>
-
-
 
                             <div class="govuk-form-group">
 

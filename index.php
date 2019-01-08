@@ -40,7 +40,7 @@
         <div class="grid-x grid-padding-x">
             <div class="cell">
                 <h2 class="govuk-heading-l">Latest and archived prototypes</h2>
-                <table class="govuk-table cols-5 unstriped">
+                <table class="govuk-table cols-4 unstriped">
                     <thead class="govuk-table__head">
                         <tr class="govuk-table__row">
                             <th class="govuk-table__header col-1" scope="col">Prototype A<br>

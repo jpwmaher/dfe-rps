@@ -53,7 +53,7 @@
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/a/teacher-claim-bursary.php" class="govuk-link">A - Teachers</a><br/>
-                                <a href="/admin-a/admin-claims.php" class="govuk-link">A - School Business Professionals</a>
+                                <a href="/admin-a/admin-claim-received-email.php" class="govuk-link">A - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

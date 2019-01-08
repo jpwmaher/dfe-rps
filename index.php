@@ -40,14 +40,13 @@
         <div class="grid-x grid-padding-x">
             <div class="cell">
                 <h2 class="govuk-heading-l">Latest and archived prototypes</h2>
-                <table class="govuk-table cols-4 unstriped">
+                <table class="govuk-table cols-3 unstriped">
                     <thead class="govuk-table__head">
                         <tr class="govuk-table__row">
                             <th class="govuk-table__header col-1" scope="col">Prototype A<br>
                                 <span class="sub-heading">January usability sessions</span></th>
                             <th class="govuk-table__header col-2" scope="col"></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
-                            <th class="govuk-table__header col-4" scope="col"></th>
                         </tr>
                     </thead>
                     <tbody class="govuk-table__body">
@@ -55,9 +54,6 @@
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/a/teacher-claim-bursary.php" class="govuk-link">A - Teachers</a><br/>
                                 <a href="/admin-a/admin-claims.php" class="govuk-link">A - School Business Professionals</a>
-                            </td>
-                            <td class="govuk-table__cell" valign="top">
-
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

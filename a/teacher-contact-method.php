@@ -74,7 +74,7 @@
                                     <div class="govuk-form-group govuk-radios__conditional">
                                         <label class="govuk-label " for="teacher-mobile-number ">Enter mobile number</label>
 
-                                        <input class="govuk-input govuk-!-width-two-thirds " id="teacher-mobile-number " name="teacher-mobile-number " type="number " value=" " pattern="number ">
+                                        <input class="govuk-input govuk-!-width-two-thirds " id="teacher-mobile-number " name="teacher-mobile-number" type="number " value=" " pattern="number ">
                                     </div>
 
                                 </div>

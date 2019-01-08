@@ -83,6 +83,9 @@ h1 {
     padding-top: 30px;
 }
 
+.app-check-your-answers__question {
+    font-weight: bold;
+}
 
 nav.tslr-pagination ul li a span.label {
     display: block;

@@ -14,6 +14,12 @@
  } 
 ?>
 
+<?php 
+ if (isset($_POST['split'])) { 
+ $_SESSION['split'] = $_POST['split'];
+ } 
+?>
+
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">

@@ -1,5 +1,6 @@
 <?php ?>
-<?php ?><!doctype html>
+<?php ?>
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
 <?php include("includes/head.php"); ?>
@@ -53,6 +54,7 @@
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/a/teacher-claim-bursary.php" class="govuk-link">A - Teachers</a>
+                                <a href="/admin-a/admin-claims.php" class="govuk-link">A - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

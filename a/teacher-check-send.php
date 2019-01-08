@@ -57,6 +57,7 @@
                                 <dd class="app-check-your-answers__answer">By
                                     <?php echo $_SESSION["teacher-contact-method"]; ?>:<br>
                                     <?php echo $_SESSION["teacher-email-address"]; ?>
+                                    <?php echo $_SESSION["teacher-mobile-number"]; ?>
 
                                 </dd>
 

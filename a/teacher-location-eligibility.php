@@ -2,6 +2,10 @@
 
 <?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
+<?php $_SESSION['teacher-contact-method'] = $_POST['teacher-contact-method']; ?>
+
+<?php $_SESSION['teacher-email-address'] = $_POST['teacher-email-address']; ?>
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 

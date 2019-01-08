@@ -15,8 +15,15 @@
 ?>
 
 <?php 
+ if (isset($_POST['split'])) { 
+ $_SESSION['split'] = $_POST['split'];
+ } 
+?>
+
+<?php 
 $intent = $_POST['intent'];
 $worked = $_POST['worked'];
+$split = $_POST['split'];
 ?>
 
 <!doctype html>
@@ -157,11 +164,22 @@ $worked = $_POST['worked'];
                                 <dt class="app-check-your-answers__question">Between <?php echo $academic_year_start_date ?> and
                                         <?php echo $academic_year_end_date ?>, did they spend more than 50% of their time teaching Physics or Maths?</dt>
 
-                                <dd class="app-check-your-answers__answer answer-incomplete">Incomplete</dd>
+                                <?php 
+    if (!empty($_SESSION["split"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $split ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
 
                                 <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="admin-confirm-phase-eligibility">Update<span class="govuk-visually-hidden"> educational phase</span></button>
+                                    <a class="button-as-link" href="admin-confirm-split.php">Update</a>
                                 </dd>
+
 
                             </div>
 

@@ -50,16 +50,6 @@
                                 </dd>
                             </div>
 
-                            <div class="app-check-your-answers__contents">
-                                <dt class="app-check-your-answers__question">Original subject</dt>
-                                <dd class="app-check-your-answers__answer">
-                                    Science
-                                </dd>
-                                <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" value="subject" name="teacher-check-send-edit" formaction="teacher-enter-subject">Change<span class="govuk-visually-hidden"> subject eligibility</span></button>
-                                </dd>
-                            </div>
-
 
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">How we'll contact you</dt>
@@ -71,7 +61,7 @@
                                 </dd>
 
                                 <dd class="app-check-your-answers__change">
-                                    <button type="submit" class="button-as-link" formaction="teacher-contact-method">Change<span class="govuk-visually-hidden"> contact method</span></button>
+                                    <button type="submit" class="button-as-link" formaction="teacher-contact-method.php">Change<span class="govuk-visually-hidden"> contact method</span></button>
                                 </dd>
                             </div>
 

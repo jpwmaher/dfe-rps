@@ -1,5 +1,7 @@
 <?php session_start(); ?>
 
+<?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 

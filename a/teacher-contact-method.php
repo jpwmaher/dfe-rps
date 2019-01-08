@@ -8,6 +8,8 @@
 
 <?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
+<?php $_SESSION['teacher-contact-method'] = $_POST['teacher-contact-method']; ?>
+
 <body class="govuk-template__body js-enabled">
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
@@ -19,7 +21,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-success.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
+                <form action="teacher-check-send.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">

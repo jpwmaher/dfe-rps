@@ -34,12 +34,6 @@
                         <p><a href="#example1Error1">Please enter the subject you were employed to teach</a></p>
                     </div>
 
-                    <?php 
-                echo '<pre>';
-var_dump($_SESSION);
-echo '</pre>';
-                ?>
-
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 

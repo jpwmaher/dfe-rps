@@ -56,9 +56,9 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="intent" type="radio" id="x" value="Science">
+                                        <input class="govuk-radios__input" name="intent" type="radio" id="x" value="Physics">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Science</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Physics</label>
                                     </div>
 
                                     <div class="govuk-radios__item">

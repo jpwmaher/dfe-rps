@@ -65,14 +65,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="Yes">
+                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="Yes">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="worked" type="radio" id="x" value="No">
+                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="No">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

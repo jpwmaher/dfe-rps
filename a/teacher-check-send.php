@@ -1,4 +1,8 @@
-<?php ?>
+<?php 
+
+ // starting the session
+ session_start();
+?>
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -14,16 +18,6 @@
 
     <!-- Alpha banner -->
     <?php include("../includes/alpha-banner.php"); ?>
-
-    <div id="h1-title" class="grid-container">
-        <div class="grid-x grid-padding-x grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
-                <h1 class="govuk-heading-xl">
-                    Success page (content to follow)
-                </h1>
-            </div>
-        </div>
-    </div>
 
 
     <div class="grid-container">
@@ -45,7 +39,7 @@
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">School</dt>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $_POST["teacher-school-name"]; ?>
+                                    <?php echo $_SESSION"teacher-school-name"]; ?>
                                 </dd>
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" value="location" name="teacher-check-send-edit" formaction="teacher-enter-location">Change<span class="govuk-visually-hidden"> school eligibility</span></button>

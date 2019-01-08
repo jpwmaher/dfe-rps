@@ -12,6 +12,10 @@
 
 <?php $_SESSION['teacher-school-name'] = $_POST['teacher-school-name']; ?>
 
+<?php $_SESSION['teacher-contact-method'] = $_POST['teacher-contact-method']; ?>
+
+<?php $_SESSION['teacher-email-address'] = $_POST['teacher-email-address']; ?>
+
 <body>
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>
@@ -39,7 +43,7 @@
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">School</dt>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $_SESSION"teacher-school-name"]; ?>
+                                    <?php echo $_SESSION["teacher-school-name"]; ?>
                                 </dd>
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" value="location" name="teacher-check-send-edit" formaction="teacher-enter-location">Change<span class="govuk-visually-hidden"> school eligibility</span></button>
@@ -61,7 +65,8 @@
                                 <dt class="app-check-your-answers__question">How we'll contact you</dt>
 
                                 <dd class="app-check-your-answers__answer">By
-                                    <?php echo $_SESSION["teacher-contact-method"]; ?>:<br> jon@hippodigital.co.uk
+                                    <?php echo $_SESSION["teacher-contact-method"]; ?>:<br>
+                                    <?php echo $_SESSION["teacher-email-address"]; ?>
 
                                 </dd>
 

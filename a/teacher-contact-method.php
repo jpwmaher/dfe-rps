@@ -14,6 +14,8 @@
 
 <?php $_SESSION['teacher-contact-method'] = $_POST['teacher-contact-method']; ?>
 
+<?php $_SESSION['teacher-email-address'] = $_POST['teacher-email-address']; ?>
+
 <body class="govuk-template__body js-enabled">
     <!-- Masthead -->
     <?php include("../includes/masthead.php"); ?>

@@ -29,6 +29,8 @@
 
                 <form action="teacher-check-send.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
+                    <input type="hidden" name="teacher-school-name" value="<?=htmlspecialchars($_POST[ 'teacher-school-name']);?>" />
+
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 

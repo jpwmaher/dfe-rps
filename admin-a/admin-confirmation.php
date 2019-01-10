@@ -31,8 +31,8 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <h1 class="govuk-heading-xl">You’ve checked their details</h1>
-                <p class="govuk-body">Thank you for checking details for Jane Jones.</p>
+                <h1 class="govuk-heading-xl">You’ve confirmed their details</h1>
+                <p class="govuk-body">Thank you for confirming details for Jane Jones.</p>
                 <h2 class="govuk-heading-m">What happens next</h2>
                 <p class="govuk-body">We’ll contact Jane Jones within {xx} days to update them about their claim.</p>
                 <p class="govuk-body">

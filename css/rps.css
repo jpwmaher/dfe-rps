@@ -129,6 +129,8 @@ ul.app-task-list ul.app-task-list__items {
 
 #summary-panel {
     background: #28a197;
+    color: white !important;
+    border: 0px !important;
 }
 
 .hidden-button {

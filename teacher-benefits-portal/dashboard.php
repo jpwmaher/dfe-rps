@@ -41,14 +41,14 @@
 
 
                 <div id="summary-panel" class="grid-x grid-padding-x grid-margin-x callout">
-                    <div class="large-4 cell">
-                        Hello
+                    <div class="large-8 cell">
+                        <h2>Jane Jones</h2>
                     </div>
                     <div class="large-4 cell">
-                        Hello
-                    </div>
-                    <div class="large-4 cell">
-                        Hello
+                        <p>Thornton Primary School</p>
+                        <p>Thornton Road</p>
+                        <p>Bradford</p>
+                        <p>BD13 3NN</p>
                     </div>
                 </div>
 

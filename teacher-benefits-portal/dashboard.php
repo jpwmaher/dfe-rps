@@ -23,7 +23,7 @@
             <div class="cell">
                 <div class="govuk-breadcrumbs">
                     <ol class="govuk-breadcrumbs__list">
-                        <li class="govuk-breadcrumbs__list-item" aria-current="page">Home</li>
+                        <li class="govuk-breadcrumbs__list-item" aria-current="page">Dashboard</li>
                     </ol>
                 </div>
             </div>
@@ -35,9 +35,9 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="cell">
 
-                <h1 class="govuk-heading-xl">
+                <!--  <h1 class="govuk-heading-xl">
                     Teacher Benefits Portal
-                </h1>
+                </h1> -->
 
 
                 <div id="summary-panel" class="grid-x grid-padding-x grid-margin-x callout">

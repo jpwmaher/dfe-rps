@@ -56,8 +56,8 @@
 
                     <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
-                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['split']);?>" />
-                    <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
+                    <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
+                    <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
@@ -80,14 +80,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="Yes">
+                                        <input class="govuk-radios__input" name="itt" type="radio" id="x" value="Yes">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="No">
+                                        <input class="govuk-radios__input" name="itt" type="radio" id="x" value="No">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

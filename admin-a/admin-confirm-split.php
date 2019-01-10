@@ -56,6 +56,8 @@
 
                     <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
+                    <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
+                    <input type="hidden" name="itt" value="<?=htmlspecialchars($_SESSION['itt']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

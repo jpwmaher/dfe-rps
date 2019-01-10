@@ -36,7 +36,7 @@
                 </h1>
 
                 <p class="govuk-body">These teachers have applied to claim a retention payment.</p>
-                <p class="govuk-body">To process the claims, we need you to confrm what the teacher has told us about:
+                <p class="govuk-body">To process the claims, we need you to confirm what the teacher has told us about:
                 </p>
 
                 <ul class="govuk-list govuk-list--bullet">

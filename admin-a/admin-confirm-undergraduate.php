@@ -63,36 +63,21 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?
+                                    Which subject is their undergraduate qualification in?
                                 </h1>
                                 <br/>
-                                <!--      <p class="govuk-body">Between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p> -->
                             </legend>
 
                             <div class="govuk-form-group">
+                                <label class="govuk-label" for="teacher-trn">Enter the subject you specialised in</label>
+                                <span class="form-error" id="example1Error1" data-form-error-for="undergraduate"><br/>
+                                   Enter the subject you specialised in
+                                    </span>
+                                <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
-                                <div class="govuk-radios">
-
-                                    <div class="govuk-radios__item">
-
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" id="x" value="Yes">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
-                                    </div>
-
-                                    <div class="govuk-radios__item">
-
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" id="x" value="No">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
-                                    </div>
-
-                                </div>
+                                <input class="govuk-input " id="undergraduate" name="undergraduate" type="text" value="" required>
                             </div>
+
 
                             <div class="govuk-form-group">
                                 <button type="submit" class="govuk-button">Continue</button>

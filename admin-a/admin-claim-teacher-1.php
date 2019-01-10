@@ -21,9 +21,23 @@
 ?>
 
 <?php 
+ if (isset($_POST['undergraduate'])) { 
+ $_SESSION['undergraduate'] = $_POST['undergraduate'];
+ } 
+?>
+
+<?php 
+ if (isset($_POST['itt'])) { 
+ $_SESSION['itt'] = $_POST['itt'];
+ } 
+?>
+
+<?php 
 $intent = $_POST['intent'];
 $worked = $_POST['worked'];
 $split = $_POST['split'];
+$undergraduate = $_POST['undergraduate'];
+$itt = $_POST['itt'];
 ?>
 
 <!doctype html>
@@ -160,10 +174,10 @@ $split = $_POST['split'];
                                 <dt class="app-check-your-answers__question">Which subject did they specialise in during initial teacher training?</dt>
 
                                 <?php 
-    if (!empty($_SESSION["intent"])) {
+    if (!empty($_SESSION["itt"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $intent ?>
+                                    <?php echo $itt ?>
                                 </dd>
                                 <?php } else { ?>
                                 <dd class="app-check-your-answers__answer answer-incomplete">
@@ -183,10 +197,10 @@ $split = $_POST['split'];
 
 
                                 <?php 
-    if (!empty($_SESSION["intent"])) {
+    if (!empty($_SESSION["undergraduate"])) {
   ?>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $intent ?>
+                                    <?php echo $undergraduate ?>
                                 </dd>
                                 <?php } else { ?>
                                 <dd class="app-check-your-answers__answer answer-incomplete">

@@ -134,9 +134,7 @@ $split = $_POST['split'];
 
                             <div class="app-check-your-answers__contents">
 
-
-
-                                <dt class="app-check-your-answers__question">What subject were they originally employed to teach at Moorside High School?</dt>
+                                <dt class="app-check-your-answers__question">Which subject were they originally employed to teach at Moorside High School?</dt>
 
 
                                 <?php 
@@ -153,6 +151,51 @@ $split = $_POST['split'];
 
                                 <dd class="app-check-your-answers__change">
                                     <a class="button-as-link" href="admin-employed-intent.php">Update</a>
+                                </dd>
+
+                            </div>
+
+                            <div class="app-check-your-answers__contents">
+
+                                <dt class="app-check-your-answers__question">Which subject did they specialise in during initial teacher training?</dt>
+
+                                <?php 
+    if (!empty($_SESSION["intent"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $intent ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
+
+                                <dd class="app-check-your-answers__change">
+                                    <a class="button-as-link" href="admin-confirm-itt.php">Update</a>
+                                </dd>
+
+                            </div>
+
+                            <div class="app-check-your-answers__contents">
+
+                                <dt class="app-check-your-answers__question">Which subject is their undergraduate qualification in?</dt>
+
+
+                                <?php 
+    if (!empty($_SESSION["intent"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $intent ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
+
+                                <dd class="app-check-your-answers__change">
+                                    <a class="button-as-link" href="admin-confirm-undergraduate.php">Update</a>
                                 </dd>
 
                             </div>

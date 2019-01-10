@@ -32,17 +32,19 @@
             <div id="main-content-left-only" class="large-8 cell">
 
                 <h1 class="govuk-heading-xl">
-                    Check claims from teachers at Moorside High School
+                    Check teacher claims
                 </h1>
 
                 <p class="govuk-body">These teachers have applied to claim a retention payment.</p>
-                <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:
+                <p class="govuk-body">To process the claims, we need you to confrm what the teacher has told us about:
                 </p>
 
                 <ul class="govuk-list govuk-list--bullet">
-                    <li>the subject they taught</li>
-                    <li>the subject they were originally employed to teach at Moorside High School</li>
-                    <li>how much of their time was spent teaching that subject</li>
+                    <li>whether they worked at Moorside High School during the claim period</li>
+                    <li>which subject they were originally employed to teach at Moorside High School</li>
+                    <li>which subject they specialised in during initial teacher training</li>
+                    <li>which subject their undergraduate qualification is in</li>
+                    <li>whether at least 50% of their time was spent teaching physics or maths</li>
                 </ul>
 
                 <p class="govuk-body">The teachers listed have given us permission to check these details with you.</p>

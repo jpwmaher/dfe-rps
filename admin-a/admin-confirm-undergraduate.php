@@ -20,18 +20,6 @@
  } 
 ?>
 
-<?php 
- if (isset($_POST['itt'])) { 
- $_SESSION['itt'] = $_POST['itt'];
- } 
-?>
-
-<?php 
- if (isset($_POST['undergraduate'])) { 
- $_SESSION['undergraduate'] = $_POST['undergraduate'];
- } 
-?>
-
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">

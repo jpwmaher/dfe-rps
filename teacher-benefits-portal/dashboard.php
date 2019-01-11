@@ -54,8 +54,8 @@
                         <span>Role:</span>
                         <h4>Teacher of Science</h4>
                         <span>Current school:</span>
-                        <p>Thornton Primary School<br> Thornton Road<br> Bradford
-                            <br> BD13 3NN</p>
+                        <p><strong>Thornton Primary School<br> Thornton Road<br> Bradford
+                            <br> BD13 3NN</strong></p>
                     </div>
                     <div class="large-4 cell">
                         <span>Email:</span>

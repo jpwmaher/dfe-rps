@@ -34,7 +34,7 @@
 
     <!-- Main content -->
     <div class="grid-container">
-        <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
+        <div class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="cell">
 
                 <!--  <h1 class="govuk-heading-xl">

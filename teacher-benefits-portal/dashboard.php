@@ -92,7 +92,7 @@
                                 <h2 class="app-task-list__section">Future benefits (1)</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Three Year Bonus Payment<span class="date-applied">Available 01-Sep-2019</span></button>
+                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Three Year Bonus Payment<!-- <span class="date-applied">Available 01-Sep-2019</span> --> </button>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed">Available 01-Sep-2019</strong>
                                     </li>
 

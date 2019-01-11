@@ -95,6 +95,15 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="large-4 cell primary callout">
+                        Menu:
+                        <ul>
+                            <li>Menu item</li>
+                            <li>Menu item</li>
+                            <li>Menu item</li>
+                            <li>Menu item</li>
+                        </ul>
+                    </div>
                 </div>
 
             </div>

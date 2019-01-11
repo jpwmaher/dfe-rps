@@ -88,8 +88,8 @@
                                 <h2 class="app-task-list__section">Elapsed benefits (1)</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
-                                        <span class="date-applied">Completed on 05 Dec 2018</span>
-                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Completed</strong>
+                                        Science Golden Handshake<span class="date-applied">Elapsed on 30-Jun-2017</span>
+                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Elapsed</strong>
                                     </li>
                                 </ul>
                             </li>

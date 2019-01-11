@@ -103,6 +103,7 @@
                         <h5>Menu:</h5>
                         <ul class="govuk-list">
                             <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My contact details</a></li>
+                            <li>— <a class="govuk-link" href="#">My qualifications</a></li>
                             <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My bank details</a></li>
                             <li>— <a class="govuk-link" href="#">My payments</a></li>
                         </ul>

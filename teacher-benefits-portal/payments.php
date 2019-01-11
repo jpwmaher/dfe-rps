@@ -79,11 +79,11 @@
                                 <!-- <h2 class="app-task-list__section">Recent payments</h2> -->
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Teachers' Student Loan Repayment<span class="date-applied">Payment made 04-Apr-2018</span></button>
+                                        Teachers' Student Loan Repayment<span class="date-applied">Payment made 04-Apr-2018</span>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed green">Paid</strong>
                                     </li>
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Teachers' Student Loan Repayment<span class="date-applied">Payment made 12-Dec-2018</span></button>
+                                        Teachers' Student Loan Repayment<span class="date-applied">Payment made 12-Dec-2018</span>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed green">Paid</strong>
                                     </li>
                                     <li class="app-task-list__item">

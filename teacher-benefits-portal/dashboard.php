@@ -69,6 +69,7 @@
 
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-8 cell">
+                        <h2>My perks</h2>
                         <ul class="app-task-list">
                             <li>
                                 <h2 class="app-task-list__section">To be completed (1)</h2>

@@ -23,7 +23,9 @@
             <div class="cell">
                 <div class="govuk-breadcrumbs">
                     <ol class="govuk-breadcrumbs__list">
-                        <li class="govuk-breadcrumbs__list-item" aria-current="page">Dashboard</li>
+                        <li class="govuk-breadcrumbs__list-item" aria-current="page">
+                            <?php echo $service_name ?>
+                        </li>
                     </ol>
                 </div>
             </div>

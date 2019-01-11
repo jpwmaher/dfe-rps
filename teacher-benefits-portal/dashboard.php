@@ -51,6 +51,8 @@
                     <div class="large-4 cell">
                         <p>TRN:</p>
                         <h3>1234-5678</h3>
+                        <p>Date qualified:</p>
+                        <h3>01-Sep-2016</h3>
                     </div>
                 </div>
 

@@ -48,7 +48,7 @@
 
                     </div>
                     <div class="large-4 cell">
-                        <h3>Teacher of Science</h3>
+                        <h4>Teacher of Science</h4>
                         <p>Thornton Primary School<br> Thornton Road<br> Bradford
                             <br> BD13 3NN</p>
                     </div>

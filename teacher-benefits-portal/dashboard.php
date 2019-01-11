@@ -67,6 +67,31 @@
                 </div>
 
 
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-8 cell">
+                        <ul class="app-task-list">
+                            <li>
+                                <h2 class="app-task-list__section">To be completed (1)</h2>
+                                <ul class="app-task-list__items">
+                                    <li class="app-task-list__item">
+                                        <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Jane Jones<span class="date-applied">Due by 11 Feb 2019</span></button>
+                                        <strong class="govuk-tag incomplete app-task-list__task-completed">To do</strong>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h2 class="app-task-list__section">Completed claims (1)</h2>
+                                <ul class="app-task-list__items">
+                                    <li class="app-task-list__item">
+                                        Ian Roberts <span class="date-applied">Completed on 05 Dec 2018</span>
+                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Completed</strong>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
             </div>
 
         </div>

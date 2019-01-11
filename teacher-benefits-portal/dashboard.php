@@ -100,13 +100,12 @@
                         </ul>
                     </div>
                     <div class="large-4 cell primary callout">
-                        Menu:
-                        <ul>
-                            <li>Menu item</li>
-                            <li>Menu item</li>
-                            <li>Menu item</li>
-                            <li>Menu item</li>
-                        </ul>
+                        <h5>Menu:</h5>
+<ul class="govuk-list">
+                        <li>— About this scheme</li>
+                        <li>— <a class="govuk-link" href="teacher-check-eligibility.php">Check if you’re eligible</a></li>
+                        <li>— <a class="govuk-link" href="teacher-apply.php">Make a claim</a></li>
+                    </ul>
                     </div>
                 </div>
 

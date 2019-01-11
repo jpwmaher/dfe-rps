@@ -84,18 +84,8 @@
                                     </li>
                                     <li class="app-task-list__item">
                                         Teachers' Student Loan Repayment<span class="date-applied">Payment expected 04-Apr-2019</span>
-                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Payment due</strong>
+                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Due</strong>
                                     </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <h2 class="app-task-list__section"></h2>
-                                <ul class="app-task-list__items">
-                                    <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Three Year Bonus Payment<!-- <span class="date-applied">Available 01-Sep-2019</span> --> </button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed">Available 01-Sep-2019</strong>
-                                    </li>
-
                                 </ul>
                             </li>
                         </ul>

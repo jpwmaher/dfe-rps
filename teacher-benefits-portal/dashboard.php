@@ -102,7 +102,8 @@
                     <div class="large-4 cell primary callout">
                         <h5>Menu:</h5>
                         <ul class="govuk-list">
-                            <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My details</a></li>
+                            <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My contact details</a></li>
+                            <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My bank details</a></li>
                             <li>— <a class="govuk-link" href="#">My payments</a></li>
                         </ul>
                     </div>

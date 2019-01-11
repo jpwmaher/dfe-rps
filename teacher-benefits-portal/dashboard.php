@@ -72,7 +72,7 @@
                         <h2>My benefits</h2>
                         <ul class="app-task-list">
                             <li>
-                                <h2 class="app-task-list__section">Available benefits (2)</h2>
+                                <h2 class="app-task-list__section">Available benefits (3)</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teachers' Student Loan Repayment<span class="date-applied">Active until 6-Apr-2019</span></button>
@@ -102,9 +102,9 @@
                     <div class="large-4 cell primary callout">
                         <h5>Menu:</h5>
                         <ul class="govuk-list">
-                            <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My contact details</a></li>
+                            <li>— <a class="govuk-link" href="#">My contact details</a></li>
                             <li>— <a class="govuk-link" href="#">My qualifications</a></li>
-                            <li>— <a class="govuk-link" href="teacher-check-eligibility.php">My bank details</a></li>
+                            <li>— <a class="govuk-link" href="#">My bank details</a></li>
                             <li>— <a class="govuk-link" href="#">My payments</a></li>
                         </ul>
                     </div>

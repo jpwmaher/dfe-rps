@@ -66,6 +66,7 @@
                     </div>
                 </div>
 
+                <br/>
 
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-8 cell">
@@ -119,7 +120,6 @@
                         </ul>
                     </div>
                 </div>
-                <br/>
             </div>
 
         </div>

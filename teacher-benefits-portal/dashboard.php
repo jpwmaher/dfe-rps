@@ -72,7 +72,7 @@
                         <h2>My benefits</h2>
                         <ul class="app-task-list">
                             <li>
-                                <h2 class="app-task-list__section">Available benefits (1)</h2>
+                                <h2 class="app-task-list__section">Available benefits (2)</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teacher Student Loan Repayment<span class="date-applied">Due by 11 Feb 2019</span></button>

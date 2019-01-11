@@ -43,8 +43,12 @@
 
 
                 <div id="summary-panel" class="grid-x grid-padding-x grid-margin-x callout">
-                    <div class="large-8 cell">
+                    <div class="large-4 cell">
                         <h2>Jane Jones</h2>
+
+                    </div>
+                    <div class="large-4 cell">
+                        <h3>Teacher of Science</h3>
                         <p>Thornton Primary School<br> Thornton Road<br> Bradford
                             <br> BD13 3NN</p>
                     </div>

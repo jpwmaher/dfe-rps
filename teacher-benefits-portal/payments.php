@@ -73,42 +73,29 @@
 
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-8 cell">
-                        <h2>My benefits</h2>
+                        <h2>Payment history</h2>
                         <ul class="app-task-list">
                             <li>
-                                <h2 class="app-task-list__section">Available benefits (3)</h2>
+                                <h2 class="app-task-list__section">Recent payments</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1"><a href="#">Teachers' Student Loan Repayment</a><span class="date-applied">Active until 6-Apr-2019</span></button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
+                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1"><a href="#">Teachers' Student Loan Repayment</a><span class="date-applied">Payment made 12-Dec-2018</span></button>
+                                        <strong class="govuk-tag incomplete app-task-list__task-completed green">Paid</strong>
                                     </li>
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1"><a href="#">Teachers' Pension Scheme</a><span class="date-applied"></span></button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
-                                    </li>
-                                    <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="https://dfe-rps.herokuapp.com/a/teacher-consent.php" name="claim-id" value="1"><a href="https://dfe-rps.herokuapp.com/a/teacher-consent.php">Physics Retention Payment</a><span class="date-applied">Apply by 28-Feb-2019</span></button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed">Available</strong>
+                                        Teachers' Student Loan Repayment<span class="date-applied">Payment expected 04-Apr-2019</span>
+                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Payment due</strong>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <h2 class="app-task-list__section">Future benefits (1)</h2>
+                                <h2 class="app-task-list__section"></h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1">Three Year Bonus Payment<!-- <span class="date-applied">Available 01-Sep-2019</span> --> </button>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed">Available 01-Sep-2019</strong>
                                     </li>
 
-                                </ul>
-                            </li>
-                            <li>
-                                <h2 class="app-task-list__section">Elapsed benefits (1)</h2>
-                                <ul class="app-task-list__items">
-                                    <li class="app-task-list__item">
-                                        Science Golden Handshake<span class="date-applied">Elapsed on 30-Jun-2017</span>
-                                        <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Elapsed</strong>
-                                    </li>
                                 </ul>
                             </li>
                         </ul>

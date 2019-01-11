@@ -76,7 +76,7 @@
                         <h2>Payment history</h2>
                         <ul class="app-task-list">
                             <li>
-                                <h2 class="app-task-list__section">Recent payments</h2>
+                                <!-- <h2 class="app-task-list__section">Recent payments</h2> -->
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="" name="claim-id" value="1"><a href="#">Teachers' Student Loan Repayment</a><span class="date-applied">Payment made 12-Dec-2018</span></button>

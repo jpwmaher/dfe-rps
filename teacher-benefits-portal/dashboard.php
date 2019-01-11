@@ -105,7 +105,7 @@
                             <li>— <a class="govuk-link" href="#">My contact details</a></li>
                             <li>— <a class="govuk-link" href="#">My qualifications</a></li>
                             <li>— <a class="govuk-link" href="#">My bank details</a></li>
-                            <li>— <a class="govuk-link" href="#">My payments</a></li>
+                            <li>— <a class="govuk-link" href="#">Payments</a></li>
                         </ul>
                     </div>
                 </div>

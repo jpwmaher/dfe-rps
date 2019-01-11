@@ -46,9 +46,9 @@
                     <div class="large-4 cell">
                         <h2>Jane Jones</h2>
                         <span>TRN:</span>
-                        <h3>1234-5678</h3>
+                        <h4>1234-5678</h4>
                         <span>Date qualified:</span>
-                        <h3>01-Sep-2016</h3>
+                        <h4>01-Sep-2016</h4>
                     </div>
                     <div class="large-4 cell">
                         <h4>Teacher of Science</h4>
@@ -58,9 +58,9 @@
                     </div>
                     <div class="large-4 cell">
                         <span>Email:</span>
-                        <h3>j.jones@thornton-primary.ac.uk</h3>
+                        <h4>j.jones@thornton-primary.ac.uk</h4>
                         <span>Mobile:</span>
-                        <h3>07123456789</h3>
+                        <h4>07123456789</h4>
                     </div>
                 </div>
 

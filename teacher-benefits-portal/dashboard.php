@@ -51,8 +51,9 @@
                         <h4>01-Sep-2016</h4>
                     </div>
                     <div class="large-4 cell">
+                        <span>Role:</span>
                         <h4>Teacher of Science</h4>
-                        <p>at</p>
+                        <span>Current school:</span>
                         <p>Thornton Primary School<br> Thornton Road<br> Bradford
                             <br> BD13 3NN</p>
                     </div>

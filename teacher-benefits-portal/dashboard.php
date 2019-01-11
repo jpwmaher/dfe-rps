@@ -75,7 +75,11 @@
                                 <h2 class="app-task-list__section">Available benefits (2)</h2>
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teacher Student Loan Repayment<span class="date-applied">Due by 11 Feb 2019</span></button>
+                                        <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teachers' Student Loan Repayment<span class="date-applied">Due by 11 Feb 2019</span></button>
+                                        <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
+                                    </li>
+                                    <li class="app-task-list__item">
+                                        <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teachers' Pension Scheme<span class="date-applied">Due by 11 Feb 2019</span></button>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
                                     </li>
                                     <li class="app-task-list__item">

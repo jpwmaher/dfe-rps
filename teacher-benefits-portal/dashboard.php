@@ -45,18 +45,22 @@
                 <div id="summary-panel" class="grid-x grid-padding-x grid-margin-x callout">
                     <div class="large-4 cell">
                         <h2>Jane Jones</h2>
-
-                    </div>
-                    <div class="large-4 cell">
-                        <h4>Teacher of Science</h4>
-                        <p>Thornton Primary School<br> Thornton Road<br> Bradford
-                            <br> BD13 3NN</p>
-                    </div>
-                    <div class="large-4 cell">
                         <span>TRN:</span>
                         <h3>1234-5678</h3>
                         <span>Date qualified:</span>
                         <h3>01-Sep-2016</h3>
+                    </div>
+                    <div class="large-4 cell">
+                        <h4>Teacher of Science</h4>
+                        <p>at</p>
+                        <p>Thornton Primary School<br> Thornton Road<br> Bradford
+                            <br> BD13 3NN</p>
+                    </div>
+                    <div class="large-4 cell">
+                        <span>Email:</span>
+                        <h3>j.jones@thornton-primary.ac.uk</h3>
+                        <span>Mobile:</span>
+                        <h3>07123456789</h3>
                     </div>
                 </div>
 

@@ -6182,6 +6182,13 @@ p.callout {
     padding: 2em;
 }
 
+.callout.primary {
+    background-color: #efefef;
+    color: #0a0a0a;
+    padding: 15px;
+    border: 0px;
+}
+
 /* Awesomplete */
 
 div.awesomplete {

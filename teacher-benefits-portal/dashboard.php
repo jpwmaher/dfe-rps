@@ -62,6 +62,7 @@
                         <h4>j.jones@thornton-primary.ac.uk</h4>
                         <span>Mobile:</span>
                         <h4>07123456789</h4>
+                        <a href="#">Change my contact details</a>
                     </div>
                 </div>
 

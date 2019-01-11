@@ -133,6 +133,11 @@ ul.app-task-list ul.app-task-list__items {
     border: 0px !important;
 }
 
+.green {
+    background: #28a197 !important;
+}
+
+
 #summary-panel p {
     color: white !important;
 }

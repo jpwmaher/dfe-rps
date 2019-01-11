@@ -76,11 +76,11 @@
                                 <ul class="app-task-list__items">
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Teacher Student Loan Repayment<span class="date-applied">Due by 11 Feb 2019</span></button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed">Active</strong>
+                                        <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
                                     </li>
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="admin-claim-teacher-1.php" name="claim-id" value="1">Physics Retention Payment<span class="date-applied">Due by 11 Feb 2019</span></button>
-                                        <strong class="govuk-tag incomplete app-task-list__task-completed">Active</strong>
+                                        <strong class="govuk-tag incomplete app-task-list__task-completed">Available</strong>
                                     </li>
                                 </ul>
                             </li>

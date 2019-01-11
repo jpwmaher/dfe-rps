@@ -47,7 +47,8 @@
                             <br> BD13 3NN</p>
                     </div>
                     <div class="large-4 cell">
-
+                        <p>TRN:</p>
+                        <h3>1234-5678</h3>
                     </div>
                 </div>
 

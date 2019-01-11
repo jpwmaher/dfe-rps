@@ -23,9 +23,12 @@
             <div class="cell">
                 <div class="govuk-breadcrumbs">
                     <ol class="govuk-breadcrumbs__list">
-                        <li class="govuk-breadcrumbs__list-item" aria-current="page">
-                            <?php echo $service_name ?>
+                        <li class="govuk-breadcrumbs__list-item">
+                            <a class="govuk-breadcrumbs__link" href="dashboard.php">
+                                <?php echo $service_name ?>
+                            </a>
                         </li>
+                        <li class="govuk-breadcrumbs__list-item" aria-current="page">My payments</li>
                     </ol>
                 </div>
             </div>

@@ -43,9 +43,9 @@
                         <dl class="app-check-your-answers app-check-your-answers--short">
 
                             <div class="app-check-your-answers__contents">
-                                <dt class="app-check-your-answers__question">School</dt>
+                                <dt class="app-check-your-answers__question">Bank account details</dt>
                                 <dd class="app-check-your-answers__answer">
-                                    <?php echo $_SESSION["teacher-school-name"]; ?>
+                                    12-12-12- 12345678
                                 </dd>
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" value="location" name="teacher-check-send-edit" formaction="teacher-location-eligibility.php">Change<span class="govuk-visually-hidden"> school eligibility</span></button>

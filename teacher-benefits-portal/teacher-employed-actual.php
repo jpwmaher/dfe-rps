@@ -52,7 +52,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="teacher-enter-trn.php" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
+                                    <input class="govuk-radios__input" id="contact-method-conditional-email" name="x" type="radio" value="teacher-check-send.php" aria-controls="conditional-contact-method-conditional-email" aria-expanded="false" onchange="showSelect();">
 
                                     <label class="govuk-label govuk-radios__label" for="contact-method-conditional-email">Science (physics, chemistry or biology)</label>
                                 </div>
@@ -63,7 +63,7 @@
 
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="x" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-physics">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-physics" name="x" type="radio" value="teacher-check-send.php" data-aria-controls="conditional-check-teaching-conditional-physics">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-physics">
                     Physics
@@ -87,7 +87,7 @@
                                         </div>
                                         <div class="govuk-radios__item">
 
-                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="x" type="radio" value="teacher-not-eligible.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
+                                            <input class="govuk-radios__input" id="check-teaching-conditional-science-as-one" name="x" type="radio" value="teacher-check-send.php" data-aria-controls="conditional-check-teaching-conditional-science-as-one">
 
                                             <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-science-as-one">
                     Combined sciences
@@ -100,7 +100,7 @@
 
                                 <div class="govuk-radios__item">
 
-                                    <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="x" type="radio" value="teacher-enter-trn.php" data-aria-controls="conditional-check-teaching-conditional-compscience">
+                                    <input class="govuk-radios__input" id="check-teaching-conditional-compscience" name="x" type="radio" value="teacher-check-send.php" data-aria-controls="conditional-check-teaching-conditional-compscience">
 
                                     <label class="govuk-label govuk-radios__label" for="check-teaching-conditional-compscience">
                     Maths

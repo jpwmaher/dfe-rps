@@ -84,7 +84,7 @@
                                         <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
                                     </li>
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="teacher-consent.php" name="claim-id" value="1"><a href="#">Teachers' Retention Payment</a><span class="date-applied">Application submitted: <?php 
+                                        <button type="submit" class="button-as-link" formaction="teacher-consent.php" name="claim-id" value="1"><a href="#">Teachers' Retention Payment</a><span class="date-applied">Submitted: <?php 
 $today = date("d-M-Y"); 
 echo $today; 
   

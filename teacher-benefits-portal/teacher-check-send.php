@@ -56,7 +56,7 @@
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">How we'll contact you</dt>
 
-                                <dd class="app-check-your-answers__answer">By Email:
+                                <dd class="app-check-your-answers__answer">By email:
                                     <br> email@address.ac.uk
 
                                 </dd>

@@ -84,7 +84,7 @@
                                         <strong class="govuk-tag incomplete app-task-list__task-completed green">Active</strong>
                                     </li>
                                     <li class="app-task-list__item">
-                                        <button type="submit" class="button-as-link" formaction="https://dfe-rps.herokuapp.com/a/teacher-consent.php" name="claim-id" value="1"><a href="https://dfe-rps.herokuapp.com/a/teacher-consent.php">Physics Retention Payment</a><span class="date-applied">Apply by 28-Feb-2019</span></button>
+                                        <button type="submit" class="button-as-link" formaction="teacher-consent.php" name="claim-id" value="1"><a href="teacher-consent.php">Physics Retention Payment</a><span class="date-applied">Apply by 28-Feb-2019</span></button>
                                         <strong class="govuk-tag incomplete app-task-list__task-completed">Available</strong>
                                     </li>
                                 </ul>

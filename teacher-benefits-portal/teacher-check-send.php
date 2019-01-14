@@ -45,7 +45,7 @@
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">Bank account details</dt>
                                 <dd class="app-check-your-answers__answer">
-                                    12-12-12- 12345678
+                                    12-12-12<br>12345678
                                 </dd>
                                 <dd class="app-check-your-answers__change">
                                     <button type="submit" class="button-as-link" value="location" name="teacher-check-send-edit" formaction="teacher-location-eligibility.php">Change<span class="govuk-visually-hidden"> school eligibility</span></button>

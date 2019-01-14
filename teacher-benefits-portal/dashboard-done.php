@@ -85,7 +85,7 @@
                                     </li>
                                     <li class="app-task-list__item">
                                         <button type="submit" class="button-as-link" formaction="teacher-consent.php" name="claim-id" value="1"><a href="#">Teachers' Retention Payment</a><span class="date-applied">Application submitted: <?php 
-$today = date("d/M/Y"); 
+$today = date("d-M-Y"); 
 echo $today; 
   
 ?></span></button>

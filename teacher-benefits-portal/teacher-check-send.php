@@ -29,7 +29,7 @@
     <div class="grid-container">
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
-                <h1 class="govuk-heading-xl">Check your answers</h1>
+                <h1 class="govuk-heading-xl">Check your details</h1>
 
                 <form action="teacher-success.php" method="POST" role="form">
                     <div class="govuk-form-group">

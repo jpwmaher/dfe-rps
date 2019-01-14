@@ -56,10 +56,8 @@
                             <div class="app-check-your-answers__contents">
                                 <dt class="app-check-your-answers__question">How we'll contact you</dt>
 
-                                <dd class="app-check-your-answers__answer">By
-                                    <?php echo $_SESSION["teacher-contact-method"]; ?>:<br>
-                                    <?php echo $_SESSION["teacher-email-address"]; ?>
-                                    <?php echo $_SESSION["teacher-mobile-number"]; ?>
+                                <dd class="app-check-your-answers__answer">By Email:
+                                    <br> email@address.ac.uk
 
                                 </dd>
 
@@ -76,11 +74,11 @@
 
                 <h2 class="govuk-heading-m">Confirm your claim</h2>
                 <p>By submitting this claim you are confirming that, to the best of your knowledge, the details you are providing are correct.</p>
-                <form action="teacher-success.php" method="POST" role="form">
+                <form action="dashboard-done.php" method="POST" role="form">
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="bank-hint">
 
-                            <button type="submit" class="govuk-button" formaction="teacher-success.php">Confirm and send</button>
+                            <button type="submit" class="govuk-button" formaction="dashboard-done.php">Confirm and send</button>
 
                         </fieldset>
                     </div>

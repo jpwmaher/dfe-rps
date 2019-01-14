@@ -45,8 +45,7 @@
                         <tr class="govuk-table__row">
                             <th class="govuk-table__header col-1" scope="col">Prototype A<br>
                                 <span class="sub-heading">January usability sessions</span></th>
-                            <th class="govuk-table__header col-2" scope="col">Teachers' Benefits Portal<br>
-                                <span class="sub-heading">Initial concepts</span></th>
+                            <th class="govuk-table__header col-2" scope="col">></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
                         </tr>
                     </thead>
@@ -57,7 +56,30 @@
                                 <a href="/admin-a/admin-claim-received-email.php" class="govuk-link">A - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
+                            </td>
+                            <td class="govuk-table__cell" valign="top">
+
+                            </td>
+                        </tr>
+                        <tr>&nbsp;</tr>
+                    </tbody>
+                </table>
+                <table class="govuk-table cols-3 unstriped">
+                    <thead class="govuk-table__head">
+                        <tr class="govuk-table__row">
+                            <th class="govuk-table__header col-1" scope="col">Teachers' Benefits Portal<br>
+                                <span class="sub-heading">Initial concepts</span></th>
+                            <th class="govuk-table__header col-2" scope="col"></th>
+                            <th class="govuk-table__header col-3" scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody class="govuk-table__body">
+                        <tr class="govuk-table__row">
+                            <td class="govuk-table__cell" valign="top">
                                 <a href="/teacher-benefits-portal/dashboard.php" class="govuk-link">Concept A</a> - based on assumed policy that requires teacher to declare actually teaching 50%+ in eligibile subject. Rest of information is pulled in automatically.<br/>
+                            </td>
+                            <td class="govuk-table__cell" valign="top">
+
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

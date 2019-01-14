@@ -57,7 +57,7 @@
                                 <a href="/admin-a/admin-claim-received-email.php" class="govuk-link">A - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/teacher-benefits-portal/dashboard.php" class="govuk-link">Concept A</a><br/>
+                                <a href="/teacher-benefits-portal/dashboard.php" class="govuk-link">Concept A</a> - based on assumed policy that requires teacher to declare actually teaching 50%+ in elgibile subjects<br/>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

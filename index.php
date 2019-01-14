@@ -75,7 +75,12 @@
                     <tbody class="govuk-table__body">
                         <tr class="govuk-table__row">
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/teacher-benefits-portal/dashboard.php" class="govuk-link">Concept A</a> - based on assumed policy that requires teacher to declare actually teaching 50%+ in eligibile subject. Rest of information is pulled in automatically.<br/>
+                                <a href="/teacher-benefits-portal/dashboard.php" class="govuk-link">Concept A</a>
+                                <ul>
+                                    <li>a portal that displays all available, active, elapsed, and 'future' teacher benefits</li>
+                                    <li>All information except current timetable is pulled in automatically</li>
+                                    <li>Retention payment is based on assumed policy that requires teacher to declare actually teaching 50%+ in eligibile subject</li>
+                                </ul>
                             </td>
                             <td class="govuk-table__cell" valign="top">
 

@@ -45,7 +45,7 @@
                         <tr class="govuk-table__row">
                             <th class="govuk-table__header col-1" scope="col">Prototype A<br>
                                 <span class="sub-heading">January usability sessions</span></th>
-                            <th class="govuk-table__header col-2" scope="col">Teachers' Benefits Portal (concepts)</th>
+                            <th class="govuk-table__header col-2" scope="col">Teachers' Benefits Portal <span class="sub-heading">Initial concepts</span></th>
                             <th class="govuk-table__header col-3" scope="col"></th>
                         </tr>
                     </thead>

@@ -24,8 +24,8 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Via which route did you qualify as a teacher
-                                </h1><br>
+                                    Via which route did you qualify as a teacher?
+                                </h1>
                             </legend>
 
                             <div class="govuk-form-group">

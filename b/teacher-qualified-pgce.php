@@ -18,7 +18,7 @@
         <div id="main-content-area" class="grid-x grid-padding-x grid-margin-x">
             <div id="main-content-left-only" class="large-8 cell">
 
-                <form action="teacher-location-eligibility.php" method="POST" role="form" data-abide novalidate>
+                <form action="teacher-location-eligibility.php" method="POST" role="form" data-abide novalidate onsubmit="get_action(this);">
 
                     <div data-abide-error class="alert callout" style="display: none;">
                         <p><i class="fi-alert"></i>
@@ -74,6 +74,13 @@
                     </div>
 
                 </form>
+
+                <script type="text/javascript">
+                    function get_action(form) {
+                        form.action = document.querySelector('input[name = "x"]:checked').value;
+                    }
+
+                </script>
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

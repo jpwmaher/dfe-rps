@@ -46,6 +46,7 @@
                     <li>have qualified as a teacher after
                         <?php echo $qualification_date  ?>
                     </li>
+                    <li>have a qualification with a specialism in either Physics or Maths</li>
                     <li>still be teaching in a school in the UK</li>
                     <li>have worked in a participating local authority area in England in the last academic year, at either:
                         <ul>

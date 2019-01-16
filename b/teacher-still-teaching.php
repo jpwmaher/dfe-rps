@@ -36,7 +36,7 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-qualified-itt.php" id="x">
+                                        <input class="govuk-radios__input" name="x" type="radio" value="teacher-route.php" id="x">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>

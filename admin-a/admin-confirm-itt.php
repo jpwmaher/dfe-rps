@@ -25,7 +25,7 @@
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
                     <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
-                    <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
+                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

@@ -27,12 +27,13 @@
                 <h2 class="govuk-heading-s">Body</h2>
                 <p class="govuk-body"><span style="color: red;">Dear</span> [name]</p>
                 <p class="govuk-body">Jane Jones has applied to claim a retention payment.</p>
-                <p class="govuk-body">To process the claim, we need you to check what the teacher has told us about:</p>
+                <p class="govuk-body">To process the claim, we need you to check:</p>
                 <ul class="govuk-list govuk-list--bullet">
-                    <li>whether they worked at Moorside High School during the claim period</li>
+                    <li>they qualified as a teacher on or after 1 September 2014</li>
+                    <li>they worked at Moorside High School during the claim period</li>
                     <li>which subject they were originally employed to teach at Moorside High School</li>
-                    <li>which subject they specialised in during initial teacher training</li>
-                    <li>which subject their undergraduate qualification is in</li>
+                    <li>which route they took to qualify as a teacher</li>
+                    <li>which subject they have a specialised qualification in</li>
                     <li>whether at least 50% of their time was spent teaching physics or maths</li>
                 </ul>
                 <p class="govuk-body">Confirm this information within the next two weeks. If you cannot, {do something}.</p>

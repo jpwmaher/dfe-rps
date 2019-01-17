@@ -20,7 +20,6 @@
  } 
 ?>
 
-
 <?php 
  if (isset($_POST['split'])) { 
  $_SESSION['split'] = $_POST['split'];

@@ -20,6 +20,13 @@
  } 
 ?>
 
+
+<?php 
+ if (isset($_POST['qts'])) { 
+ $_SESSION['qts'] = $_POST['qts'];
+ } 
+?>
+
 <?php 
  if (isset($_POST['split'])) { 
  $_SESSION['split'] = $_POST['split'];
@@ -44,6 +51,7 @@ $worked = $_POST['worked'];
 $split = $_POST['split'];
 $undergraduate = $_POST['undergraduate'];
 $itt = $_POST['itt'];
+$qts = $_POST['qts'];
 ?>
 
 <!doctype html>
@@ -146,7 +154,7 @@ $itt = $_POST['itt'];
 
 
                                 <dd class="app-check-your-answers__change">
-                                    <a class="button-as-link" href="admin-confirm-worked.php">Update</a>
+                                    <a class="button-as-link" href="admin-confirm-qts.php">Update</a>
                                 </dd>
 
                             </div>

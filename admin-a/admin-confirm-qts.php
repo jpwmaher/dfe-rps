@@ -61,7 +61,6 @@
                                     Did <strong>Jane Jones</strong> qualify as a teacher on or after
                                     <?php echo $qualification_date  ?>?
                                 </h1>
-                                <br/>
                             </legend>
 
 

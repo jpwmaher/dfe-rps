@@ -214,32 +214,6 @@ $itt = $_POST['itt'];
 
                             </div>
 
-
-                            <div class="app-check-your-answers__contents">
-
-
-                                <dt class="app-check-your-answers__question">Between <?php echo $academic_year_start_date ?> and
-                                        <?php echo $academic_year_end_date ?>, did they spend more than 50% of their time teaching Physics or Maths?</dt>
-
-                                <?php 
-    if (!empty($_SESSION["split"])) {
-  ?>
-                                <dd class="app-check-your-answers__answer">
-                                    <?php echo $split ?>
-                                </dd>
-                                <?php } else { ?>
-                                <dd class="app-check-your-answers__answer answer-incomplete">
-                                    Incomplete
-                                </dd>
-                                <?php } ?>
-
-                                <dd class="app-check-your-answers__change">
-                                    <a class="button-as-link" href="admin-confirm-split.php">Update</a>
-                                </dd>
-
-
-                            </div>
-
                         </dl>
 
                     </div>

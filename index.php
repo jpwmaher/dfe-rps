@@ -62,7 +62,7 @@
                             </td>
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/c/teacher-claim-bursary.php" class="govuk-link" class="faded">C - Teachers</a><br/>
-                                <a href="/admin-c/admin-claim-received-email.php" class="govuk-link" class="faded">B - School Business Professionals</a>
+                                <a href="/admin-c/admin-claim-received-email.php" class="govuk-link" class="faded">C - School Business Professionals</a>
                             </td>
                         </tr>
                         <tr>&nbsp;</tr>

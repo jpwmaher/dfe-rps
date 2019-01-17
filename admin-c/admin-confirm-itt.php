@@ -1,36 +1,4 @@
-<?php 
-
- // starting the session
- session_start();
-
- if (isset($_POST['worked'])) { 
- $_SESSION['worked'] = $_POST['worked'];
- } 
-?>
-
-<?php 
- if (isset($_POST['intent'])) { 
- $_SESSION['intent'] = $_POST['intent'];
- } 
-?>
-
-<?php 
- if (isset($_POST['split'])) { 
- $_SESSION['split'] = $_POST['split'];
- } 
-?>
-
-<?php 
- if (isset($_POST['itt'])) { 
- $_SESSION['itt'] = $_POST['itt'];
- } 
-?>
-
-<?php 
- if (isset($_POST['undergraduate'])) { 
- $_SESSION['undergraduate'] = $_POST['undergraduate'];
- } 
-?>
+<?php include("../includes/admin-c-session-head.php"); ?>
 
 
 <!doctype html>
@@ -54,10 +22,11 @@
 
                 <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
-                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
+                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
                     <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
+                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

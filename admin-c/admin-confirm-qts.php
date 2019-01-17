@@ -1,5 +1,6 @@
 <?php include("../includes/admin-c-session-head.php"); ?>
 
+
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -21,10 +22,10 @@
 
                 <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
+                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
-                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
-                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
+                    <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
                     <input type="hidden" name="itt" value="<?=htmlspecialchars($_SESSION['itt']);?>" />
 
                     <div class="govuk-form-group ">
@@ -32,12 +33,9 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Which subject does Jane Jones have a specialised qualification in?
+                                    Did <strong>Jane Jones</strong> qualify as a teacher on or after
+                                    <?php echo $qualification_date  ?>?
                                 </h1>
-                                <br/>
-                                <!--    <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>?</p> -->
                             </legend>
 
 
@@ -48,26 +46,17 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Physics" id="x">
+                                        <input class="govuk-radios__input" name="qts" type="radio" id="x" value="Yes">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Physics</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Maths" id="x">
+                                        <input class="govuk-radios__input" name="qts" type="radio" id="x" value="No">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Maths</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>
-
-                                    <div class="govuk-radios__item">
-
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Other" id="x">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Other</label>
-                                    </div>
-
-
 
                                 </div>
                             </div>
@@ -83,7 +72,6 @@
                         </fieldset>
                     </div>
                 </form>
-
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

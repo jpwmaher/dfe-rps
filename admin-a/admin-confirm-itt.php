@@ -25,6 +25,7 @@
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
                     <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
+                    <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">
@@ -37,9 +38,9 @@
                             </legend>
 
                             <div class="govuk-form-group">
-                                <label class="govuk-label" for="teacher-trn">Enter the subject you specialised in</label>
+                                <label class="govuk-label" for="teacher-trn">Enter the subject Jane Jones specialised in</label>
                                 <span class="form-error" id="example1Error1" data-form-error-for="itt"><br/>
-                                   Enter the subject you specialised in
+                                   Enter the subject Jane Jones specialised in
                                     </span>
                                 <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 

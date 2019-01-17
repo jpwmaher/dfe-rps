@@ -47,7 +47,7 @@
                                 <span class="sub-heading">ITT &amp; 50% questions</span></th>
                             <th class="govuk-table__header col-2" scope="col">Prototype B<br>
                                 <span class="sub-heading">Qualification route &amp; 50% questions</span></th>
-                            <th class="govuk-table__header col-3" scope="col">Prototype C<br><span class="sub-heading">Qualification route only</span></th>
+                            <th class="govuk-table__header col-3" scope="col">Prototype C<br><span class="sub-heading faded">Qualification route only</span></th>
                         </tr>
                     </thead>
                     <tbody class="govuk-table__body">
@@ -58,9 +58,11 @@
                             </td>
                             <td class="govuk-table__cell" valign="top">
                                 <a href="/b/teacher-claim-bursary.php" class="govuk-link">B - Teachers</a><br/>
+                                <a href="/admin-b/admin-claim-received-email.php" class="govuk-link" class="faded">B - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/c/teacher-claim-bursary.php" class="govuk-link">C - Teachers</a><br/>
+                                <a href="/c/teacher-claim-bursary.php" class="govuk-link" class="faded">C - Teachers</a><br/>
+                                <a href="/admin-c/admin-claim-received-email.php" class="govuk-link" class="faded">B - School Business Professionals</a>
                             </td>
                         </tr>
                         <tr>&nbsp;</tr>

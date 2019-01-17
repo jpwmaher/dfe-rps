@@ -6172,6 +6172,10 @@ table dl.release-desc dd {
     color: #333333;
 }
 
+.faded {
+    opacity: 0.3;
+}
+
 /* Eligibility checker */
 
 /* Should probably move this to a separate file for better dev separation */

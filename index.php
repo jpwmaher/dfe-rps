@@ -61,7 +61,7 @@
                                 <a href="/admin-b/admin-claim-received-email.php" class="govuk-link faded">B - School Business Professionals</a>
                             </td>
                             <td class="govuk-table__cell" valign="top">
-                                <a href="/c/teacher-claim-bursary.php" class="govuk-link faded">C - Teachers</a><br/>
+                                <a href="/c/teacher-claim-bursary.php" class="govuk-link">C - Teachers</a><br/>
                                 <a href="/admin-c/admin-claim-received-email.php" class="govuk-link faded">C - School Business Professionals</a>
                             </td>
                         </tr>

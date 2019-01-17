@@ -22,7 +22,6 @@
                 <ul class="govuk-list govuk-list--bullet">
                     <li>that you taught there</li>
                     <li>the subject you were employed to teach</li>
-                    <li>how much of your time was spent teaching qualifying subjects, if applicable</li>
                     <li>you have a qualification specialising in either Physics or Maths</li>
                 </ul>
                 <p class="govuk-body">We cannot process your claim without doing this.</p>

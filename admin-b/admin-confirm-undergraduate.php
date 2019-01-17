@@ -63,21 +63,50 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Which subject is their undergraduate qualification in?
+                                    Which route did Jane Jones take to qualify as a teacher?
                                 </h1>
                                 <br/>
+                                <!--    <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
+                                    <?php echo $academic_year_start_date ?> and
+                                    <?php echo $academic_year_end_date ?>?</p> -->
                             </legend>
 
+
+
                             <div class="govuk-form-group">
-                                <label class="govuk-label" for="teacher-trn">Enter the subject you specialised in</label>
-                                <span class="form-error" id="example1Error1" data-form-error-for="undergraduate"><br/>
-                                   Enter the subject you specialised in
-                                    </span>
-                                <!-- <span id="teacher-trn-hint" class="govuk-hint">This is on the certificate you got when you qualified as a teacher, or your school can tell you.</span> -->
 
-                                <input class="govuk-input " id="undergraduate" name="undergraduate" type="text" value="" required>
+                                <div class="govuk-radios">
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="PGCE" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">PGCE</label>
+                                    </div>
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="School Direct" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">School Direct</label>
+                                    </div>
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="SCITT" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">SCITT</label>
+                                    </div>
+
+                                    <div class="govuk-radios__item">
+
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Teacher First" id="x">
+
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">Teach First</label>
+                                    </div>
+
+                                </div>
                             </div>
-
 
                             <div class="govuk-form-group">
                                 <button type="submit" class="govuk-button">Continue</button>
@@ -90,6 +119,7 @@
                         </fieldset>
                     </div>
                 </form>
+
 
             </div>
             <div id="sidebar" class="large-4 cell no-top-border">

@@ -171,7 +171,7 @@ $itt = $_POST['itt'];
 
                             <div class="app-check-your-answers__contents">
 
-                                <dt class="app-check-your-answers__question">Which subject did they specialise in during initial teacher training?</dt>
+                                <dt class="app-check-your-answers__question">Which route they took to qualify as a teacher?</dt>
 
                                 <?php 
     if (!empty($_SESSION["itt"])) {
@@ -193,7 +193,7 @@ $itt = $_POST['itt'];
 
                             <div class="app-check-your-answers__contents">
 
-                                <dt class="app-check-your-answers__question">Which subject is their undergraduate qualification in?</dt>
+                                <dt class="app-check-your-answers__question">Which subject they have a specialised qualification in?</dt>
 
 
                                 <?php 

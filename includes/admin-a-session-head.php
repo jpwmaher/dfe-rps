@@ -22,12 +22,6 @@
 
 
 <?php 
- if (isset($_POST['qts'])) { 
- $_SESSION['qts'] = $_POST['qts'];
- } 
-?>
-
-<?php 
  if (isset($_POST['split'])) { 
  $_SESSION['split'] = $_POST['split'];
  } 

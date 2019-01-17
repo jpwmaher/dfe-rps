@@ -1,4 +1,5 @@
-<?php include("../includes/admin-b-session-head.php"); ?>
+<?php include("../includes/admin-a-session-head.php"); ?>
+
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
@@ -22,8 +23,8 @@
                 <form action="admin-claim-teacher-1.php" method="POST" role="form" onsubmit="get_action(this);" data-abide novalidate>
 
                     <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
-                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
+                    <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
                     <input type="hidden" name="undergraduate" value="<?=htmlspecialchars($_SESSION['undergraduate']);?>" />
                     <input type="hidden" name="itt" value="<?=htmlspecialchars($_SESSION['itt']);?>" />
 
@@ -32,15 +33,12 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?
+                                    Did <strong>Jane Jones</strong> qualify as a teacher on or after
+                                    <?php echo $qualification_date  ?>?
                                 </h1>
-                                <br/>
-                                <!--      <p class="govuk-body">Between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p> -->
                             </legend>
+
+
 
                             <div class="govuk-form-group">
 
@@ -48,14 +46,14 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="Yes">
+                                        <input class="govuk-radios__input" name="qts" type="radio" id="x" value="Yes">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Yes</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="split" type="radio" id="x" value="No">
+                                        <input class="govuk-radios__input" name="qts" type="radio" id="x" value="No">
 
                                         <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">No</label>
                                     </div>

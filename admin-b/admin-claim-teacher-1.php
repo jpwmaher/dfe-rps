@@ -1,44 +1,4 @@
-<?php 
-
- // starting the session
- session_start();
-
- if (isset($_POST['worked'])) { 
- $_SESSION['worked'] = $_POST['worked'];
- } 
-?>
-
-<?php 
- if (isset($_POST['intent'])) { 
- $_SESSION['intent'] = $_POST['intent'];
- } 
-?>
-
-<?php 
- if (isset($_POST['split'])) { 
- $_SESSION['split'] = $_POST['split'];
- } 
-?>
-
-<?php 
- if (isset($_POST['undergraduate'])) { 
- $_SESSION['undergraduate'] = $_POST['undergraduate'];
- } 
-?>
-
-<?php 
- if (isset($_POST['itt'])) { 
- $_SESSION['itt'] = $_POST['itt'];
- } 
-?>
-
-<?php 
-$intent = $_POST['intent'];
-$worked = $_POST['worked'];
-$split = $_POST['split'];
-$undergraduate = $_POST['undergraduate'];
-$itt = $_POST['itt'];
-?>
+<?php include("../includes/admin-b-session-head.php"); ?>
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
@@ -119,6 +79,30 @@ $itt = $_POST['itt'];
 
                         <dl class="app-check-your-answers wider-titles app-check-your-answers--short">
 
+                            <div class="app-check-your-answers__contents">
+
+
+                                <dt class="app-check-your-answers__question">Did they qualify as a teacher on or after 
+                                        <?php echo $qualification_date  ?>?</dt>
+
+                                <?php 
+    if (!empty($_SESSION["qts"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $qts ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
+
+
+                                <dd class="app-check-your-answers__change">
+                                    <a class="button-as-link" href="admin-confirm-qts.php">Update</a>
+                                </dd>
+
+                            </div>
 
                             <div class="app-check-your-answers__contents">
 
@@ -171,7 +155,7 @@ $itt = $_POST['itt'];
 
                             <div class="app-check-your-answers__contents">
 
-                                <dt class="app-check-your-answers__question">Which route they took to qualify as a teacher?</dt>
+                                <dt class="app-check-your-answers__question">Which route did they take to qualify as a teacher?</dt>
 
                                 <?php 
     if (!empty($_SESSION["itt"])) {
@@ -193,7 +177,7 @@ $itt = $_POST['itt'];
 
                             <div class="app-check-your-answers__contents">
 
-                                <dt class="app-check-your-answers__question">Which subject they have a specialised qualification in?</dt>
+                                <dt class="app-check-your-answers__question">Which subject do they have a specialised qualification in?</dt>
 
 
                                 <?php 

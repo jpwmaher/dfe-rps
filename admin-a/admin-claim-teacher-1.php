@@ -15,6 +15,12 @@
 ?>
 
 <?php 
+ if (isset($_POST['qts'])) { 
+ $_SESSION['qts'] = $_POST['qts'];
+ } 
+?>
+
+<?php 
  if (isset($_POST['split'])) { 
  $_SESSION['split'] = $_POST['split'];
  } 
@@ -123,6 +129,31 @@ $itt = $_POST['itt'];
                             <div class="app-check-your-answers__contents">
 
 
+                                <dt class="app-check-your-answers__question">Did they qualify as a teacher on or after 
+                                        <?php echo $qualification_date  ?>?</dt>
+
+                                <?php 
+    if (!empty($_SESSION["qts"])) {
+  ?>
+                                <dd class="app-check-your-answers__answer">
+                                    <?php echo $qts ?>
+                                </dd>
+                                <?php } else { ?>
+                                <dd class="app-check-your-answers__answer answer-incomplete">
+                                    Incomplete
+                                </dd>
+                                <?php } ?>
+
+
+                                <dd class="app-check-your-answers__change">
+                                    <a class="button-as-link" href="admin-confirm-worked.php">Update</a>
+                                </dd>
+
+                            </div>
+
+                            <div class="app-check-your-answers__contents">
+
+
                                 <dt class="app-check-your-answers__question">Did they work at the school between                                         <?php echo $academic_year_start_date ?> and
                                         <?php echo $academic_year_end_date ?>?</dt>
 
@@ -149,7 +180,6 @@ $itt = $_POST['itt'];
                             <div class="app-check-your-answers__contents">
 
                                 <dt class="app-check-your-answers__question">Which subject were they originally employed to teach at Moorside High School?</dt>
-
 
                                 <?php 
     if (!empty($_SESSION["intent"])) {

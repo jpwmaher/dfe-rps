@@ -75,7 +75,7 @@ echo $today;
                                             <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Completed</strong>
                                         </li>
                                         <li class="app-task-list__item">
-                                            ID: RPS-089 <span class="date-applied">Completed on 05 Dec 2018</span>
+                                            Ian Roberts <span class="date-applied">Completed on 05 Dec 2018</span>
                                             <strong class="govuk-tag app-task-list__task-completed" id="company-information-completed">Completed</strong>
                                         </li>
                                     </ul>

@@ -63,7 +63,7 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Which route did Jane Jones take to qualify as a teacher?
+                                    Which subject does Jane Jones have a specialised qualification in?
                                 </h1>
                                 <br/>
                                 <!--    <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
@@ -79,31 +79,26 @@
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="PGCE" id="x">
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Physics" id="x">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">PGCE</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Physics</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="School Direct" id="x">
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Maths" id="x">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">School Direct</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Maths</label>
                                     </div>
 
                                     <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="SCITT" id="x">
+                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Other" id="x">
 
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">SCITT</label>
+                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-yes">Other</label>
                                     </div>
 
-                                    <div class="govuk-radios__item">
 
-                                        <input class="govuk-radios__input" name="undergraduate" type="radio" value="Teacher First" id="x">
-
-                                        <label class="govuk-label govuk-radios__label" for="check-still-teaching-no">Teach First</label>
-                                    </div>
 
                                 </div>
                             </div>

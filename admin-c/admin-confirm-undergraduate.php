@@ -24,7 +24,7 @@
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION['intent']);?>" />
                     <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION['split']);?>" />
-                    <input type="hidden" name="qts" value="<?=htmlspecialchars($_SESSION['qts']);?>" />
+                    <input type="hidden" name="worked" value="<?=htmlspecialchars($_SESSION['worked']);?>" />
                     <input type="hidden" name="itt" value="<?=htmlspecialchars($_SESSION['itt']);?>" />
 
                     <div class="govuk-form-group ">

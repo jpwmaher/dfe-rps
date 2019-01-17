@@ -1,36 +1,4 @@
-<?php 
-
- // starting the session
- session_start();
-
- if (isset($_POST['worked'])) { 
- $_SESSION['worked'] = $_POST['worked'];
- } 
-?>
-
-<?php 
- if (isset($_POST['intent'])) { 
- $_SESSION['intent'] = $_POST['intent'];
- } 
-?>
-
-<?php 
- if (isset($_POST['split'])) { 
- $_SESSION['split'] = $_POST['split'];
- } 
-?>
-
-<?php 
- if (isset($_POST['itt'])) { 
- $_SESSION['itt'] = $_POST['itt'];
- } 
-?>
-
-<?php 
- if (isset($_POST['undergraduate'])) { 
- $_SESSION['undergraduate'] = $_POST['undergraduate'];
- } 
-?>
+<?php include("../includes/admin-a-session-head.php"); ?>
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">

@@ -1,25 +1,4 @@
-<?php 
-
- // starting the session
- session_start();
-
- if (isset($_POST['worked'])) { 
- $_SESSION['worked'] = $_POST['worked'];
- } 
-?>
-
-<?php 
- if (isset($_POST['intent'])) { 
- $_SESSION['intent'] = $_POST['intent'];
- } 
-?>
-
-<?php 
- if (isset($_POST['split'])) { 
- $_SESSION['split'] = $_POST['split'];
- } 
-?>
-
+<?php include("../includes/admin-a-session-head.php"); ?>
 
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
@@ -44,6 +23,8 @@
 
                     <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION[ 'split']);?>" />
                     <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION[ 'intent']);?>" />
+                    <input type="hidden" name="split" value="<?=htmlspecialchars($_SESSION[ 'qts']);?>" />
+                    <input type="hidden" name="intent" value="<?=htmlspecialchars($_SESSION[ 'itt']);?>" />
 
                     <div class="govuk-form-group ">
                         <fieldset class="govuk-fieldset" role="group" aria-describedby="tbc">

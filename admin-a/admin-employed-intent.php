@@ -35,7 +35,7 @@
                                 <h1 class="govuk-fieldset__heading">
                                     What subject was <strong>Jane Jones</strong> originally employed to teach at Moorside High School?
                                 </h1>
-                                <br/>
+
                                 <!--   <p class="govuk-body">What subject was <strong>Jane Jones</strong> originally employed to teach at Moorside High School?</p> -->
                             </legend>
 

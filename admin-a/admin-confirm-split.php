@@ -37,10 +37,6 @@
                                     <?php echo $academic_year_start_date ?> and
                                     <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?
                                 </h1>
-                                <br/>
-                                <!--      <p class="govuk-body">Between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>, did <strong>Jane Jones</strong> spend more than 50% of their time teaching Physics or Maths?</p> -->
                             </legend>
 
                             <div class="govuk-form-group">

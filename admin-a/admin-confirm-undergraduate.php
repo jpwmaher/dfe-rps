@@ -34,7 +34,6 @@
                                 <h1 class="govuk-fieldset__heading">
                                     Which subject is their undergraduate qualification in?
                                 </h1>
-                                <br/>
                             </legend>
 
                             <div class="govuk-form-group">

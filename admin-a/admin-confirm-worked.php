@@ -36,10 +36,6 @@
                                     <?php echo $academic_year_start_date ?> and
                                     <?php echo $academic_year_end_date ?>?
                                 </h1>
-                                <br/>
-                                <!--    <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between
-                                    <?php echo $academic_year_start_date ?> and
-                                    <?php echo $academic_year_end_date ?>?</p> -->
                             </legend>
 
 

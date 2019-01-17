@@ -36,13 +36,11 @@
                 </h1>
 
                 <p class="govuk-body">These teachers have applied to claim a retention payment.</p>
-                <p class="govuk-body">To process the claims, we need you to check what the teacher has told us about:
+                <p class="govuk-body">To process the claims, we need you to check:
                 </p>
 
                 <ul class="govuk-list govuk-list--bullet">
-                    <li>the subject they taught</li>
-                    <li>the subject they were originally employed to teach at Moorside High School</li>
-                    <li>how much of their time was spent teaching that subject</li>
+                    <?php include("../includes/admin-b-criteria.php"); ?>
                 </ul>
 
                 <p class="govuk-body">The teachers listed have given us permission to check these details with you.</p>

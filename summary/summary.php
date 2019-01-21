@@ -3,6 +3,11 @@
 <?php include ('includes/summary-head.php'); ?>
 
 <style>
+    body {
+        background: white;
+        color: #444;
+    }
+
     h3 {
         font-weight: bold;
     }
@@ -51,7 +56,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; ">
-                <span style="font-size: 18vmax; font-weight: bold;">SCRa</span>
+                <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
             <div class="cell">
                 <div class="grid-x grid-padding-x">

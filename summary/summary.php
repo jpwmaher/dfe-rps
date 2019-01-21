@@ -83,7 +83,7 @@
                         <p>You can also look at <a href="index.html#prototypes">the prototypes</a> that we are currently testing with users.</p>
                     </div>
                     <div class="large-6 medium-4 cell small-order-1 medium-order-2">
-                        <img src="img/SCRa-iphone.png">
+                        Image of prototype in situ (laptop)
                     </div>
                 </div>
             </div>

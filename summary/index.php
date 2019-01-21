@@ -30,6 +30,11 @@
             </div>
         </div>
 
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div id="footer" class="cell">
+                <img src="img/hippo-svg.svg" id="hippo-icon">
+            </div>
+        </div>
 
         <!-- End of grid container -->
     </div>

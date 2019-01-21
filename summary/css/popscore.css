@@ -1,0 +1,222 @@
+@font-face {
+    font-family: 'avenirheavy';
+    src: url('Avenir_Heavy.eot');
+    src: url('Avenir_Heavy.eot?#iefix') format('embedded-opentype'),
+         url('Avenir_Heavy.woff') format('woff'),
+         url('Avenir_Heavy.ttf') format('truetype'),
+         url('Avenir_Heavy.svg#avenirheavy') format('svg');
+        font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'avenirmedium';
+    src: url('Avenir_Medium.eot');
+    src: url('Avenir_Medium.eot?#iefix') format('embedded-opentype'),
+         url('Avenir_Medium.woff') format('woff'),
+         url('Avenir_Medium.ttf') format('truetype'),
+         url('Avenir_Medium.svg#avenirmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avenirbook';
+    src: url('Avenir_Book.eot');
+    src: url('Avenir_Book.eot?#iefix') format('embedded-opentype'),
+         url('Avenir_Book.woff') format('woff'),
+         url('Avenir_Book.ttf') format('truetype'),
+         url('Avenir_Book.svg#avenirbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.scrollToTop{
+	width: 120px; 
+	height: 45px;
+	padding: 10px 10px; 
+	text-align:center; 
+    border-radius: 5px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+	position:fixed;
+	bottom: 20px;
+	right:20px;
+	display:none;
+    background: rgba(255, 165, 0, 0.9);
+    z-index: 999;
+}
+.scrollToTop:hover{
+	text-decoration:none;
+    color: white;
+    background: #005E86;
+}
+
+body {
+    background: #007BB1;
+    color: white;
+    font-family: Avenir, 'avenirbook', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: Avenir, 'avenirbook', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+strong {
+    font-family: Avenir, 'avenirheavy', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.button {
+    border-radius: 5px;
+    font-family: Avenir, 'avenirbook', Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.primary {
+    background: #32BFFC !important;
+}
+
+#masthead {
+    padding: 10px 0px;
+}
+
+#big-ben {
+    text-align: center;
+}
+
+#account {
+    text-align: right;
+}
+
+#torso {
+    font-size: 28px;
+    padding: 0px;
+}
+
+.reveal {
+    background: #3C3D41;
+    font-size: 12px;
+}
+
+#mobile-filters {
+    background: #3C3D41;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#filters-inner {
+    background: #3C3D41;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.filter-element {
+    margin-top: 10px;
+}
+
+.filter-label {
+    color: #B2E5FB;
+    font-size: 14px;
+}
+
+label {
+    color: white;
+    font-size: 12px;
+}
+
+#card-sort {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+#results-number {
+    text-align: right;
+}
+
+.card {
+    border-radius: 5px;
+}
+.card-popscore {
+    width: 100%;
+}
+.card-popscore:hover {
+    background: #005E86;
+    -webkit-box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+    -moz-box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+    box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+    color: white;
+    transition:  0.2s;
+}
+.card-popscore-active {
+    background: #005E86;
+    -webkit-box-shadow: 10px 10px 20px -15px rgba(64, 64, 64, 1);
+    -moz-box-shadow: 10px 10px 20px -15px rgba(64, 64, 64, 1);
+    box-shadow: 10px 10px 20px -15px rgba(64, 64, 64, 1);
+    color: white;
+}
+.card-popscore-active:hover  {
+    background: #005E86;
+    -webkit-box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+    -moz-box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+    box-shadow: 10px 10px 50px -15px rgba(64, 64, 64, 1);
+}
+.card-popscore-active .badge {
+    background: darkorange !important;
+}
+.no-padd-right {
+    padding-right: 0px !important;
+}
+.has-tip {
+    font-weight: inherit;
+    border-bottom: 0px;
+}
+.badge {
+    font-size: 18px;
+    font-weight: bold;
+}
+#social {
+    font-size: 24px;
+    text-align: right;
+}
+.ratings {
+    font-size: 12px;
+}
+.square-positive {
+    padding: 0px 5px;
+    background: darkorange;
+}
+.square-negative {
+    padding: 0px 5px;
+    background: PapayaWhip;
+}
+/* Small only */
+
+@media screen and (max-width: 39.9375em) {}
+
+/* Medium and up */
+
+@media screen and (min-width: 40em) {}
+
+/* Medium only */
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
+
+/* Large and up */
+
+@media screen and (min-width: 64em) {}
+
+/* Large only */
+
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {}

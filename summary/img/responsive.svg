@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="382px" height="152px" viewBox="0 0 382 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Responsive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.15755968,17.2367467 C6.97997347,14.1020079 7.63943815,0.565020649 7.63943815,0.565020649 L41.2836388,0.565020649 C41.2836388,0.565020649 41.9850455,14.0485642 42.9692099,17.2367467 C43.9533743,20.4249291 46.6667109,22.1011367 48.3115385,23.3317719 L0.611538462,23.3317719 C2.25636605,22.1011367 5.33514589,20.3714854 6.15755968,17.2367467 Z" id="path-1"></path>
+        <path d="M6.16550174,17.2294623 C6.98791553,14.096222 7.63943815,0.565705554 7.63943815,0.565705554 L41.2836388,0.565705554 C41.2836388,0.565705554 41.9771034,14.0428039 42.9612679,17.2294624 C43.9454323,20.4161208 46.6667109,22.0915272 48.3115385,23.3215741 L0.611538462,23.3215741 C2.25636605,22.0915272 5.34308795,20.3627027 6.16550174,17.2294623 Z" id="path-3"></path>
+        <path d="M0,0 L123,0 L123,2.46428571 C123,3.82527313 121.899087,4.92857143 120.543028,4.92857143 L2.45697163,4.92857143 C1.10002367,4.92857143 0,3.83476169 0,2.46428571 L0,0 Z" id="path-5"></path>
+        <filter x="-0.8%" y="-20.3%" width="101.6%" height="140.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.730203019   0 0 0 0 0.730203019   0 0 0 0 0.730203019  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M0.609929078,0 L86,0 C86,0 83.5602837,2.43902439 80.022695,2.43902439 L6.58723404,2.43902439 C2.92765957,2.43902439 0.609929078,0 0.609929078,0 Z" id="path-7"></path>
+        <filter x="-1.8%" y="-61.5%" width="103.5%" height="223.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.903884991   0 0 0 0 0.797288204   0 0 0 0 0.669372059  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.86073023   0 0 0 0 0.752910274   0 0 0 0 0.629687468  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5" transform="translate(-71.000000, -281.000000)">
+            <g id="Responsive" transform="translate(71.000000, 281.000000)">
+                <g id="//-iMac-27" transform="translate(197.000000, 0.000000)">
+                    <g id="::-stand" transform="translate(55.038462, 111.988077)">
+                        <rect id="Rectangle-80" fill="#B2B2B2" x="0" y="25.1667906" width="48.9230769" height="1.2306352"></rect>
+                        <path d="M0.374003297,24.179785 C0.5534394,23.7058544 1.10975984,23.3216578 1.62692685,23.3216578 L47.2961501,23.3216578 C47.8086845,23.3216578 48.3723948,23.7131369 48.5490736,24.179785 L48.9230769,25.1676106 L-3.87968046e-17,25.1676106 L0.374003297,24.179785 Z" id="Rectangle-77" fill="#C3C3C3"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-77" fill="#C0C0C0" mask="url(#mask-2)" x="6.11538462" y="8.61417306" width="36.6923077" height="1.2306352"></rect>
+                    </g>
+                    <g id="::-base">
+                        <path d="M0,104.557522 L159,104.557522 L159,114.553103 C159,117.86829 156.306971,120.55578 153.009271,120.55578 L5.99072852,120.55578 C2.68214052,120.55578 0,117.878031 0,114.553103 L0,104.557522 Z" id="screen-bg" fill="#D8D8D8"></path>
+                        <path d="M0,5.99700493 C0,2.68495056 2.69302872,0 5.99072852,0 L153.009271,0 C156.317859,0 159,2.68965419 159,5.99700493 L159,104.557522 L0,104.557522 L0,5.99700493 Z" id="dark-bezel" fill="#3D3D3D"></path>
+                        <path d="M79.0472256,111.072353 C79.2582242,111.153527 79.5840188,111.26152 79.5840188,111.26152 L80.3040056,111.016484 C80.3040056,111.016484 80.5145436,110.957055 80.7055551,110.957055 C80.8965665,110.957055 81.3297876,111.064474 81.5227627,111.205786 C81.7157377,111.347097 81.8774168,111.567827 81.8774168,111.567827 C81.8774168,111.567827 81.4504622,111.824631 81.3224546,112.200917 C81.194447,112.577203 81.2186764,112.706465 81.2186764,112.706465 C81.2186764,112.706465 81.2093555,113.279065 81.5152963,113.599385 C81.821237,113.919704 82.034284,113.992305 82.034284,113.992305 C82.034284,113.992305 81.9214032,114.407873 81.7068653,114.73201 C81.4923274,115.056147 81.3461265,115.243802 81.3461265,115.243802 C81.3461265,115.243802 81.0983291,115.516559 80.9105661,115.573586 C80.722803,115.630613 80.7898794,115.625967 80.6973857,115.625967 C80.604892,115.625967 80.4134199,115.585038 80.4134199,115.585038 L80.0438208,115.448361 C80.0438208,115.448361 79.8266163,115.38048 79.6758459,115.38048 C79.5250755,115.38048 79.2413158,115.461544 79.2413158,115.461544 C79.2413158,115.461544 78.9385022,115.577647 78.8439237,115.601807 C78.7493452,115.625967 78.676475,115.631052 78.6415429,115.631052 C78.6066108,115.631052 78.4822516,115.629662 78.3613589,115.558329 C78.2404662,115.486997 78.0970288,115.394919 77.8894846,115.119382 C77.6819404,114.843845 77.2233868,114.190961 77.0865189,113.26232 C76.949651,112.333679 77.2870573,111.801289 77.2870573,111.801289 C77.2870573,111.801289 77.6798556,110.988739 78.583848,110.972897 C78.7675352,110.969678 78.8362269,110.991178 79.0472256,111.072353 Z M79.540687,110.896576 C79.540687,110.896576 79.4735622,110.320245 79.8933898,109.922019 C80.3132174,109.523793 80.7678317,109.477876 80.7678317,109.477876 C80.7678317,109.477876 80.8610291,109.843613 80.5079984,110.389296 C80.1549677,110.93498 79.540687,110.896576 79.540687,110.896576 Z" id="logo" fill="#474747"></path>
+                        <rect id="camera-on-light" fill="#62FFB1" x="82.5576923" y="3.6919056" width="1.22307692" height="1.2306352" rx="0.611538462"></rect>
+                        <rect id="camera" fill="#5C5C5C" x="78.2769231" y="3.076588" width="2.44615385" height="2.4612704" rx="1.22307692"></rect>
+                        <rect id="microphone" fill="#545454" x="74.9436892" y="3.6919056" width="1.22307692" height="1.2306352" rx="0.611538462"></rect>
+                    </g>
+                    <g id="::-screen" transform="translate(8.561538, 8.614446)">
+                        <rect id="Rectangle-71" fill="#69AFE9" x="0" y="0" width="141.876923" height="87.3362832"></rect>
+                        <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" letter-spacing="-0.1080247" fill="#FFFFFF">
+                            <tspan x="43.596379" y="46.6856078">Summary Care </tspan>
+                            <tspan x="35.7124531" y="56.6856078">Record Application</tspan>
+                        </text>
+                        <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="0 0 86.2269231 0 0 86.7597817"></polygon>
+                    </g>
+                </g>
+                <g id="//-Thunderbolt-Display" transform="translate(23.000000, 7.000000)">
+                    <g id="::-stand" transform="translate(55.038462, 103.988285)">
+                        <rect id="Rectangle-80" fill="#B2B2B2" x="0" y="25.1666445" width="48.9230769" height="1.23062716"></rect>
+                        <path d="M0.374003297,24.1792911 C0.5534394,23.7055871 1.10975984,23.3215741 1.62692685,23.3215741 L47.2961501,23.3215741 C47.8086845,23.3215741 48.3723948,23.7128661 48.5490736,24.1792911 L48.9230769,25.1666445 L-3.87968046e-17,25.1666445 L0.374003297,24.1792911 Z" id="Rectangle-77" fill="#C3C3C3"></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8D8D8" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-123" fill="#B3B3B3" mask="url(#mask-4)" x="3.66923077" y="0.565705554" width="41.5846154" height="1.23062716"></rect>
+                    </g>
+                    <g id="::-base">
+                        <rect id="dark-bezel" fill="#3D3D3D" x="0" y="0" width="159" height="104.553991" rx="6"></rect>
+                        <path d="M79.5007393,99.42908 C79.6302799,99.4789159 79.8302984,99.5452167 79.8302984,99.5452167 L80.2723274,99.3947803 C80.2723274,99.3947803 80.4015853,99.3582943 80.5188549,99.3582943 C80.6361246,99.3582943 80.9020965,99.4242431 81.0205717,99.5109994 C81.1390469,99.5977556 81.2383083,99.7332696 81.2383083,99.7332696 C81.2383083,99.7332696 80.9761835,99.8909314 80.8975945,100.121947 C80.8190054,100.352962 80.8338809,100.432321 80.8338809,100.432321 C80.8338809,100.432321 80.8281584,100.783861 81.0159878,100.980517 C81.2038172,101.177173 81.3346154,101.221745 81.3346154,101.221745 C81.3346154,101.221745 81.2653133,101.476878 81.1335998,101.675877 C81.0018863,101.874877 80.9121276,101.990085 80.9121276,101.990085 C80.9121276,101.990085 80.7599948,102.15754 80.6447194,102.192551 C80.5294441,102.227562 80.570625,102.224709 80.5138394,102.224709 C80.4570538,102.224709 80.3395013,102.199582 80.3395013,102.199582 L80.1125895,102.115671 C80.1125895,102.115671 79.9792389,102.073996 79.8866748,102.073996 C79.7941107,102.073996 79.6198992,102.123765 79.6198992,102.123765 C79.6198992,102.123765 79.4339897,102.195044 79.3759241,102.209877 C79.3178585,102.224709 79.2731206,102.227832 79.2516744,102.227832 C79.2302281,102.227832 79.153879,102.226978 79.079658,102.183184 C79.0054371,102.139391 78.9173751,102.082861 78.7899553,101.913699 C78.6625355,101.744536 78.3810109,101.343707 78.2969822,100.773581 C78.2129535,100.203454 78.4201008,99.8766005 78.4201008,99.8766005 C78.4201008,99.8766005 78.6612556,99.3777465 79.2162531,99.3680204 C79.3290261,99.3660441 79.3711988,99.379244 79.5007393,99.42908 Z M79.8036953,99.3211644 C79.8036953,99.3211644 79.7624846,98.9673334 80.0202338,98.722848 C80.2779829,98.4783627 80.557089,98.4501727 80.557089,98.4501727 C80.557089,98.4501727 80.6143067,98.6747117 80.3975669,99.0097269 C80.1808271,99.3447421 79.8036953,99.3211644 79.8036953,99.3211644 Z" id="logo" fill="#FFFFFF"></path>
+                        <rect id="camera-on-light" fill="#62FFB1" x="82.5576923" y="3.69188148" width="1.22307692" height="1.23062716" rx="0.611538462"></rect>
+                        <rect id="camera" fill="#5C5C5C" x="78.2769231" y="3.0765679" width="2.44615385" height="2.46125432" rx="1.22307692"></rect>
+                        <rect id="microphone" fill="#545454" x="75.2192308" y="3.69188148" width="1.22307692" height="1.23062716" rx="0.611538462"></rect>
+                    </g>
+                    <rect id="wallpaper" fill="#69AFE9" x="8.56153846" y="8.61032864" width="141.876923" height="87.3745283"></rect>
+                    <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="8" font-weight="bold" letter-spacing="-0.1080247" fill="#FFFFFF">
+                        <tspan x="52.1579174" y="55.2942921">Summary Care </tspan>
+                        <tspan x="44.2739915" y="65.2942921">Record Application</tspan>
+                    </text>
+                    <g id="::-screen" transform="translate(8.561538, 7.999367)">
+                        <g id="::-contents" transform="translate(44.030769, 80.605789)"></g>
+                        <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="0 0.610961998 86.8384615 0.610961998 0 87.9854903"></polygon>
+                    </g>
+                </g>
+                <g id="//-MacBook-Pro-15" transform="translate(131.000000, 83.000000)">
+                    <path d="M9.225,4.00795481 C9.225,1.79442249 11.017664,0 13.2275626,0 L109.772437,0 C111.982992,0 113.775,1.79738023 113.775,4.00795481 L113.775,64.0714286 L9.225,64.0714286 L9.225,4.00795481 Z" id="Rectangle-117" fill="#3D3D3D"></path>
+                    <g id="::-base" transform="translate(0.000000, 64.071429)">
+                        <g id="Mask">
+                            <use fill="#D3D3D3" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        </g>
+                        <rect id="indicator-light" fill="#B2B2B2" x="115.62" y="1.84821429" width="3.69" height="1"></rect>
+                        <path d="M55.35,0 L67.65,0 L67.65,0.924107143 C67.65,1.43447743 67.240757,1.84821429 66.7255009,1.84821429 L56.2744991,1.84821429 C55.7639124,1.84821429 55.35,1.43803563 55.35,0.924107143 L55.35,0 Z" id="lip" fill="#B2B2B2"></path>
+                    </g>
+                    <rect id="macbook-label" fill="#626262" x="58.425" y="62.2232143" width="7.38" height="1"></rect>
+                    <g id="::-screen" transform="translate(13.530000, 4.312500)">
+                        <rect id="wallpaper" fill="#69AFE9" x="0" y="0" width="95.94" height="56.0625"></rect>
+                        <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="6" font-weight="bold" letter-spacing="-0.0810185224" fill="#FFFFFF">
+                            <tspan x="27.5416111" y="26.1654135">Summary Care </tspan>
+                            <tspan x="21.6286667" y="33.1654135">Record Application</tspan>
+                        </text>
+                        <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="0 0 55.965 0 0 56.0625"></polygon>
+                    </g>
+                    <ellipse id="webcam" fill="#5C5C5C" cx="61.8075" cy="2.15625" rx="1" ry="1"></ellipse>
+                </g>
+                <g id="//-MacBook-Gold" transform="translate(296.000000, 93.000000)">
+                    <g id="::-base" transform="translate(0.000000, 47.560976)">
+                        <g id="Mask">
+                            <use fill="#F1D8BA" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        </g>
+                        <rect id="lip" fill="#C7AC8D" x="37.8156028" y="0" width="12.1985816" height="1.2195122"></rect>
+                    </g>
+                    <path d="M9.75886525,3.00707688 C9.75886525,1.34631418 11.0927944,0 12.7601469,0 L75.0696403,0 C76.7272024,0 78.070922,1.34428859 78.070922,3.00707688 L78.070922,44.5121951 L9.75886525,44.5121951 L9.75886525,3.00707688 Z" id="screen-bg" fill="#3D3D3D"></path>
+                    <rect id="screen-bottom" fill="#4F4F4F" x="9.75886525" y="44.5121951" width="68.3120567" height="3.04878049"></rect>
+                    <rect id="macbook-label" fill="#757575" x="40.2553191" y="45.7317073" width="7.31914894" height="1"></rect>
+                    <g id="::-screen" transform="translate(13.418440, 4.268293)">
+                        <rect id="wallpaper" fill="#69AFE9" x="0" y="0" width="60.9929078" height="38.4146341"></rect>
+                        <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="0 0 38.4255319 0 0 38.4146341"></polygon>
+                    </g>
+                    <ellipse id="webcam" fill="#757575" cx="44.2198582" cy="2.13414634" rx="1" ry="1"></ellipse>
+                </g>
+                <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="4" font-weight="bold" letter-spacing="-0.0810185224" fill="#FFFFFF">
+                    <tspan x="326.838111" y="116">Summary Care </tspan>
+                    <tspan x="322.977167" y="121">Record Application</tspan>
+                </text>
+                <g id="//-iPad-" transform="translate(0.000000, 91.000000)">
+                    <rect id="main-body" fill="#3D3D3D" x="0" y="0" width="41" height="55" rx="4"></rect>
+                    <rect id="home-button" stroke="#505050" x="19.4701493" y="51.2222222" width="2.05970149" height="2.05555556" rx="1.02777778"></rect>
+                    <rect id="screen" fill="#69AFE9" x="2.44776119" y="5.5" width="36.1044776" height="44"></rect>
+                    <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="2.44776119 5.5 38.5522388 5.5 2.44776119 41.5555556"></polygon>
+                    <rect id="camera" fill="#575757" x="20.8059701" y="1.83333333" width="1.8358209" height="1.83333333" rx="0.916666667"></rect>
+                    <rect id="microphone" fill="#747474" x="18.9701493" y="2.44444444" width="1" height="1" rx="0.5"></rect>
+                </g>
+                <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="4" font-weight="bold" letter-spacing="-0.0675154328" fill="#FFFFFF">
+                    <tspan x="6.7570926" y="115">Summary Care </tspan>
+                    <tspan x="13.7765463" y="120">Record </tspan>
+                    <tspan x="10.1013349" y="125">Application</tspan>
+                </text>
+                <g id="//-iPhone-6" transform="translate(83.000000, 114.000000)">
+                    <rect id="main-body" fill="#3D3D3D" x="0" y="0" width="17" height="32" rx="2"></rect>
+                    <rect id="home-button" stroke="#6A6A6A" x="8.05555556" y="29.4230769" width="1" height="1" rx="0.5"></rect>
+                    <rect id="screen" fill="#69AFE9" x="1.25925926" y="4.30769231" width="14.4814815" height="23.3846154"></rect>
+                    <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="1.25925926 4.30769231 15.7407407 4.30769231 1.25925926 18.4615385"></polygon>
+                    <rect id="microphone" fill="#A1A1A1" x="5.66666667" y="1.84615385" width="1" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle-267" fill="#121212" x="6.92592593" y="1.84615385" width="3.14814815" height="1"></rect>
+                </g>
+                <text id="Summary-Care-Record" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="2" font-weight="bold" letter-spacing="-0.0270061735" fill="#FFFFFF">
+                    <tspan x="87.5585216" y="129">Summary </tspan>
+                    <tspan x="86.147534" y="131">Care Record </tspan>
+                    <tspan x="86.763534" y="133">Application</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

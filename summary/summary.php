@@ -67,7 +67,7 @@
                         <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
                         <br/>
                         <p>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
-                        <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
+                        <p>To encourage that recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
                         <p>Here's:</p>

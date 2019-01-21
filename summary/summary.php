@@ -78,7 +78,7 @@
                         <br/>
                         <p>You can also look at <a href="https://dfe-tslr.herokuapp.com/launch">the prototypes</a> that we tested with users.</p>
                     </div>
-                    <div class="large-8 medium-4 cell small-order-1 medium-order-2" style="text-align: center;">
+                    <div class="large-4 medium-4 cell small-order-1 medium-order-2" style="text-align: center;">
                         <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
                     </div>
                 </div>

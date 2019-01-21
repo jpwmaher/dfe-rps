@@ -40,7 +40,7 @@
         <!-- End of grid container -->
     </div>
 
-    <?php include ('/includes/summary-js.php'); ?>
+    <?php include ('includes/summary-js.php'); ?>
 
 </body>
 

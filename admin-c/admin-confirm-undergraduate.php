@@ -32,7 +32,7 @@
 
                             <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                                 <h1 class="govuk-fieldset__heading">
-                                    Which subject does Jane Jones have a specialised qualification in?
+                                    Which subject does Jane Jones have a specialised teaching qualification in?
                                 </h1>
                                 <br/>
                                 <!--    <p class="govuk-body">Did <strong>Jane Jones</strong> teach at Moorside High School for any time between

@@ -14,8 +14,13 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="margin-top: 40px;">
+                <img src="img/teacher.svg">
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
             <div id="research" class="cell" style="margin-top: 40px;">
-                <img src="img/teacher.svg"><br/>
                 <div class="grid-x grid-padding-x grid-margin-x small-up-1 medium-up-3 large-up-3">
                     <div class="cell nav-panel"><a class="button secondary hollow expanded big-font" href="exec-summary.php">Summary</a></div>
                     <div class="cell nav-panel"><a class="button hollow expanded big-font" href="#">Videos</a></div>

@@ -74,8 +74,7 @@
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2" style="text-align: center; padding-bottom: 40px;">
                         <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
                     </div>
-                    <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px;">
-                        <p>Here's:</p>
+                    <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 40px;">
                         <ul class="menu vertical" data-magellan>
                             <li>
                                 <a href="#what-weve-done">

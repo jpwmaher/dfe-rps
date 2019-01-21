@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="436px" viewBox="0 0 500 436" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>teacher</title>
+    <desc>Created with Sketch.</desc>
+    <g id="teacher" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#9B9B9B" stroke-width="15" x="7.5" y="7.5" width="485" height="293"></rect>
+        <polygon id="Path-2" fill="#4A4A4A" points="324 90 295 50 335 84"></polygon>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="15" fill="#4A4A4A" cx="244" cy="176" r="58.5"></circle>
+        <path d="M193,428 L187,355 L167,377 L103,428 C93.5403442,431.550871 86.8736775,431.550871 83,428 C79.1263225,424.449129 77.7929892,417.115796 79,406 L142,346 C156.691745,323.55578 167.025079,307.55578 173,298 C183.23807,281.626102 193,263 200,257 C210.14129,248.379903 235,240 268,236 C277.907953,234.799036 330,207 330,159 C330,153.865203 330,147.959466 330,130 C330,123.751351 328.333333,112.751351 325,97 C328.333333,88.3333333 333.666667,84 341,84 C348.333333,84 353,88.3333333 355,97 C362.333333,135 363.333333,167.666667 358,195 C352.666667,222.333333 336,249.666667 308,277 L308,428 L193,428 Z" id="Path" stroke="#FFFFFF" stroke-width="10" fill="#4A4A4A"></path>
+    </g>
+</svg>

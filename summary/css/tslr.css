@@ -34,6 +34,10 @@
     font-display: fallback;
 }
 
+body {
+    background: #005EA5;
+    color: white;
+}
 
 body,
 h1,

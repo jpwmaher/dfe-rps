@@ -14,7 +14,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="margin-top: 40px;">
+            <div id="teacher-icon-div" class="cell" style="margin-top: 40px;">
                 <img src="img/teacher.svg" id="teacher-icon">
             </div>
         </div>

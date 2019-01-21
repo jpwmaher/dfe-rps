@@ -48,6 +48,10 @@ body {
     max-height: 200px;
 }
 
+#hippo-icon {
+    max-height: 24px;
+}
+
 body,
 h1,
 .h1,

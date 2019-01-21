@@ -39,6 +39,10 @@ body {
     color: white;
 }
 
+#teacher-icon {
+    max-height: 200px;
+}
+
 body,
 h1,
 .h1,

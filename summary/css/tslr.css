@@ -161,6 +161,13 @@ h6,
     color: white;
 }
 
+.button.hollow.secondary:hover {
+    border-color: white;
+    background: white;
+    color: #005EA5;
+    transition: 0.2s;
+}
+
 #select-secondary-menu {
     -webkit-box-shadow: 0px 5px 5px 0px rgba(224, 224, 224, 1);
     -moz-box-shadow: 0px 5px 5px 0px rgba(224, 224, 224, 1);

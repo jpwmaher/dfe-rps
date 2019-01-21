@@ -48,17 +48,17 @@
     <div class="grid-container">
 
         <ol class="vertical menu sticky scrollToTop" data-magellan>
+            <li><a href="#summary">Summary</a></li>
             <li><a href="#what-weve-done">What we've done</a></li>
             <li><a href="#what-weve-learned">What we've learned</a>
             </li>
-            <li><a href="#user-groups">User groups</a></li>
         </ol>
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; ">
                 <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
-            <div class="cell">
+            <div id="summary" class="cell" data-magellan-target="summary">
                 <div class="grid-x grid-padding-x">
                     <div class="cell">
                         <H2 style="font-size: 15vmin; color: #0072C6;">Summary</H2>

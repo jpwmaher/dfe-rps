@@ -52,6 +52,10 @@ body {
     max-height: 24px;
 }
 
+#summary-footer {
+    margin-top: 15vh;
+}
+
 body,
 h1,
 .h1,

@@ -66,10 +66,11 @@
                     <div id="intro" class="large-6 medium-8 cell small-order-2 medium-order-1" style="z-index: 1;">
                         <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
                         <br/>
-                        <p>High-quality teaching is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
+                        <p>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
+                        <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
 
-                        <p>We've conducted research on the teachers’ student loan reimbursement pilot scheme from October 18 to January 19.</p>
-                        <br/>
+                        <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
+                        <p>Here's:</p>
                         <ul class="menu vertical" data-magellan>
                             <li><a href="#what-weve-done">What we've done</a></li>
                             <li><a href="#what-weve-learned">What we've learned</a></li>

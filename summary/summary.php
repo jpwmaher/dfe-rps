@@ -77,8 +77,16 @@
                     <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px;">
                         <p>Here's:</p>
                         <ul class="menu vertical" data-magellan>
-                            <li><a href="#what-weve-done">What we've done</a></li>
-                            <li><a href="#what-weve-learned">What we've learned</a></li>
+                            <li>
+                                <a href="#what-weve-done">
+                                    <h4>1. What we've done</h4>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#what-weve-learned">
+                                    <h4>2. What we've learned</h4>
+                                </a>
+                            </li>
                         </ul>
                         <br/>
                         <p>You can also look at <a href="https://dfe-tslr.herokuapp.com/launch">the prototypes</a> that we tested with users.</p>

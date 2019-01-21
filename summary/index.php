@@ -32,7 +32,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div id="footer" class="cell">
-                <img src="img/hippo-svg.svg" id="hippo-icon">
+                <img src="img/hippo-logo.png" id="hippo-icon">
             </div>
         </div>
 

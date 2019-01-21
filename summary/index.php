@@ -30,11 +30,7 @@
             </div>
         </div>
 
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
-                <img src="img/hippo-logo.png" id="hippo-icon">
-            </div>
-        </div>
+        <?php include ('includes/summary-footer.php'); ?>
 
         <!-- End of grid container -->
     </div>

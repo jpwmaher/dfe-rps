@@ -9,7 +9,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div id="page-head" class="cell">
-                <h1>SCRa</h1>
+                <h1>Teachers’ Student Loan Reimbursement Service</h1>
             </div>
         </div>
 

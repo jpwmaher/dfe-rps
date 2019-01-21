@@ -8,7 +8,7 @@
     <title>TSLR - Alpha</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/scra.css">
+    <link rel="stylesheet" href="css/tslr.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/foundation-icons.css" />
 </head>

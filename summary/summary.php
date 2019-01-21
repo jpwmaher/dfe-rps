@@ -61,29 +61,24 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x">
                     <div class="cell">
-                        <H2 style="font-size: 15vmin; color: #0072C6;">Overview</H2>
+                        <H2 style="font-size: 15vmin; color: #0072C6;">Summary</H2>
                     </div>
                     <div id="intro" class="large-6 medium-8 cell small-order-2 medium-order-1" style="z-index: 1;">
-                        <h4>Getting the <span class="highlight">right</span> information to the <span class="highlight">right</span> people at their point of <span class="highlight">need</span> </h4>
+                        <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need.""</h4>
                         <br/>
-                        <p>Earlier this year we started a Discovery phase on the Summary Care Record Application to understand what was required to meet the needs of Health &amp; Social Care providers. </p>
-                        <!-- <p>The decision was taken to build a new version of the SCRa from the ground up, to enable access over the internet on all devices, with enhanced functionality and expanded content.</p> -->
-                        <p>We've conducted <span style="text-decoration: underline; font-weight: bold;">a lot</span> of research which you can read about below...</p>
+                        <p>High-quality teaching is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
+
+                        <p>We've conducted an Alpha from October 18 to January 19.</p>
                         <br/>
                         <ul class="menu vertical" data-magellan>
                             <li><a href="#what-weve-done">What we've done</a></li>
-                            <li><a href="#what-weve-learned">What we've learned</a>
-                                <ul style="list-style: none;">
-                                    <li><a href="#what-weve-learned-themes">- Themes identified</a></li>
-                                    <li><a href="#user-groups">- Findings by user group</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="#what-weve-learned">What we've learned</a></li>
                         </ul>
                         <br/>
-                        <p>You can also look at <a href="index.html#prototypes">the prototypes</a> that we are currently testing with users.</p>
+                        <p>You can also look at <a href="index.html#prototypes">the prototypes</a> that we tested with users.</p>
                     </div>
-                    <div class="large-6 medium-4 cell small-order-1 medium-order-2">
-                        Image of prototype in situ (laptop)
+                    <div class="large-6 medium-4 cell small-order-1 medium-order-2" style="text-align: center;">
+                        <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
                     </div>
                 </div>
             </div>

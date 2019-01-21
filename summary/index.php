@@ -31,7 +31,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div id="footer" class="cell">
+            <div class="cell">
                 <img src="img/hippo-logo.png" id="hippo-icon">
             </div>
         </div>

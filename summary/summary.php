@@ -64,18 +64,18 @@
                         <H2 style="font-size: 15vmin; color: #0072C6;">Summary</H2>
                     </div>
                     <div id="intro" class="large-6 medium-8 cell small-order-2 medium-order-1" style="z-index: 1;">
-                        <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need.""</h4>
+                        <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
                         <br/>
                         <p>High-quality teaching is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
 
-                        <p>We've conducted an Alpha from October 18 to January 19.</p>
+                        <p>We've conducted research on the teachers’ student loan reimbursement pilot scheme from October 18 to January 19.</p>
                         <br/>
                         <ul class="menu vertical" data-magellan>
                             <li><a href="#what-weve-done">What we've done</a></li>
                             <li><a href="#what-weve-learned">What we've learned</a></li>
                         </ul>
                         <br/>
-                        <p>You can also look at <a href="index.html#prototypes">the prototypes</a> that we tested with users.</p>
+                        <p>You can also look at <a href="https://dfe-tslr.herokuapp.com/launch">the prototypes</a> that we tested with users.</p>
                     </div>
                     <div class="large-6 medium-4 cell small-order-1 medium-order-2" style="text-align: center;">
                         <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">

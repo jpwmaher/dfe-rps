@@ -70,6 +70,11 @@
                         <p>To encourage that recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
+                    </div>
+                    <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2" style="text-align: center; padding-bottom: 40px;">
+                        <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
+                    </div>
+                    <div class="cell" style="text-align: center; padding-bottom: 40px;">
                         <p>Here's:</p>
                         <ul class="menu vertical" data-magellan>
                             <li><a href="#what-weve-done">What we've done</a></li>
@@ -77,9 +82,6 @@
                         </ul>
                         <br/>
                         <p>You can also look at <a href="https://dfe-tslr.herokuapp.com/launch">the prototypes</a> that we tested with users.</p>
-                    </div>
-                    <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2" style="text-align: center; padding-bottom: 40px;">
-                        <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
                     </div>
                 </div>
             </div>

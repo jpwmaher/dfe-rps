@@ -228,36 +228,6 @@
             </div>
         </div>
 
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div id="what-weve-learned-themes" class="cell" style="text-align: center; margin-top: 120px;" data-magellan-target="what-weve-learned-themes">
-                <br/><br/>
-                <h2>As we researched with users and pieced together the complex environment the following <span style="text-decoration: underline;">themes</span> emerged:</h2><br/><br/>
-            </div>
-            <div class="cell">
-                <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Choice</h3>
-                        <p style="text-align: left;">Care providers want choice of device, operating system, &amp; authentication</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="large-12 medium-12 cell">
-                                <img src="img/responsive.svg" style="padding: 10%; text-align: center;">
-                            </div>
-                            <div class="large-12 medium-12 cell">
-                                <img src="img/OS.svg" style="padding: 15% 10%; text-align: center;"></div>
-                        </div>
-                    </div>
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Clarity</h3>
-                        <p style="text-align: left;">Care providers want a clear &amp; consistent navigable UI, with organised, prioritised &amp; structured information</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell">
-                                <img src="img/iPhone-x-scra-1.png" style="max-height: 450px; padding: 10%;"><br/><br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">

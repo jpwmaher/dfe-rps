@@ -247,8 +247,6 @@
                             <div class="large-12 medium-12 cell">
                                 <img src="img/whatsapp-logo.png" style="padding: 10%; text-align: center;">
                             </div>
-                            <div class="large-12 medium-12 cell">
-                                <img src="img/OS.svg" style="padding: 15% 10%; text-align: center;"></div>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
@@ -257,7 +255,7 @@
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell">
-                                <span class="emoji">😐</span><br/><br/>
+                                An image...
                             </div>
                         </div>
                     </div>

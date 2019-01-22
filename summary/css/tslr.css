@@ -758,6 +758,7 @@ label {
 #what-weve-learned-mpr {
     font-weight: bold;
     font-size: 36px;
+    line-height: 1.0;
 }
 
 .really-big {
@@ -871,6 +872,7 @@ screen and (min-width: 40em) {
     #what-weve-learned-mpr {
         text-align: center;
         font-size: 8vmax;
+        line-height: 1.0
     }
     .really-big {
         font-size: 10vmax;

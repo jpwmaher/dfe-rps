@@ -48,7 +48,7 @@
     <div class="grid-container">
 
         <ol class="vertical menu sticky scrollToTop" data-magellan>
-            <li><a href="#summary">Summary</a></li>
+            <li><a href="#summary">Overview</a></li>
             <li><a href="#what-weve-done">What we've done</a></li>
             <li><a href="#what-weve-learned">What we've learned</a>
             </li>
@@ -62,7 +62,7 @@
                 <ul id="main-menu" class="menu vertical" data-magellan>
                     <li>
                         <a href="#summary">
-                            <h4>1. Summary</h4>
+                            <h4>1. Overview</h4>
                         </a>
                     </li>
                     <li>
@@ -84,7 +84,7 @@
             <div id="summary" class="cell" data-magellan-target="summary">
                 <div class="grid-x grid-padding-x">
                     <div class="cell wow fadeInLeft" data-wow-duration="1s">
-                        <H2 style="font-size: 15vmin; color: #0072C6;">Summary</H2>
+                        <H2 style="font-size: 15vmin; color: #0072C6;">Overview</H2>
                     </div>
                     <div id="intro" class="large-6 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
                         <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>

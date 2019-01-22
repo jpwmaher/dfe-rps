@@ -138,7 +138,7 @@
                         </div>
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooC">
-                                <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 2vmax 10vmax;"><img src="img/interview.svg" class="big-icon-bg" style="height: 100%;"><br/></div>
+                                <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 2vmax 10vmax;"><img src="img/interview.svg" class="big-icon-bg"><br/></div>
                                 <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">65</span>
                                     <h4 class="big-icon-bg padd-top">hours of interviews</h4>
                                 </div>

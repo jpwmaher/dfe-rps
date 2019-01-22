@@ -57,6 +57,10 @@ body {
     margin-bottom: 40px;
 }
 
+.emoji {
+    font-size: 5.5rem;
+}
+
 body,
 h1,
 .h1,

@@ -61,6 +61,10 @@ body {
     font-size: 5.5rem;
 }
 
+.standout {
+    color: #007B85 !important;
+}
+
 body,
 h1,
 .h1,

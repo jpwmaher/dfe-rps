@@ -90,10 +90,10 @@
                         <h4>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life</h4>
                         <br/>
                         <p><strong>But</strong>...teacher applications are decreasing. Last year the figure decreased by 29%.</p>
-                        <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot reimbursing the student loan repayments of new teachers.</p>
+                        <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot that reimburses the student loan repayments of new teachers.</p>
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
-                        <p>In parallel, we extended the scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths &amp; Physics Retention Payments</span> scheme.</p>
+                        <p>In parallel, we extended our scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths &amp; Physics Retention Payments</span> scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png">
@@ -212,7 +212,7 @@
                 <br/><br/>
                 <h2>Our first was task to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
                     KU/edit" target="_blank" title="View the full problem statement with links to evidence">problem</a></h2><br/><br/>
-                <h4>"Schools in more challenging areas are finding it harder to recruit and retain teachers, particularly in the subjects of languages (excluding English), science and computer science."</h4><br/><br/><br/>
+                <h4>"Schools in more challenging areas are finding it harder to recruit and retain teachers, particularly in the subjects of languages (excluding English), science and computer science."</h4><br/><br/><br/><br/><br/>
                 <h2>We then gave ourselves the following <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
 /edit" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2><br/><br/>
                 <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>

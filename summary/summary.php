@@ -87,10 +87,10 @@
                         <H2 style="font-size: 15vmin; color: #0072C6;">Overview</H2>
                     </div>
                     <div id="intro" class="large-6 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
-                        <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
+                        <h4>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life</h4>
                         <br/>
-                        <p>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
-                        <p>To encourage that recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
+                        <p>Teacher applications are decreasing. Last year the figure decreased by 29%.</p>
+                        <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
                         <p>In parallel, we extended the scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths &amp; Physics Retention Payments</span> scheme.</p>

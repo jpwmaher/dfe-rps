@@ -252,11 +252,12 @@
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Clarity</h3>
-                        <p style="text-align: left;">Care providers want a clear &amp; consistent navigable UI, with organised, prioritised &amp; structured information</p>
+                        <h3 style="text-align: center;">Service name</h3>
+                        <p style="text-align: left;">Teachers said the title of the service makes sense, but all the eligibility critera aren't explicit in the title
+                        </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell">
-                                <img src="img/iPhone-x-scra-1.png" style="max-height: 450px; padding: 10%;"><br/><br/>
+                                <span class="emoji">😐</span><br/><br/>
                             </div>
                         </div>
                     </div>

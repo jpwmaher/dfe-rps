@@ -125,8 +125,8 @@
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooB">
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooB"><img src="img/group.svg" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">178</span>
-                                    <h5 class="big-icon-bg padd-top">users engaged to form a Design Review Group</h5>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">99</span>
+                                    <h5 class="big-icon-bg padd-top">users interviewed</h5>
                                 </div>
                             </div>
                         </div>
@@ -139,7 +139,7 @@
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooC">
                                 <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC"><img src="img/nurse-admin.svg" class="big-icon-bg" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">325</span>
+                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">65</span>
                                     <h4 class="big-icon-bg padd-top">hours of interviews</h4>
                                 </div>
                             </div>
@@ -180,8 +180,8 @@
                         </div>
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooO">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO"><img src="img/prototype.svg" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">7</span>
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO"><img src="img/prototype-mac.svg" style="height: 100%;"><br/></div>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">10</span>
                                     <h5 class="big-icon-bg padd-top">prototypes usability tested</h5>
                                 </div>
                             </div>

@@ -58,16 +58,21 @@
             <div class="cell wow fadeIn" style="text-align: center;" wow-duration="1s">
                 <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
-            <div class="cell" style="text-align: center; padding-bottom: 40px; padding-top: 120px;">
+            <div class="cell" style="text-align: center; padding-bottom: 40px; padding-top: 100px;">
                 <ul id="main-menu" class="menu vertical" data-magellan>
                     <li>
+                        <a href="#summary">
+                            <h4>1. Summary</h4>
+                        </a>
+                    </li>
+                    <li>
                         <a href="#what-weve-done">
-                            <h4>1. What we've done</h4>
+                            <h4>2. What we've done</h4>
                         </a>
                     </li>
                     <li>
                         <a href="#what-weve-learned">
-                            <h4>2. What we've learned</h4>
+                            <h4>3. What we've learned</h4>
                         </a>
                         <p>
                             <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a>

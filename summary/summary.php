@@ -219,12 +219,12 @@
                     /edit" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2>
                 <br/><br/>
                 <span class="emoji">🧐</span><br/><br/>
-                <h4 class="standout">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
-            </div>
-            <div class="cell">
+                <h4 class="standout">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
                 <h2>We then got to work on testing the assumptions we had at the beginning of Alpha. Here's what we know now:</h2><br/><br/>
                 <span class="emoji">👩🏻‍🏫</span>
                 <br/><br/>
+            </div>
+            <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h3 style="text-align: center;">Discover</h3>

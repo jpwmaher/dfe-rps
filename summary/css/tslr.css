@@ -754,7 +754,8 @@ label {
 }
 
 #what-weve-done,
-#what-weve-learned {
+#what-weve-learned,
+#what-weve-learned-mpr {
     font-weight: bold;
     font-size: 36px;
 }
@@ -866,7 +867,8 @@ screen and (min-width: 40em) {
         font-size: 90%;
     }
     #what-weve-done,
-    #what-weve-learned {
+    #what-weve-learned,
+    #what-weve-learned-mpr {
         text-align: center;
         font-size: 8vmax;
     }

@@ -183,7 +183,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
-                <span style="color: #0072C6 !important;">What we've learned </span>
+                <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
             </div>
         </div>
 
@@ -219,9 +219,9 @@
             </div>
         </div>
 
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div id="what-weve-learned-mpr" class="cell" style="text-align: center; margin-top: 60px;" data-magellan-target="what-weve-learned-mpr">
-                <h2>about Maths &amp; Physics Retention Payments</h2><br/><br/>
+        <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
+            <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
+                <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
             </div>
         </div>
 

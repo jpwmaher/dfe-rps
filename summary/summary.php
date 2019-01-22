@@ -58,6 +58,24 @@
             <div class="cell wow fadeIn" style="text-align: center;" wow-duration="1s">
                 <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
+            <div class="cell" style="text-align: center; padding-bottom: 40px; padding-top: 120px;">
+                <ul id="main-menu" class="menu vertical" data-magellan>
+                    <li>
+                        <a href="#what-weve-done">
+                            <h4>1. What we've done</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#what-weve-learned">
+                            <h4>2. What we've learned</h4>
+                        </a>
+                        <p>
+                            <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a>
+                            <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
             <div id="summary" class="cell" data-magellan-target="summary">
                 <div class="grid-x grid-padding-x">
                     <div class="cell wow fadeInLeft" data-wow-duration="1s">
@@ -74,24 +92,6 @@
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png">
-                    </div>
-                    <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 120px;">
-                        <ul id="main-menu" class="menu vertical" data-magellan>
-                            <li>
-                                <a href="#what-weve-done">
-                                    <h4>1. What we've done</h4>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#what-weve-learned">
-                                    <h4>2. What we've learned</h4>
-                                </a>
-                                <p>
-                                    <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a>
-                                    <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
-                                </p>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

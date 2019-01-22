@@ -126,7 +126,7 @@
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooB">
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooB"><img src="img/group.svg" style="height: 100%;"><br/></div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">99</span>
-                                    <h5 class="big-icon-bg padd-top">users interviewed</h5>
+                                    <h4 class="big-icon-bg padd-top">users interviewed</h4>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooO">
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;"><img src="img/prototype-mac.svg" style="height: 100%;"></div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">10</span>
-                                    <h5 class="big-icon-bg padd-top">prototypes usability tested</h5>
+                                    <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
                                     <a href="#">View the prototypes</a>
                                 </div>
                             </div>

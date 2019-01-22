@@ -58,7 +58,7 @@
             <div class="cell wow fadeIn" style="text-align: center;" wow-duration="1s">
                 <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
-            <div class="cell" style="text-align: center; padding-bottom: 40px; padding-top: 100px;">
+            <div class="cell" style="text-align: center; padding-bottom: 40px; margin-bottom: 80px;">
                 <ul id="main-menu" class="menu vertical" data-magellan>
                     <li>
                         <a href="#summary">

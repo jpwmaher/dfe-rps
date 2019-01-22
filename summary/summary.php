@@ -60,7 +60,7 @@
             </div>
             <div id="summary" class="cell" data-magellan-target="summary">
                 <div class="grid-x grid-padding-x">
-                    <div class="cell" wow fadeInLeft data-wow-duration="1s">
+                    <div class="cell wow fadeInLeft" data-wow-duration="1s">
                         <H2 style="font-size: 15vmin; color: #0072C6;">Summary</H2>
                     </div>
                     <div id="intro" class="large-6 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
@@ -71,7 +71,7 @@
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
                     </div>
-                    <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2" style="text-align: center; padding-bottom: 40px;" wow fadeInRight data-wow-duration="1s">
+                    <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png">
                     </div>
                     <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 80px;">
@@ -95,7 +95,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div id="what-weve-done" class="cell" data-magellan-target="what-weve-done">
+            <div id="what-weve-done" class="cell wow fadeIn" data-magellan-target="what-weve-done">
                 <span style="color: #0072C6 !important;">What we've done</span>
             </div>
         </div>
@@ -118,7 +118,7 @@
                         </div>
                     </div> -->
 
-                    <div class="timeline-item" wow fadeInRight data-wow-duration="1s">
+                    <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-torsos-all zurb-icon"></i>
                         </div>
@@ -132,7 +132,7 @@
                         </div>
                     </div>
 
-                    <div class="timeline-item" wow fadeInLeft data-wow-duration="1s">
+                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-torsos-all-female zurb-icon"></i>
                         </div>
@@ -174,7 +174,7 @@
                         </div>
                     </div> -->
 
-                    <div class="timeline-item" wow fadeInRight data-wow-duration="1s">
+                    <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-results-demographics zurb-icon"></i>
                         </div>

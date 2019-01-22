@@ -148,6 +148,20 @@
 
                     <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
+                            <i id="torso" class="fi-torsos-all-female zurb-icon"></i>
+                        </div>
+                        <div class="timeline-content">
+                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooC">
+                                <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 2vmax 10vmax;"><img src="img/teacher-persona.svg" class="big-icon-bg"><br/></div>
+                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">7</span>
+                                    <h4 class="big-icon-bg padd-top">user personas created</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
+                        <div class="timeline-icon">
                             <i id="torso" class="fi-results-demographics zurb-icon"></i>
                         </div>
                         <div class="timeline-content">

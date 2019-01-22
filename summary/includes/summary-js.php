@@ -7,14 +7,4 @@
     new WOW().init();
 
 </script>
-<script>
-    $(document).ready(function() {
-
-        /*! Fades in page on load */
-        $('body').css('display', 'none');
-        $('body').fadeIn(2000);
-
-    });
-
-</script>
 <script src="js/vendor/top2.js"></script>

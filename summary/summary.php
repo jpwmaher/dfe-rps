@@ -219,7 +219,7 @@
                     /edit" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2>
                 <br/><br/>
                 <span class="emoji">🧐</span><br/><br/>
-                <h4 class="standout">"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
+                <h4 class="standout">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
             </div>
 
 

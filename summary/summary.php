@@ -89,7 +89,7 @@
                     <div id="intro" class="large-6 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
                         <h4>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life</h4>
                         <br/>
-                        <p>But...teacher applications are decreasing. Last year the figure decreased by 29%.</p>
+                        <p><strong>But</strong>...teacher applications are decreasing. Last year the figure decreased by 29%.</p>
                         <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot reimbursing the student loan repayments of new teachers.</p>
 
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
@@ -211,7 +211,8 @@
             <div id="what-weve-learned-themes" class="cell" style="text-align: center; margin-top: 120px;" data-magellan-target="what-weve-learned-themes">
                 <br/><br/>
                 <h2>Our first was task to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
-KU/edit" target="_blank">problem</a> and give ourselves a <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
+                    KU/edit" target="_blank">problem</a></h2>
+                <h2>We then gave ourselves the following <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
 /edit" target="_blank">mission</a></h2><br/><br/>
                 <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
             </div>
@@ -219,31 +220,6 @@ KU/edit" target="_blank">problem</a> and give ourselves a <a href="https://docs.
 
 
 
-
-            <!--   <div class="cell">
-                <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Choice</h3>
-                        <p style="text-align: left;">Care providers want choice of device, operating system, &amp; authentication</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="large-12 medium-12 cell">
-                                <img src="img/responsive.svg" style="padding: 10%; text-align: center;">
-                            </div>
-                            <div class="large-12 medium-12 cell">
-                                <img src="img/OS.svg" style="padding: 15% 10%; text-align: center;"></div>
-                        </div>
-                    </div>
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Clarity</h3>
-                        <p style="text-align: left;">Care providers want a clear &amp; consistent navigable UI, with organised, prioritised &amp; structured information</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell">
-                                <img src="img/iPhone-x-scra-1.png" style="max-height: 450px; padding: 10%;"><br/><br/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">

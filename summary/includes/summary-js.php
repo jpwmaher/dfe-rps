@@ -12,7 +12,7 @@
 
         /*! Fades in page on load */
         $('body').css('display', 'none');
-        $('body').fadeIn(500);
+        $('body').fadeIn(1500);
 
     });
 

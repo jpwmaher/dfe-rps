@@ -181,8 +181,8 @@
                         </div>
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooO">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
-                                    <img src="img/event.svg">
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO">
+                                    <img src="img/event.svg" style="height: 100%;">
                                 </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
                                     <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>

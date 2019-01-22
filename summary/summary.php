@@ -76,7 +76,7 @@
                         <img src="img/macbook.png">
                     </div>
                     <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 120px;">
-                        <ul class="menu vertical" data-magellan>
+                        <ul id="main-menu" class="menu vertical" data-magellan>
                             <li>
                                 <a href="#what-weve-done">
                                     <h4>1. What we've done</h4>
@@ -87,13 +87,11 @@
                                     <h4>2. What we've learned</h4>
                                 </a>
                                 <p>
-                                    <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a><br>
+                                    <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a>
                                     <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
                                 </p>
                             </li>
                         </ul>
-                        <br/>
-                        <p>You can also look at <a href="https://dfe-tslr.herokuapp.com/launch">the prototypes</a> that we tested with users.</p>
                     </div>
                 </div>
             </div>

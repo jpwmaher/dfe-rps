@@ -96,6 +96,12 @@ h6,
     padding-top: 20px;
 }
 
+#main-menu {
+    background: #e0e0e0;
+    border-radius: 15px;
+    padding: 20px;
+}
+
 .zurb-icon {
     color: #fff;
     font-size: 36px;

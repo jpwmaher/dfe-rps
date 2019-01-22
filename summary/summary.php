@@ -86,10 +86,10 @@
                                 <a href="#what-weve-learned">
                                     <h4>2. What we've learned</h4>
                                 </a>
-                                <ul>
-                                    <li><a href="#what-weve-learned-tslr">about Teachers’ Student Loan Reimbursement Service</a></li>
-                                    <li><a href="#what-weve-learned-mpr">about Maths &amp; Physics Retention Payments</a></li>
-                                </ul>
+                                <p>
+                                    <a href="#what-weve-learned-tslr">- about Teachers’ Student Loan Reimbursement Service</a><br>
+                                    <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
+                                </p>
                             </li>
                         </ul>
                         <br/>

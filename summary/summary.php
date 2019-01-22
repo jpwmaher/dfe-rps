@@ -225,8 +225,10 @@
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
             <div class="cell">
+                <h2>Here's what we know now:</h2> <br/><br/>
+            </div>
+            <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <h2>Here's what we know now:</h2>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h3 style="text-align: center;">Discover</h3>
                         <p style="text-align: left;">Teachers will find out about the scheme from their school, or via teacher Facebook or WhatsApp groups</p>

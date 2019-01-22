@@ -104,7 +104,7 @@
             <div id="tasks" class="cell" style="margin-top: 20px;">
                 <div class="timeline">
 
-                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
+                    <!--       <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-target-two zurb-icon"></i>
                         </div>
@@ -116,7 +116,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="timeline-item">
                         <div class="timeline-icon wow fadeInRight">
@@ -146,7 +146,7 @@
                         </div>
                     </div>
 
-                    <div class="timeline-item">
+                    <!--    <div class="timeline-item">
                         <div class="timeline-icon wow fadeInRight">
                             <i id="torso" class="fi-comment-quotes zurb-icon"></i>
                         </div>
@@ -172,7 +172,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="timeline-item">
                         <div class="timeline-icon wow fadeInRight">

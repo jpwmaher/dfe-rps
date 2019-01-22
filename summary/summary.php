@@ -75,7 +75,7 @@
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png">
                     </div>
-                    <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 80px;">
+                    <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 120px;">
                         <ul class="menu vertical" data-magellan>
                             <li>
                                 <a href="#what-weve-done">

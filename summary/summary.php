@@ -146,41 +146,15 @@
                         </div>
                     </div>
 
-                    <!--    <div class="timeline-item">
-                        <div class="timeline-icon wow fadeInRight">
-                            <i id="torso" class="fi-comment-quotes zurb-icon"></i>
-                        </div>
-                        <div class="timeline-content">
-                            <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooD">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooD"><img data-interchange="[img/faces.svg, small], [img/faces-horiz.svg, medium], [img/faces-horiz.svg, large]" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooD"><span class="really-really-big">367</span>
-                                    <h5 class="big-icon-bg padd-top">online user surveys completed</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
-                        <div class="timeline-icon">
-                            <i id="torso" class="fi-graph-trend zurb-icon"></i>
-                        </div>
-                        <div class="timeline-content">
-                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooE">
-                                <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooE"><img src="img/machine.svg" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooE"><span class="really-big big-icon-bg">500,000</span>
-                                    <h4 class="big-icon-bg" style="margin-top: 10px !important;">SCRa user sessions analysed</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
                     <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-results-demographics zurb-icon"></i>
                         </div>
                         <div class="timeline-content">
-                            <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooO">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;"><img src="img/prototype-mac.svg" style="height: 100%;"></div>
+                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooO">
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
+                                    <img src="img/prototype-mac.svg" style="height: 100%;">
+                                </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">10</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
                                     <a href="#">View the prototypes</a>

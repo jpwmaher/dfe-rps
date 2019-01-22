@@ -161,8 +161,8 @@
                                 </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">16</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
-                                    <a href="#">View the TSLR prototypes</a>
-                                    <a href="#">View the MPR prototypes</a>
+                                    <a href="https://dfe-tslr.herokuapp.com/launch">View the TSLR prototypes</a><br/>
+                                    <a href="https://dfe-rps.herokuapp.com">View the MPR prototypes</a>
                                 </div>
                             </div>
                         </div>

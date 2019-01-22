@@ -189,17 +189,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div id="what-weve-learned-usage" class="cell" style="text-align: center; margin-top: 60px;" data-magellan-target="what-weve-learned-usage">
-                <h2>SCRa is used <span style="text-decoration: underline;">a lot</span>:</h2><br/><br/>
-            </div>
-            <div class="large-6 medium-6 cell" style="text-align: center;">
-                <p><img src="img/connectivity.svg" style="height: 80px;"></p>
-                <p><span style="font-size: 64px; font-weight: bold;">221 million</span></p>
-                <h5>transactions in 2017 (<i class="fi-arrow-up" style="color: seagreen!important;"></i> <strong>18%</strong> YOY)</h5>
-            </div>
-            <div class="large-6 medium-6 cell" style="text-align: center;">
-                <p><i class="fi-torsos-all access-icon" style="font-size: 50px;"></i></p>
-                <p><span style="font-size: 64px; font-weight: bold;">45,500</span></p>
-                <h5>active users</h5>
+                <h2>about Teachers’ Student Loan Reimbursement Service</h2><br/><br/>
             </div>
         </div>
 

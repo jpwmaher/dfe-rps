@@ -69,7 +69,7 @@
                         <p>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life.</p>
                         <p>To encourage that recruitment and retention, the DfE has commissioned a 10 year pilot to reimburse the student loan repayments of new teachers.</p>
 
-                        <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
+                        <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19. In parallel, we also conducted a 'mini-Discovery' into the proposed Maths &amp; Physics Retention Payments scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png">

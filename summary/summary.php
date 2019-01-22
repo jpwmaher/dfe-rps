@@ -211,8 +211,8 @@
             <div id="what-weve-learned-themes" class="cell" style="text-align: center; margin-top: 120px;" data-magellan-target="what-weve-learned-themes">
                 <br/><br/>
                 <h2>Our first was task to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
-KU/edit">problem</a> and give ourselves a <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
-/edit">mission</a></h2><br/><br/>
+KU/edit" target="_blank">problem</a> and give ourselves a <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
+/edit" target="_blank">mission</a></h2><br/><br/>
                 <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
             </div>
 

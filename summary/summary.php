@@ -144,6 +144,23 @@
 
                     <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
+                            <i id="torso" class="fi-results-demographics zurb-icon"></i>
+                        </div>
+                        <div class="timeline-content">
+                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooO">
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO">
+                                    <img src="img/event.svg" style="height: 100%;">
+                                </div>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
+                                    <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>
+                                    in Manchester and Leeds
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
+                        <div class="timeline-icon">
                             <i id="torso" class="fi-torsos-all-female zurb-icon"></i>
                         </div>
                         <div class="timeline-content">
@@ -157,7 +174,7 @@
                         </div>
                     </div>
 
-                    <div class="timeline-item wow fadeInLeft" data-wow-duration="1s">
+                    <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
                         <div class="timeline-icon">
                             <i id="torso" class="fi-results-demographics zurb-icon"></i>
                         </div>
@@ -175,22 +192,7 @@
                         </div>
                     </div>
 
-                    <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
-                        <div class="timeline-icon">
-                            <i id="torso" class="fi-results-demographics zurb-icon"></i>
-                        </div>
-                        <div class="timeline-content">
-                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooO">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO">
-                                    <img src="img/event.svg" style="height: 100%;">
-                                </div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
-                                    <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>
-                                    in Manchester and Leeds
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
 
                 </div>
 

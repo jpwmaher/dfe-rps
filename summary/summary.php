@@ -72,7 +72,7 @@
                         <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2" style="text-align: center; padding-bottom: 40px;" wow fadeInRight>
-                        <img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macbookair/psp-mini-hero-macbookair_2x.png">
+                        <img src="img/macbook.png">
                     </div>
                     <div class="cell small-order-3 medium-order-3 large-order-3" style="text-align: center; padding-bottom: 40px; padding-top: 80px;">
                         <ul class="menu vertical" data-magellan>

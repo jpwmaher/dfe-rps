@@ -186,6 +186,7 @@
                                 </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
                                     <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>
+                                    in Manchester and Leeds
                                 </div>
                             </div>
                         </div>

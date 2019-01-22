@@ -111,7 +111,7 @@
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooB">
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooB"><img src="img/group.svg" style="height: 100%;"><br/></div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">99</span>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">111</span>
                                     <h4 class="big-icon-bg padd-top">users interviewed</h4>
                                     <a href="#">View the insights</a>
                                 </div>
@@ -126,7 +126,7 @@
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooC">
                                 <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 2vmax 10vmax;"><img src="img/interview.svg" class="big-icon-bg"><br/></div>
-                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">65</span>
+                                <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">77</span>
                                     <h4 class="big-icon-bg padd-top">hours of interviews</h4>
                                     <a href="#">View the interview transcripts</a>
                                 </div>
@@ -158,9 +158,10 @@
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
                                     <img src="img/prototype-mac.svg">
                                 </div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">10</span>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">16</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
-                                    <a href="#">View the prototypes</a>
+                                    <a href="#">View the TSLR prototypes</a>
+                                    <a href="#">View the MPR prototypes</a>
                                 </div>
                             </div>
                         </div>

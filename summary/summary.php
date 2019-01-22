@@ -210,9 +210,17 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div id="what-weve-learned-themes" class="cell" style="text-align: center; margin-top: 120px;" data-magellan-target="what-weve-learned-themes">
                 <br/><br/>
-                <h2>As we researched with users and pieced together the complex environment the following <span style="text-decoration: underline;">themes</span> emerged:</h2><br/><br/>
+                <h2>Our first was task to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
+KU/edit">problem</a> and give ourselves a <a href="https://docs.google.com/document/d/1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw
+/edit">mission</a></h2><br/><br/>
+                <h4>"Making it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4>
             </div>
-            <div class="cell">
+
+
+
+
+
+            <!--   <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h3 style="text-align: center;">Choice</h3>
@@ -235,7 +243,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">

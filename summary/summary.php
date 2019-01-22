@@ -175,6 +175,22 @@
                         </div>
                     </div>
 
+                    <div class="timeline-item wow fadeInRight" data-wow-duration="1s">
+                        <div class="timeline-icon">
+                            <i id="torso" class="fi-results-demographics zurb-icon"></i>
+                        </div>
+                        <div class="timeline-content">
+                            <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooO">
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
+                                    <img src="img/event.svg">
+                                </div>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
+                                    <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>

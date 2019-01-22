@@ -202,10 +202,9 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
-                <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
+                <span style="color: #0072C6 !important;">The start of Alpha</span>
             </div>
         </div>
-
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 120px;">
@@ -224,9 +223,21 @@
                 <span class="emoji">👩🏻‍🏫</span>
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
-            <div class="cell">
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
+            <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
+                <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
+            </div>
+        </div>
+
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 40px;">
                 <h2>Here's what we know now:</h2> <br/><br/>
             </div>
+        </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
@@ -251,7 +262,6 @@
                     </div>
                 </div>
             </div>
-
 
 
         </div>

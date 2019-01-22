@@ -43,7 +43,7 @@
 
 </style>
 
-<body style="display: none;">
+<body>
 
     <div class="grid-container">
 

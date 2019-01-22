@@ -202,7 +202,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
-                <span style="color: #0072C6 !important;">The start of Alpha</span>
+                <span style="color: #0072C6 !important;">The start of Alpha...</span>
             </div>
         </div>
 
@@ -219,7 +219,7 @@
                 <br/><br/>
                 <span class="emoji">🧐</span><br/><br/>
                 <h4 class="standout">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
-                <h2>We then got to work on testing the assumptions we had at the beginning of Alpha.</h2><br/><br/>
+                <h2>We then got to work on testing our assumptions...</h2><br/><br/>
                 <span class="emoji">👩🏻‍🏫</span>
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
@@ -233,8 +233,8 @@
 
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 40px;">
-                <h2>Here's what we know now:</h2> <br/><br/>
+            <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+                <h2>Here's what we know now:</h2>
             </div>
         </div>
         <div class="grid-x grid-padding-x grid-margin-x">
@@ -242,10 +242,10 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h3 style="text-align: center;">Discover</h3>
-                        <p style="text-align: left;">Teachers will find out about the scheme from their school, or via teacher Facebook or WhatsApp groups</p>
+                        <p style="text-align: left;">Teachers will find out about the scheme from their school, mailing lists, or via teacher Facebook or WhatsApp groups</p>
                         <div class="grid-x grid-padding-x">
                             <div class="large-12 medium-12 cell">
-                                <img src="img/responsive.svg" style="padding: 10%; text-align: center;">
+                                <img src="img/whatsapp-logo.png" style="padding: 10%; text-align: center;">
                             </div>
                             <div class="large-12 medium-12 cell">
                                 <img src="img/OS.svg" style="padding: 15% 10%; text-align: center;"></div>

@@ -55,7 +55,7 @@
         </ol>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; ">
+            <div class="cell" style="text-align: center; wow fadeIn" wow-duration="1s">
                 <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
             </div>
             <div id="summary" class="cell" data-magellan-target="summary">

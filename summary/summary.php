@@ -180,9 +180,10 @@
                         </div>
                         <div class="timeline-content">
                             <div class="grid-x grid-padding-x timeline-content-not-icon wow fadeInRight" data-equalizer="fooO">
-                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO"><img src="img/prototype-mac.svg" style="height: 100%;"><br/></div>
+                                <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax;"><img src="img/prototype-mac.svg" style="height: 100%;"></div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">10</span>
                                     <h5 class="big-icon-bg padd-top">prototypes usability tested</h5>
+                                    <a href="#">View the prototypes</a>
                                 </div>
                             </div>
                         </div>

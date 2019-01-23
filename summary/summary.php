@@ -246,7 +246,7 @@
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
-                                image
+                                <span class="emoji">👍🏻</span>
                             </div>
                         </div>
                     </div>

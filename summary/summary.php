@@ -258,21 +258,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
-                <h2>Eligibility:</h2>
-            </div>
-        </div>
-
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
-                <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">Policy</h4>
+                        <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, which aligns better with the policy's objective.
                         </p>
@@ -282,6 +269,30 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+                <h2>Making a claim:</h2>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Information gathering</h4>
+                        <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application, but we want build it in Beta to allow them to go away and come back if they need to.
+                        </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 10%;">
+                                image
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
                         <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd like to test an eligibility checker in Beta. </p>
@@ -290,16 +301,6 @@
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
                                 <img src="img/eligibility-checker.png">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">Information gathering</h4>
-                        <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application, but we want build it in Beta to allow them to go away and come back if they need to.
-                        </p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 10%;">
-                                image
                             </div>
                         </div>
                     </div>

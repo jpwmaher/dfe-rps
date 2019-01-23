@@ -202,7 +202,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
+            <div class="cell">
                 <span style="color: #0072C6 !important;">The start of Alpha...</span>
             </div>
         </div>
@@ -233,7 +233,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
-                <h2>About the policy:</h2>
+                <h2>Policy:</h2>
             </div>
         </div>
         <div class="grid-x grid-padding-x grid-margin-x">

@@ -240,7 +240,7 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Hearing about it</h3>
+                        <h4 style="text-align: center;">Hearing about it</h4>
                         <p style="text-align: left;">Teachers will likely find out about the scheme from their school, mailing lists, or via teacher Facebook or WhatsApp groups</p>
                         <div class="grid-x grid-padding-x">
                             <div class="large-12 medium-12 cell">
@@ -249,7 +249,7 @@
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Service name</h3>
+                        <h4 style="text-align: center;">Service name</h4>
                         <p style="text-align: left;">Teachers said the title of the service makes sense, but all the eligibility critera aren't explicit in the title
                         </p>
                         <div class="grid-x grid-padding-x">
@@ -272,7 +272,7 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Policy</h3>
+                        <h4 style="text-align: center;">Policy</h4>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, which aligns better with the policy's objective.
                         </p>
@@ -283,7 +283,7 @@
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Filtering applicants</h3>
+                        <h4 style="text-align: center;">Filtering applicants</h4>
                         <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd like to test an eligibility checker in Beta. <br>This may be a more effective filter of ineligible teachers.
                         </p>
                         <div class="grid-x grid-padding-x">
@@ -293,7 +293,7 @@
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Information gathering</h3>
+                        <h4 style="text-align: center;">Information gathering</h4>
                         <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application, but we want build it in Beta to allow them to go away and come back if they need to.
                         </p>
                         <div class="grid-x grid-padding-x">

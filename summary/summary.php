@@ -210,7 +210,7 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 120px;">
                 <br/><br/>
-                <h2>Our first was task to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
+                <h2>Our first task was to define the <a href="https://docs.google.com/document/d/1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ER
                     KU/edit" target="_blank" title="View the full problem statement with links to evidence">problem</a></h2><br/><br/>
                 <span class="emoji">🤔</span>
                 <br/><br/>

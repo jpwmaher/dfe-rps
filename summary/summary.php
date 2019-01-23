@@ -276,6 +276,7 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
                 <h2>Making a claim:</h2>
+                <h4>We looked into receiving data from HMRC but didn't have enough capacity to support in Year 1. So we've focussed on a model where teachers submit information that is verified by schools</h4>
             </div>
         </div>
 

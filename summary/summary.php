@@ -284,7 +284,8 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
-                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd like to test an eligibility checker in Beta. <br>This may be a more effective filter of ineligible teachers.
+                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd like to test an eligibility checker in Beta. </p>
+                        <p style="text-align: left;">This may be a more effective filter of ineligible teachers.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">

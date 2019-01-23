@@ -50,7 +50,7 @@
         <ol class="vertical menu sticky scrollToTop" data-magellan>
             <li><a href="#summary">Overview</a></li>
             <li><a href="#what-weve-done">What we've done</a></li>
-            <li><a href="#what-weve-learned">What we've learned</a>
+            <li><a href="#what-weve-learned-2">What we've learned</a>
             </li>
         </ol>
 
@@ -202,7 +202,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div class="cell">
+            <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
                 <span style="color: #0072C6 !important;">The start of Alpha...</span>
             </div>
         </div>
@@ -225,7 +225,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
+            <div id="what-weve-learned-2" class="cell" data-magellan-target="what-weve-learned-2">
                 <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
             </div>
         </div>

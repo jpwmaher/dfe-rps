@@ -240,7 +240,7 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                        <h3 style="text-align: center;">Discover</h3>
+                        <h3 style="text-align: center;">Discovering the service</h3>
                         <p style="text-align: left;">Teachers will find out about the scheme from their school, mailing lists, or via teacher Facebook or WhatsApp groups</p>
                         <div class="grid-x grid-padding-x">
                             <div class="large-12 medium-12 cell">

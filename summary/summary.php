@@ -258,6 +258,16 @@
                             </div>
                         </div>
                     </div>
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h3 style="text-align: center;">Eligibility</h3>
+                        <p style="text-align: left;">We believe that teachers won't read the eligibility content, so we'd like to test an eligibility checker in Beta. This be a more effective filter of ineligible teachers.
+                        </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell">
+                                <img src="img/eligibility-checker.png">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

@@ -277,7 +277,7 @@
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell">
-                                An image...
+                                <span class="emoji">🤔</span>
                             </div>
                         </div>
                     </div>

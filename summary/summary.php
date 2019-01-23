@@ -263,7 +263,7 @@
                         <p style="text-align: left;">We believe that teachers won't read the eligibility content, so we'd like to test an eligibility checker in Beta. This may be a more effective filter of ineligible teachers.
                         </p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell">
+                            <div class="cell" style="padding: 10%;">
                                 <img src="img/eligibility-checker.png">
                             </div>
                         </div>

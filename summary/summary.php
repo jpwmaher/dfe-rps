@@ -316,12 +316,56 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
-                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd recommend testing an <a href="https://dfe-tslr.herokuapp.com/z/check-intro">>eligibility checker</a> in Beta. </p>
+                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd recommend testing an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> in Beta. </p>
                         <p style="text-align: left;">This may be a more effective filter of ineligible teachers.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
                                 <img src="img/eligibility-checker.png">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+                <h2>Verifying a claim:</h2>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">1</h4>
+                        <p style="text-align: left;">blah.</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 20%;">
+                                image
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">2</h4>
+                        <p style="text-align: left;">blah
+                        </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">👨🏻‍🏫</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">3</h4>
+                        <p style="text-align: left;">blah </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 10%;">
+                                image
                             </div>
                         </div>
                     </div>

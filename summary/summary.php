@@ -309,8 +309,8 @@
                         <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application, but we want build it in Beta to allow them to go away and come back if they need to.
                         </p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 10%;">
-                                <span class="emoji">ℹ️</span>
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">👨🏻‍🏫</span>
                             </div>
                         </div>
                     </div>

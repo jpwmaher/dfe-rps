@@ -437,7 +437,7 @@
                         <p style="text-align: left;">Currently the draft policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Whilst this is straightforward for Maths teachers, Physics is more complicated due to the nature of how Science is taught within the curriculum, how teachers are contracted, and the strategies of school science departments.</p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 0%;">
+                            <div class="cell" style="padding: 10%;">
                                 <img src="img/physics.png" style="max-height: 200px;">
                             </div>
                         </div>

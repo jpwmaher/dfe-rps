@@ -433,8 +433,7 @@
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the draft policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
-                        <p style="text-align: left;"> Our research suggests ......... [fill in].....This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.
-                        </p>
+                        <p style="text-align: left;"> Whilst this is straightforward for Maths teachers, Physics is more complicated due to the nature of how Science is taught within the curriculum, how teachers are contracted, and the strategies of school science departments.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">👩🏻‍🏫</span>

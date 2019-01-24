@@ -451,6 +451,7 @@
                 <h2>The difference between Maths &amp; Physics:</h2>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">

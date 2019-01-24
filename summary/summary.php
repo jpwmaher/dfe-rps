@@ -342,30 +342,30 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
 
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">1</h4>
-                        <p style="text-align: left;">blah.</p>
+                        <h4 style="text-align: center;">SBP awareness</h4>
+                        <p style="text-align: left;">not heard about it</p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 20%;">
-                                image
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🤷🏽‍♀️</span>
                             </div>
                         </div>
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">2</h4>
-                        <p style="text-align: left;">blah
+                        <h4 style="text-align: center;">Inbox</h4>
+                        <p style="text-align: left;">shared inbox probz
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
-                                <span class="emoji">👨🏻‍🏫</span>
+                                <span class="emoji">📨</span>
                             </div>
                         </div>
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">3</h4>
+                        <h4 style="text-align: center;">Onboarding</h4>
                         <p style="text-align: left;">blah </p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 10%;">
-                                image
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🤝</span>
                             </div>
                         </div>
                     </div>

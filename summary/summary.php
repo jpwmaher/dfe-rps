@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">6</span>
                                     <h4 class="big-icon-bg padd-top">research methodologies used</h4>
-                                    <p>Face to face in school<br/> Lab based<br/> Remote moderated<br/> Remote unmoderated<br/> Geurillia
+                                    <p>Face-to-face in school<br/> Lab-based<br/>Remote moderated<br/> Remote unmoderated<br/> Guerillia
                                         <br/> Card sorting</p>
                                 </div>
                             </div>

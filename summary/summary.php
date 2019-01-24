@@ -252,8 +252,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>

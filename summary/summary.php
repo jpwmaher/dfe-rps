@@ -240,6 +240,21 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Policy aim</h4>
+                        <p style="text-align: left;">The aim is to give young people the education they need to have the the best opportunities in life.</p>
+                        <ul>
+                            <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
+                            <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
+                        </ul>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🏫</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.

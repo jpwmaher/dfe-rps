@@ -470,7 +470,7 @@
                         <p style="text-align: left;">There's also the risk of a number of unitended and unwanted consequences of that policy criteria, namely:</p>
                         <p style="text-align: left;">
                             <ul>
-                                <li>Verification delays.</li>
+                                <li>Verification delays</li>
                                 <li>Violation of the policy’s intent</li>
                                 <li>Departmental conflict</li>
                                 <li>Gaming the service</li>

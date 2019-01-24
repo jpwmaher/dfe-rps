@@ -480,7 +480,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
-                <a href="index.php">Back to index</a><br/><br/>
+                <br/><br/><a href="index.php">Back to index</a><br/><br/>
             </div>
             <div class="cell">
                 <span><a target="_blank" href="http://www.hippodigital.co.uk"><img src="img/hippo-svg.svg" width="18px !important;"></a></span>

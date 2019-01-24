@@ -152,9 +152,10 @@
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO">
                                     <img src="img/event.svg" style="height: 100%;">
                                 </div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">2</span>
-                                    <h4 class="big-icon-bg padd-top">'Get into teaching' events attended</h4>
-                                    in Manchester and Leeds
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">6</span>
+                                    <h4 class="big-icon-bg padd-top">research methodologies used</h4>
+                                    <p>Face to face in school<br/> Lab based<br/> Remote moderated<br/> Remote unmoderated<br/> Geurillia
+                                        <br/> Card sorting</p>
                                 </div>
                             </div>
                         </div>
@@ -417,6 +418,7 @@
                 <h2>Policy:</h2>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
@@ -442,50 +444,51 @@
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="grid-x grid-padding-x grid-margin-x">
-                <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
-                    <h2>The difference between Maths &amp; Physics:</h2>
-                </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+                <h2>The difference between Maths &amp; Physics:</h2>
             </div>
-            <div class="grid-x grid-padding-x grid-margin-x">
-                <div class="cell">
-                    <div class="grid-x grid-padding-x grid-margin-x">
-                        <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                            <h4 style="text-align: center;">Maths</h4>
-                            <p style="text-align: left;">maths copy....</p>
-                            <div class="grid-x grid-padding-x">
-                                <div class="cell" style="padding: 0%;">
-                                    <span class="emoji">🧮 🙂</span>
-                                </div>
+        </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Maths</h4>
+                        <p style="text-align: left;">maths copy....</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🧮 🙂</span>
                             </div>
                         </div>
-                        <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
-                            <h4 style="text-align: center;">Physics</h4>
-                            <p style="text-align: left;">maths copy....</p>
-                            <div class="grid-x grid-padding-x">
-                                <div class="cell" style="padding: 0%;">
-                                    <span class="emoji">🥼😖</span>
-                                </div>
+                    </div>
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Physics</h4>
+                        <p style="text-align: left;">maths copy....</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🥼😖</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-
-            <div class="grid-x grid-padding-x grid-margin-x">
-                <div class="cell">
-                    <a href="index.php">Back to index</a><br/><br/>
-                </div>
-                <div class="cell">
-                    <span><a target="_blank" href="http://www.hippodigital.co.uk"><img src="img/hippo-svg.svg" width="18px !important;"></a></span>
-                </div>
-            </div>
-
         </div>
 
-        <?php include ('includes/summary-js.php'); ?>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <a href="index.php">Back to index</a><br/><br/>
+            </div>
+            <div class="cell">
+                <span><a target="_blank" href="http://www.hippodigital.co.uk"><img src="img/hippo-svg.svg" width="18px !important;"></a></span>
+            </div>
+        </div>
+
+    </div>
+
+    <?php include ('includes/summary-js.php'); ?>
 
 </body>
 

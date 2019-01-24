@@ -245,7 +245,7 @@
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.
                         </p>
                         <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 10%;">
+                            <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🎯</span>
                             </div>
                         </div>

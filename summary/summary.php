@@ -266,7 +266,7 @@
                         <h4 style="text-align: center;">Hearing about it</h4>
                         <p style="text-align: left;">Teachers will likely find out about the scheme from their school, mailing lists, or via teacher Facebook or WhatsApp groups</p>
                         <div class="grid-x grid-padding-x">
-                            <div class="large-12 medium-12 cell">
+                            <div class="large-12 medium-12 cell"><br>
                                 <img src="img/social-icons.svg" style="text-align: center; max-height: 140px;">
                             </div>
                         </div>

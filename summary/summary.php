@@ -466,7 +466,7 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
-                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching physics isn't an easy task as physics is taught as part of Combined Sciences for KS3 &amp; KS4. </p>
+                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching physics isn't an easy task as Physics is taught as part of Combined Sciences for KS3 &amp; KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
                         <p style="text-align: left;">There's also the risk of a number of unitended and unwanted consequences of that policy criteria, namely:</p>
                         <p style="text-align: left;">
                             <ul style="text-align: left;">

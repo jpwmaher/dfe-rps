@@ -71,11 +71,11 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#what-weve-learned">
+                        <a href="#what-weve-learned-2">
                             <h4>3. What we've learned</h4>
                         </a>
                         <p>
-                            <a href="#what-weve-learned">- about Teachers’ Student Loan Reimbursement Service</a>
+                            <a href="#what-weve-learned-2">- about Teachers’ Student Loan Reimbursement Service</a>
                             <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
                         </p>
                     </li>
@@ -409,6 +409,38 @@
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
                 <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+                <h2>Policy:</h2>
+            </div>
+        </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Policy aim</h4>
+                        <p style="text-align: left;">The goal of the Maths and Physics Retention (MPR) payment policy is to use retention payments to keep early years specialist Maths and Physics teachers in the profession. This is because these targeted teachers are leaving the profession at a higher rate Department for Education Teachers’ Student Loan Reimbursement Service January 2019 compared to other subjects.</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🎯</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Eligibility</h4>
+                        <p style="text-align: left;">Currently the draft policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
+                        <p style="text-align: left;"> Our research suggests ......... [fill in].....This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.
+                        </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">👩🏻‍🏫</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 

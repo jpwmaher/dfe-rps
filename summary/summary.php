@@ -436,27 +436,26 @@
                         <p style="text-align: left;"> Whilst this is straightforward for Maths teachers, Physics is more complicated due to the nature of how Science is taught within the curriculum, how teachers are contracted, and the strategies of school science departments.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
-                                <span class="emoji">👩🏻‍🏫</span>
+                                <img src="img/physics.png" style="max-height: 200px;">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="cell">
+                    <a href="index.php">Back to index</a><br/><br/>
+                </div>
+                <div class="cell">
+                    <span><a target="_blank" href="http://www.hippodigital.co.uk"><img src="img/hippo-svg.svg" width="18px !important;"></a></span>
+                </div>
+            </div>
+
         </div>
 
-
-        <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
-                <a href="index.php">Back to index</a><br/><br/>
-            </div>
-            <div class="cell">
-                <span><a target="_blank" href="http://www.hippodigital.co.uk"><img src="img/hippo-svg.svg" width="18px !important;"></a></span>
-            </div>
-        </div>
-
-    </div>
-
-    <?php include ('includes/summary-js.php'); ?>
+        <?php include ('includes/summary-js.php'); ?>
 
 </body>
 

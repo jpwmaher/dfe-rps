@@ -311,7 +311,7 @@
 
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Getting data from HMRC</h4>
-                        <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (but this means we recommend sticking with tax-year so future intergration remains possible)</p>
+                        <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year so future HRMC intergration remains possible)</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 5% 20%;">
                                 <img src="img/hmrc.svg">

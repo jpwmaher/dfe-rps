@@ -443,6 +443,36 @@
                 </div>
             </div>
 
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+                    <h2>The difference between Maths &amp; Physics:</h2>
+                </div>
+            </div>
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="cell">
+                    <div class="grid-x grid-padding-x grid-margin-x">
+                        <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                            <h4 style="text-align: center;">Maths</h4>
+                            <p style="text-align: left;">maths copy....</p>
+                            <div class="grid-x grid-padding-x">
+                                <div class="cell" style="padding: 0%;">
+                                    <span class="emoji">🧮 🙂</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                            <h4 style="text-align: center;">Physics</h4>
+                            <p style="text-align: left;">maths copy....</p>
+                            <div class="grid-x grid-padding-x">
+                                <div class="cell" style="padding: 0%;">
+                                    <span class="emoji">🥼😖</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
             <div class="grid-x grid-padding-x grid-margin-x">
                 <div class="cell">

@@ -246,6 +246,7 @@
                             <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
                             <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
                         </ul>
+                        <p style="text-align: left;"><a href="#">Link to user stories page in PDF</a></p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🏫</span>

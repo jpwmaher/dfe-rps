@@ -311,7 +311,7 @@
                         <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br>So we've focussed on a model where teachers submit information that is verified by school</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
-                                <img src="img/eligibility-checker.png">
+                                <img src="img/hmrc.svg">
                             </div>
                         </div>
                     </div>

@@ -422,7 +422,8 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Policy aim</h4>
-                        <p style="text-align: left;">The aim of the policy is to use retention payments to keep early years specialist Maths and Physics teachers in the profession. This is because these teachers are leaving the profession at a higher rate compared to other subjects.</p>
+                        <p style="text-align: left;">The aim of the policy is to use retention payments to keep early years specialist Maths and Physics teachers in the profession. </p>
+                        <p style="text-align: left;">This is because these teachers are leaving the profession at a higher rate compared to other subjects.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🎯</span>

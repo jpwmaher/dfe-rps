@@ -311,7 +311,7 @@
 
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Getting data from HMRC</h4>
-                        <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year so future HRMC intergration remains possible)</p>
+                        <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year for now so future HRMC intergration remains possible)</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 5% 20%;">
                                 <img src="img/hmrc.svg">
@@ -380,6 +380,24 @@
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🤝</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Checks on applications</h4>
+                        <p style="text-align: left;">blah </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">✅</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Fraud checks</h4>
+                        <p style="text-align: left;">We've documented the <a href="https://drive.google.com/drive/u/0/folders/1jVgb8h9CVZg56zmY14tPP8hwtiaLAe0p" target="_blank">fraud risks</a>, and developed <a href="https://drive.google.com/open?id=1U-aVDF77knCVt7b38aLgPnZWGEp5ljXXWpFQRysrodU" target="_blank">anti-personas</a> to mitigate against the risks.</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🕵🏻‍♀️</span>
                             </div>
                         </div>
                     </div>

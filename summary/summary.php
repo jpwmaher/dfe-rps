@@ -306,7 +306,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Teachers submitting their data</h4>
-                        <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application... <br><br>...but we want build it in Beta to allow them to go away and come back if they need to.
+                        <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application... <br><br>...but we suggest building the Beta version to allow them to go away and come back if they need to.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -316,7 +316,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
-                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd like to test an eligibility checker in Beta. </p>
+                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd recommend testing an <a href="https://dfe-tslr.herokuapp.com/z/check-intro">>eligibility checker</a> in Beta. </p>
                         <p style="text-align: left;">This may be a more effective filter of ineligible teachers.
                         </p>
                         <div class="grid-x grid-padding-x">

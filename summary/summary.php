@@ -466,7 +466,7 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
-                        <p style="text-align: left;">maths copy....</p>
+                        <p style="text-align: left;">physics copy....</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🥼😖</span>

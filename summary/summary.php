@@ -305,7 +305,7 @@
                         </div>
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">Teachers submitting their own data</h4>
+                        <h4 style="text-align: center;">Teachers submitting their data</h4>
                         <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application, but we want build it in Beta to allow them to go away and come back if they need to.
                         </p>
                         <div class="grid-x grid-padding-x">

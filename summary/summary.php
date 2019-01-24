@@ -249,7 +249,8 @@
                         <p style="text-align: left;"><a href="#">Link to user stories page in PDF</a></p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
-                                <span class="emoji">🏫</span>
+                                <span class="emoji">🎯</span>
+
                             </div>
                         </div>
                     </div>
@@ -260,7 +261,7 @@
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
-                                <span class="emoji">🎯</span>
+                                <span class="emoji">🏫</span>
                             </div>
                         </div>
                     </div>

@@ -394,7 +394,7 @@
                         </div>
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
-                        <h4 style="text-align: center;">Fraud checks</h4>
+                        <h4 style="text-align: center;">Fraud</h4>
                         <p style="text-align: left;">We've documented the <a href="https://drive.google.com/drive/u/0/folders/1jVgb8h9CVZg56zmY14tPP8hwtiaLAe0p" target="_blank">fraud risks</a>, and developed <a href="https://drive.google.com/open?id=1U-aVDF77knCVt7b38aLgPnZWGEp5ljXXWpFQRysrodU" target="_blank">anti-personas</a> to mitigate against the risks.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">

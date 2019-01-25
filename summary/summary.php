@@ -465,7 +465,7 @@
                         <p>- Teachers</p>
                     </div>
                     <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
-                        <img src="img/teacher-1.svg" style="height: 100%;">
+                        <img src="img/teacher-2.svg" style="height: 100%;">
                     </div>
                 </div>
             </div>
@@ -474,7 +474,7 @@
             <div class="callout cell primary">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-1 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
-                        <img src="img/sbp.svg" style="height: 100%;">
+                        <img src="img/sbp-2.svg" style="height: 100%;">
                     </div>
                     <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-2 wow fadeInLeft" style="z-index: 1;">
                         <h5>"It makes me feel at ease if this is the process. It’s a very simple, I think people would be happy with this"<br/><br/>"Anything that can help retain and recruit will be helpful. It’ll be a good incentive."<br/><br/>"It’s great for the teachers if they're going to get the reimbursement"</h5>

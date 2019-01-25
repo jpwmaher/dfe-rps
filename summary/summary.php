@@ -407,6 +407,50 @@
             </div>
         </div>
 
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+                <h2>Other findings:</h2>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x grid-margin-x">
+
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Verify</h4>
+                        <p style="text-align: left;">No teacher was aware of Verify – this will need to be part of the on-boarding process in Beta</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <img src="img/verify.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Contact preferences</h4>
+                        <p style="text-align: left;">Preference was for DfE to contact teachers via email rather than text
+                        </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">📧</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                        <h4 style="text-align: center;">Digital confidence</h4>
+                        <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale as Teachers are required to have a level of confidence using a computer. The school business professionals will also be required to use a computer daily as part of their role.</p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">💪🏻</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
                 <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
@@ -467,7 +511,7 @@
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
                         <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching Physics isn't an easy task as it's taught as part of Combined Sciences for KS3 &amp; KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
-                        <p style="text-align: left;">There's also the risk of a number of unitended and unwanted consequences of that policy criteria, namely:</p>
+                        <p style="text-align: left;">There's also the risk of a number of <a href="#">unitended and unwanted consequences</a> of that policy criteria, namely:</p>
 
                         <ul style="text-align: left;">
                             <li>Verification delays</li>

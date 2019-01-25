@@ -439,7 +439,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Digital confidence</h4>
-                        <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale as Teachers are required to have a level of confidence using a computer. The school business professionals will also be required to use a computer daily as part of their role.</p>
+                        <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale. Teachers and School Business Professionals use a computer daily as part of their role.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">💪🏻</span>

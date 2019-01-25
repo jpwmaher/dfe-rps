@@ -301,7 +301,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
                 <h2>Making a claim:</h2>
             </div>
         </div>
@@ -310,7 +310,7 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Getting data from HMRC</h4>
                         <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year for now so future HRMC intergration remains possible)</p>
                         <div class="grid-x grid-padding-x">
@@ -319,7 +319,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Teachers submitting their data</h4>
                         <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application... <br><br>...but we suggest building the Beta version to allow them to go away and come back if they need to.
                         </p>
@@ -329,7 +329,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
                         <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd recommend testing an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> in Beta. </p>
                         <p style="text-align: left;">This may be a more effective filter of ineligible teachers.
@@ -347,7 +347,7 @@
 
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
                 <h2>Verifying a claim:</h2>
             </div>
         </div>
@@ -356,7 +356,7 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">SBP awareness</h4>
                         <p style="text-align: left;">not heard about it</p>
                         <div class="grid-x grid-padding-x">
@@ -365,7 +365,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Inbox</h4>
                         <p style="text-align: left;">shared inbox probz
                         </p>
@@ -375,7 +375,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Onboarding</h4>
                         <p style="text-align: left;">blah </p>
                         <div class="grid-x grid-padding-x">
@@ -384,7 +384,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Checks on applications</h4>
                         <p style="text-align: left;">blah </p>
                         <div class="grid-x grid-padding-x">
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Fraud</h4>
                         <p style="text-align: left;">We've documented the <a href="https://drive.google.com/drive/u/0/folders/1jVgb8h9CVZg56zmY14tPP8hwtiaLAe0p" target="_blank">fraud risks</a>, and developed <a href="https://drive.google.com/open?id=1U-aVDF77knCVt7b38aLgPnZWGEp5ljXXWpFQRysrodU" target="_blank">anti-personas</a> to mitigate against those risks.</p>
                         <div class="grid-x grid-padding-x">
@@ -409,16 +409,16 @@
 
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
                 <h2>Other findings:</h2>
             </div>
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
+            <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Verify</h4>
                         <p style="text-align: left;">No teacher was aware of Verify – this will need to be part of the on-boarding process in Beta</p>
                         <div class="grid-x grid-padding-x">
@@ -427,7 +427,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Contact preferences</h4>
                         <p style="text-align: left;">Preference was for DfE to contact teachers via email rather than text
                         </p>
@@ -437,7 +437,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Digital confidence</h4>
                         <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale. Teachers and School Business Professionals use a computer daily as part of their role.</p>
                         <div class="grid-x grid-padding-x">
@@ -457,7 +457,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="callout cell primary">
+            <div class="callout cell primary wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
                         <h5>"Very user friendly and actually the process has been really quick. Questions have been asked well".<br/><br/>"It's quite easy, user friendly and straightforward. The process was very simple"</h5>
@@ -471,7 +471,7 @@
             </div>
         </div>
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 5vmax;">
-            <div class="callout cell primary">
+            <div class="callout cell primary wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-1 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
                         <img src="img/sbp-2.svg" style="height: 100%;">

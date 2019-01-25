@@ -203,13 +203,13 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div id="what-weve-learned" class="cell" data-magellan-target="what-weve-learned">
+            <div id="what-weve-learned" class="cell wow fadeIn" data-magellan-target="what-weve-learned">
                 <span style="color: #0072C6 !important;">The start of Alpha...</span>
             </div>
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 120px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 120px;">
                 <br/><br/>
                 <h2>Our first task was to define the <a href="https://drive.google.com/open?id=1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ERKU" target="_blank" title="View the full problem statement with links to evidence">problem</a></h2><br/><br/>
                 <span class="emoji">🤔</span>
@@ -226,21 +226,21 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
-            <div id="what-weve-learned-2" class="cell" data-magellan-target="what-weve-learned-2">
+            <div id="what-weve-learned-2" class="cell wow fadeIn" data-magellan-target="what-weve-learned-2">
                 <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
             </div>
         </div>
 
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
                 <h2>Policy:</h2>
             </div>
         </div>
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
+            <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-6 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Policy aim</h4>
                         <p style="text-align: left;">The aim is to give young people the education they need to have the the best opportunities in life.</p>
                         <ul>
@@ -254,7 +254,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
+                    <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.
@@ -270,12 +270,12 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
+            <div class="cell wow fadeIn" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
                 <h2>Discovering the service:</h2>
             </div>
         </div>
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
+            <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Hearing about it</h4>

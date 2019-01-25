@@ -451,42 +451,37 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
-                <div class="grid-x grid-padding-x">
-                    <div class="cell wow fadeInLeft" data-wow-duration="1s">
-                        <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
+            <div class="cell wow fadeInLeft" data-wow-duration="1s">
+                <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
+            </div>
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="callout primary">
+                    <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
+                        <h5>"Very user friendly and actually the process has been really quick. Questions have been asked well".<br/><br/>"It's quite easy, user friendly and straightforward. The process was very simple"</h5>
+
+                        <p>- Teachers</p>
                     </div>
+                    <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
+                        <img src="img/teacher-1.svg" style="height: 100%;">
+                    </div>
+                </div>
+            </div>
+            <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 5vmax;">
+                <div class="callout primary">
                     <div class="grid-x grid-padding-x grid-margin-x">
-                        <div class="callout primary">
-                            <div class="grid-x grid-padding-x grid-margin-x">
-                                <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
-                                    <h5>"Very user friendly and actually the process has been really quick. Questions have been asked well".<br/><br/>"It's quite easy, user friendly and straightforward. The process was very simple"</h5>
-
-                                    <p>- Teachers</p>
-                                </div>
-                                <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
-                                    <img src="img/teacher-1.svg" style="height: 100%;">
-                                </div>
-                            </div>
+                        <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-1 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
+                            <img src="img/sbp.svg" style="height: 100%;">
                         </div>
-                    </div>
-                    <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 5vmax;">
-                        <div class="callout primary">
-                            <div class="grid-x grid-padding-x grid-margin-x">
-                                <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-1 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
-                                    <img src="img/sbp.svg" style="height: 100%;">
-                                </div>
-                                <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-2 wow fadeInLeft" style="z-index: 1;">
-                                    <h5>"It makes me feel at ease if this is the process. It’s a very simple, I think people would be happy with this"<br/><br/>"Anything that can help retain and recruit will be helpful. It’ll be a good incentive."<br/><br/>"It’s great for the teachers if they're going to get the reimbursement"</h5>
+                        <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-2 wow fadeInLeft" style="z-index: 1;">
+                            <h5>"It makes me feel at ease if this is the process. It’s a very simple, I think people would be happy with this"<br/><br/>"Anything that can help retain and recruit will be helpful. It’ll be a good incentive."<br/><br/>"It’s great for the teachers if they're going to get the reimbursement"</h5>
 
-                                    <p>- School Business Professionals</p>
-                                </div>
-                            </div>
+                            <p>- School Business Professionals</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
 
 
         <div class="grid-x grid-padding-x grid-margin-x">

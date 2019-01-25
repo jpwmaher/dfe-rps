@@ -495,7 +495,7 @@
                         <div class="callout primary">
                             <div class="grid-x grid-padding-x grid-margin-x">
                                 <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
-                                    <h5>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective.<br/><br/> Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h5>
+                                    <h5>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective.<br/><br/>Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h5>
 
                                     <p>- Science Teacher</p>
                                 </div>
@@ -512,7 +512,7 @@
                                     <img src="img/sbp.svg" style="height: 100%;">
                                 </div>
                                 <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-2 wow fadeInLeft" style="z-index: 1;">
-                                    <h5>"That's a tough one. I'd speak to the head of department again and he would have to check their timetable. Although that's really difficult because they certainly don't specialise for KS3, Year 7, 8, 9. At KS4 there is specialised science and sometimes combined science."</h5>
+                                    <h5>"That's a tough one. I'd speak to the head of department again and he would have to check their timetable. Although that's really difficult because they certainly don't specialise for KS3, Year 7, 8, 9. <br/><br/>At KS4 there is specialised science and sometimes combined science."</h5>
 
                                     <p>- School Business Professional</p>
                                 </div>

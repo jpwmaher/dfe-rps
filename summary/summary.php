@@ -491,9 +491,9 @@
                     <div class="cell wow fadeInLeft" data-wow-duration="1s">
                         <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
                     </div>
-                    <div class="grid-x grid-padding-x">
+                    <div class="grid-x grid-padding-x grid-margin-x">
                         <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
-                            <h4>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective. Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h4>
+                            <h5>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective.<br/><br/> Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h5>
 
                             <p>- Science Teacher</p>
                         </div>

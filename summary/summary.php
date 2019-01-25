@@ -497,7 +497,7 @@
 
                             <p>- Science Teacher</p>
                         </div>
-                        <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
+                        <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
                             <img src="img/teacher-1.svg" style="height: 100%;">
                         </div>
                     </div>

@@ -455,15 +455,18 @@
                 <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="callout primary">
-                <div class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
-                    <h5>"Very user friendly and actually the process has been really quick. Questions have been asked well".<br/><br/>"It's quite easy, user friendly and straightforward. The process was very simple"</h5>
+                <div class="grid-x grid-padding-x grid-margin-x">
+                    <div class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
+                        <h5>"Very user friendly and actually the process has been really quick. Questions have been asked well".<br/><br/>"It's quite easy, user friendly and straightforward. The process was very simple"</h5>
 
-                    <p>- Teachers</p>
-                </div>
-                <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
-                    <img src="img/teacher-1.svg" style="height: 100%;">
+                        <p>- Teachers</p>
+                    </div>
+                    <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
+                        <img src="img/teacher-1.svg" style="height: 100%;">
+                    </div>
                 </div>
             </div>
         </div>
@@ -481,8 +484,6 @@
                 </div>
             </div>
         </div>
-
-
 
 
         <div class="grid-x grid-padding-x grid-margin-x">

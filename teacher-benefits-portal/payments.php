@@ -57,12 +57,12 @@
                         <span>Current role:</span>
                         <h4>Teacher of Science</h4>
                         <span>Current school:</span>
-                        <p><strong>Thornton Primary School<br> Thornton Road<br> Bradford
+                        <p><strong>Thornton Secondary School<br> Thornton Road<br> Bradford
                             <br> BD13 3NN</strong></p>
                     </div>
                     <div class="large-4 cell">
                         <span>Email:</span>
-                        <h4>j.jones@thornton-primary.ac.uk</h4>
+                        <h4>j.jones@thornton-secondary.ac.uk</h4>
                         <span>Mobile:</span>
                         <h4>07123456789</h4>
                         <!--    <a href="#" style="color: white; text-decoration: underline;">Change my contact details</a> -->

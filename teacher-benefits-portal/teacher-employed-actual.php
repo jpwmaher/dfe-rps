@@ -40,7 +40,7 @@
 
                         <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
                             <h1 class="govuk-fieldset__heading">
-                                What subject was at least 50% of your time spent teaching at Thorton Primary School?
+                                What subject was at least 50% of your time spent teaching at Thorton Secondary School?
                             </h1>
                         </legend>
 

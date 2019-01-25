@@ -466,16 +466,16 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
-                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching physics isn't an easy task as Physics is taught as part of Combined Sciences for KS3 &amp; KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
+                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching Physics isn't an easy task as it's taught as part of Combined Sciences for KS3 &amp; KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
                         <p style="text-align: left;">There's also the risk of a number of unitended and unwanted consequences of that policy criteria, namely:</p>
-                        <p style="text-align: left;">
-                            <ul style="text-align: left;">
-                                <li>Verification delays</li>
-                                <li>Violation of the policy’s intent</li>
-                                <li>Departmental conflict</li>
-                                <li>Gaming the service</li>
-                            </ul>
-                        </p>
+
+                        <ul style="text-align: left;">
+                            <li>Verification delays</li>
+                            <li>Violation of the policy’s intent</li>
+                            <li>Departmental conflict</li>
+                            <li>Gaming the service</li>
+                        </ul>
+
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🥼😖</span>
@@ -485,7 +485,25 @@
                 </div>
             </div>
         </div>
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <div class="grid-x grid-padding-x">
+                    <div class="cell wow fadeInLeft" data-wow-duration="1s">
+                        <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
+                    </div>
+                    <div class="grid-x grid-padding-x">
+                        <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
+                            <h4>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective. Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h4>
 
+                            <p>- Science Teacher</p>
+                        </div>
+                        <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
+                            <img src="img/teacher-1.svg">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">

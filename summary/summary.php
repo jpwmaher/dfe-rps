@@ -451,6 +451,19 @@
         </div>
 
 
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+                <h2>The plan for Beta:</h2>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <p>Content</p>
+            </div>
+        </div>
+
+
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
                 <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
@@ -564,6 +577,18 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
+                <h2>Next steps:</h2>
+            </div>
+        </div>
+
+        <div class="grid-x grid-padding-x grid-margin-x">
+            <div class="cell">
+                <p>Content</p>
             </div>
         </div>
 

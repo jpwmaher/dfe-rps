@@ -584,7 +584,7 @@
                         <H2 style="font-size: 10vmin; color: #0072C6;">User quotes</H2>
                     </div>
                     <div class="grid-x grid-padding-x grid-margin-x">
-                        <div class="callout primary">
+                        <div class="callout cell primary">
                             <div class="grid-x grid-padding-x grid-margin-x">
                                 <div class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
                                     <h5>"50% of your time - how would that be assessed? I presume the teacher would have to assign this decision to someone. The only thing is that a teacher might only be doing Year 7-9 (KS 3) so it's hard to judge from a 50% perspective.<br/><br/>Certainly from my perspective - this year I might not be 50% physics but the last two years it probably was - who would be judging that?"</h5>
@@ -598,7 +598,7 @@
                         </div>
                     </div>
                     <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 5vmax;">
-                        <div class="callout primary">
+                        <div class="callout cell primary">
                             <div class="grid-x grid-padding-x grid-margin-x">
                                 <div class="large-4 medium-12 cell small-order-1 medium-order-1 large-order-1 wow fadeInRight" style="text-align: center;" data-wow-duration="1s">
                                     <img src="img/sbp.svg" style="height: 100%;">

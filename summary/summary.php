@@ -194,8 +194,6 @@
                         </div>
                     </div>
 
-
-
                 </div>
 
             </div>
@@ -228,12 +226,12 @@
             </div>
         </div>
 
-
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center; margin-top: 80px; margin-bottom: 80px;" wow-duration="1s">
                 <h2>Policy:</h2>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
@@ -269,6 +267,7 @@
                 <h2>Discovering the service:</h2>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
@@ -345,7 +344,6 @@
             </div>
         </div>
 
-
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
                 <h2>Verifying a claim:</h2>
@@ -397,7 +395,6 @@
                 </div>
             </div>
         </div>
-
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
@@ -461,6 +458,7 @@
                 </div>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 5vmax;">
             <div class="callout cell primary wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
@@ -475,7 +473,6 @@
                 </div>
             </div>
         </div>
-
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
@@ -521,7 +518,6 @@
                 </div>
             </div>
         </div>
-
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
@@ -603,6 +599,7 @@
                 </div>
             </div>
         </div>
+
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x">
@@ -682,6 +679,7 @@
                             <span class="emoji">👥</span>
                         </div>
                     </div>
+
             </div>
         </div>
 

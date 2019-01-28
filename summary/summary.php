@@ -679,7 +679,7 @@
 
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
-                        <span class="emoji"> </span>
+                        <span class="emoji">👥</span>
                     </div>
                 </div>
             </div>

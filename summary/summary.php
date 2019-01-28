@@ -366,8 +366,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Checks on applications</h4>
-                        <p style="text-align: left;">There is no single role that can supply all the information needed to verify a teacher’s application. </p>
-                        <p style="text-align: left;">It’s important to explain that although someone will verify the information on behalf of the school, ultimately the headteacher is responsible for submissions </p>
+                        <p style="text-align: left;">There is no single role that can supply all the information needed to verify a teacher’s application though ultimately the headteacher is responsible for submissions </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">✅</span>

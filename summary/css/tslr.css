@@ -39,6 +39,10 @@ body {
     color: white;
 }
 
+a {
+    text-decoration: underline;
+}
+
 #teacher-icon-div {
     text-align: center;
     margin-top: 40px;

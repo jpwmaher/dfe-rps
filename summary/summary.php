@@ -497,7 +497,7 @@
                         </ul>
                     </li>
                 </ol>
-                <p style="text-align: left;"><a href="https://drive.google.com/open?id=1HWTHcwTY-JtbuK0cRWlXft2hDM1o2vIi9aMFfttOfPU" target="_blank">View the Beta backlog</a></p>
+                <p style="text-align: left;"><a href="https://docs.google.com/document/d/1QGIFMGfhHFRo-BUlZTHYYR5b8t2-joqyVKXrRZU_eL8/edit#heading=h.70ly8v5iuguf" target="_blank">View the communication plan</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
                         <span class="emoji">🗣</span>
@@ -512,7 +512,6 @@
                     <li> unhappy paths </li>
                     <li>'Appeal decision' process</li>
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
-                    <li>content for SMS and letter correspondence</li>
                 </ul>
                 <p style="text-align: left;"><a href="#" target="_blank">View the Beta hypotheses</a></p>
                 <div class="grid-x grid-padding-x">
@@ -663,26 +662,26 @@
             </div>
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Recruit more users</h3>
-                <p style="text-align: left;">Additional users and user groups could be recruited via:</p>
-                <ul style="text-align: left;">
-                    <li>There is currently a mailing list of Science teachers to contact and invite for Alpha interviews. These are teachers who expressed interest in participating in the MPR mini discovery project and might still be keen to participate in the Alpha project
-                    </li>
-                    <li>Create a sign-up form on the live Maths and Physics Retention payment Gov.UK information page for eligible teachers in order to create a mailing list of potential users to interview</li>
-                    <li>Some additional key user groups worth targeting in the Alpha stage:
-                        <ul>
-                            <li>Heads of Science Departments</li>
-                            <li>Head Teachers’ Personal Assistants</li>
-                            <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes
-                            </li>
-                        </ul>
-                    </li>
+                <p style="text-align: left;">We plan to recruit more users for research via:</p>
+                <ul>
+                    <li>a mailing list of science teachers - these are teachers who have left their details for research in discovery</li>
+                    <li>a sign up form on the 'Maths and physics retention payment' gov.uk page - so eligible teachers can express an interest in research</li>
                 </ul>
 
-                <div class="grid-x grid-padding-x">
-                    <div class="cell" style="padding: 0%;">
-                        <span class="emoji">👥</span>
+
+                <p style="text-align: left;">We also believe it would be beneficial to research with:</p>
+                <ul>
+                    <li>Heads of Science Departments</li>
+                    <li>Head Teachers’ Personal Assistants</li>
+                    <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes
+                    </li>
+
+
+                    <div class="grid-x grid-padding-x">
+                        <div class="cell" style="padding: 0%;">
+                            <span class="emoji">👥</span>
+                        </div>
                     </div>
-                </div>
             </div>
         </div>
 

@@ -243,6 +243,7 @@
                         <ul>
                             <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
                             <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
+                            <li style="color: red;">Add recruitment / retention aims</li>
                         </ul>
                         <p style="text-align: left;"><a href="https://drive.google.com/open?id=1Iagzj4X8miplklm35WeKfLpDhDMoz_g9">View all the user stories</a></p>
                         <div class="grid-x grid-padding-x">

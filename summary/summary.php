@@ -332,7 +332,7 @@
                             <li>will not read the eligibility criteria</li>
                             <li>do not know what local authority area their school is in</li>
                         </ul>
-                        <p style="text-align: left;">So, we've built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> which we believe will allow teachers to check if they're eligible, quickly. We recommend more research into this in Beta, and if it's meeting user needs, including it in the Beta service.</p>
+                        <p style="text-align: left;">So, we've built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> which we believe will allow teachers to check if they're eligible, quickly. We recommend more research into this in Beta, and, if it meets user needs, including it in the Beta service.</p>
 
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">

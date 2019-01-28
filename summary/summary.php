@@ -580,7 +580,7 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x">
-                    <div class="cell wow fadeInLeft" data-wow-duration="1s">
+                    <div class="cell wow fadeInLeft" data-wow-duration="1s" style="text-align: center;">
                         <H2>User quotes</H2>
                     </div>
                     <div class="grid-x grid-padding-x grid-margin-x">

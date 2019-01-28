@@ -218,7 +218,6 @@
                 <br/><br/><br/><br/>
                 <h4 class="standout wow fadeIn">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
                 <h2>We then got to work on testing our assumptions...<br>...and developing <a href="#">hypotheses to test in Beta</a></h2><br/><br/>
-                <span class="emoji wow fadeIn">🧪</span>
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
         </div>

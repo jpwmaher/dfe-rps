@@ -411,7 +411,7 @@
 
                     <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Onboarding</h4>
-                        <p style="text-align: left;">blah </p>
+                        <p style="text-align: left;">During onboarding of the schools it will be important to be clear that one or two people will have access to the service and act as a focal point for collecting the evidence from different departments.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🤝</span>

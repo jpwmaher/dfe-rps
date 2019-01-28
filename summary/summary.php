@@ -56,7 +56,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center;" wow-duration="1s">
-                <span style="font-size: 18vmax; font-weight: bold;">TSLR</span>
+                <span style="font-size: 18vmax; font-weight: bold;">A Teacher Payment Service</span>
             </div>
             <div class="cell wow fadeIn" style="text-align: center; padding-bottom: 40px; margin-bottom: 50vh;" wow-duration="2s">
                 <ul id="main-menu" class="menu vertical" data-magellan>
@@ -75,8 +75,8 @@
                             <h4>3. What we've learned</h4>
                         </a>
                         <p>
-                            <a href="#what-weve-learned-2">- about Teachers’ Student Loan Reimbursement Service</a>
-                            <a href="#what-weve-learned-mpr">- about Maths &amp; Physics Retention Payments</a>
+                            <a href="#what-weve-learned-2">- Teachers: Claim back your student loan repayments</a>
+                            <a href="#what-weve-learned-mpr">- Maths &amp; Physics Retention Payments</a>
                         </p>
                     </li>
                 </ul>
@@ -104,7 +104,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-done" class="cell wow fadeIn" data-magellan-target="what-weve-done" wow-duration="1s">
-                <span style="color: #0072C6 !important;">What we've done</span>
+                <span style="color: #0072C6 !important;">What we've done in 7 sprints</span>
             </div>
         </div>
 
@@ -211,12 +211,10 @@
             <div class="cell wow fadeIn" style="text-align: center; margin-top: 120px;" wow-duration="2s">
                 <br/><br/>
                 <h2>Our first task was to define the <a href="https://drive.google.com/open?id=1wcR7HjW_hTX2sdVLORQ_NCwm9xcw64_cB3IX3T9ERKU" target="_blank" title="View the full problem statement with links to evidence">problem</a></h2><br/><br/>
-                <span class="emoji wow fadeIn">🤔</span>
                 <br/><br/>
                 <h4 class="standout wow fadeIn">"Schools in more challenging areas are finding it harder to recruit and retain teachers, particularly in the subjects of languages (excluding English), science and computer science."</h4><br/><br/><br/><br/><br/><br/><br/>
                 <h2>We then gave ourselves the following <a href="https://drive.google.com/open?id=1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2>
-                <br/><br/>
-                <span class="emoji wow fadeIn">🧐</span><br/><br/>
+                <br/><br/><br/><br/>
                 <h4 class="standout wow fadeIn">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
                 <h2>We then got to work on testing our assumptions...<br>...and developing <a href="#">hypotheses to test in Beta</a></h2><br/><br/>
                 <span class="emoji wow fadeIn">🧪</span>
@@ -226,7 +224,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-2" class="cell wow fadeIn" data-magellan-target="what-weve-learned-2" wow-duration="1s">
-                <span style="color: #0072C6 !important;">What we've learned about Teachers’ Student Loan Reimbursement Service</span>
+                <span style="color: #0072C6 !important;">What we've learned about Teachers: Claim back your student loan repayments</span>
             </div>
         </div>
 
@@ -319,7 +317,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Teachers submitting their data</h4>
-                        <p style="text-align: left;">Teachers said they could access the information they'd need for the application fairly easily and would get these things together before starting the application... <br><br>...but we suggest building the Beta version to allow them to go away and come back if they need to.
+                        <p style="text-align: left;">We’ve seen and heard teachers say they could complete an application fairly easily and would gather the needed information before starting
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -329,8 +327,10 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
-                        <p style="text-align: left;">We believe that some teachers won't read the eligibility content, and some teachers aren't sure what local authority their school is a part of, so we'd recommend testing an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> in Beta. </p>
-                        <p style="text-align: left;">This may be a more effective filter of ineligible teachers.
+                        <p style="text-align: left;">
+                            We’ve seen and heard teachers that some teachers won’t read the eligibility content, and some teachers aren’t aware of what local authority their school is part of, so we’ve built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> that is due to go live on gov.uk to test this.</p>
+                        <p style="text-align: left;">
+                            We we will learn what is needed from teachers to understand their eligibility, this can be included in the design for Beta.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
@@ -409,7 +409,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Verify</h4>
-                        <p style="text-align: left;">No teacher was aware of Verify – this will need to be part of the on-boarding process in Beta</p>
+                        <p style="text-align: left;">Teachers were unaware of GOV.UK Verify but thought some kind of identity process was needed and found Verify useable</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <img src="img/verify.png">
@@ -418,7 +418,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Contact preferences</h4>
-                        <p style="text-align: left;">Preference was for DfE to contact teachers via email rather than text
+                        <p style="text-align: left;">Preference was for DfE to contact teachers via email rather than other means
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -468,7 +468,7 @@
                     <div id="intro" class="large-8 medium-12 cell small-order-2 medium-order-2 large-order-2 wow fadeInLeft" style="z-index: 1;">
                         <h5>"It makes me feel at ease if this is the process. It’s a very simple, I think people would be happy with this"<br/><br/>"Anything that can help retain and recruit will be helpful. It’ll be a good incentive."<br/><br/>"It’s great for the teachers if they're going to get the reimbursement"</h5>
 
-                        <p>- School Business Professionals</p>
+                        <p>- School Support Staff</p>
                     </div>
                 </div>
             </div>
@@ -525,6 +525,7 @@
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
                 <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
+                <h2 style="color: #0072C6 !important;">in 4 weeks</h2>
             </div>
         </div>
 

@@ -122,7 +122,7 @@
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooB"><img src="img/group.svg" style="height: 100%;"><br/></div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooB"><span class="really-really-big">111</span>
                                     <h4 class="big-icon-bg padd-top">users interviewed</h4>
-                                    <a href="https://drive.google.com/open?id=1Ll8tq3b288UN_37wNyEHPfo40kSmH6y-">View the insights</a>
+                                    <a href="https://drive.google.com/open?id=1Ll8tq3b288UN_37wNyEHPfo40kSmH6y-" target="_blank">View the insights</a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                                 <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 2vmax 10vmax;"><img src="img/interview.svg" class="big-icon-bg"><br/></div>
                                 <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">77</span>
                                     <h4 class="big-icon-bg padd-top">hours of interviews</h4>
-                                    <a href="https://drive.google.com/open?id=16IrA5d83_0WhiI5ZaKA_hr0pq2WDa6dvUdstgVGuWek">View the most recent interview summaries</a>
+                                    <a href="https://drive.google.com/open?id=16IrA5d83_0WhiI5ZaKA_hr0pq2WDa6dvUdstgVGuWek" target="_blank">View the most recent interview summaries</a>
                                 </div>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
                                 <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 1vmax;"><img src="img/teacher-persona.svg" class="big-icon-bg" style="height: 100%;"><br/></div>
                                 <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">7</span>
                                     <h4 class="big-icon-bg padd-top">user personas created</h4>
-                                    <a href="https://drive.google.com/open?id=1ImSp6ykhZWtw4TbPp0o3VOsmaVz_dl-T">View the personas</a>
+                                    <a href="https://drive.google.com/open?id=1ImSp6ykhZWtw4TbPp0o3VOsmaVz_dl-T" target="_blank">View the personas</a>
                                 </div>
                             </div>
                         </div>
@@ -187,8 +187,8 @@
                                 </div>
                                 <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">16</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
-                                    <a href="https://dfe-tslr.herokuapp.com/launch">View the TSLR prototypes</a><br/>
-                                    <a href="https://dfe-rps.herokuapp.com">View the MPR prototypes</a>
+                                    <a href="https://dfe-tslr.herokuapp.com/launch" target="_blank">View the TSLR prototypes</a><br/>
+                                    <a href="https://dfe-rps.herokuapp.com" target="_blank">View the MPR prototypes</a>
                                 </div>
                             </div>
                         </div>

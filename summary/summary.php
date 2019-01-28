@@ -661,9 +661,21 @@
                 </div>
             </div>
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
-                <h3> </h3>
-                <p style="text-align: left;"></p>
-
+                <h3>Recruit more users</h3>
+                <p style="text-align: left;">Additional users and user groups could be recruited via:</p>
+                <ul>
+                    <li>There is currently a mailing list of Science teachers to contact and invite for Alpha interviews. These are teachers who expressed interest in participating in the MPR mini discovery project and might still be keen to participate in the Alpha project
+                    </li>
+                    <li>Create a sign-up form on the live Maths and Physics Retention payment Gov.UK information page for eligible teachers in order to create a mailing list of potential users to interview</li>
+                    <li>Some additional key user groups worth targeting in the Alpha stage:
+                        <ul>
+                            <li>Heads of Science Departments</li>
+                            <li>Head Teachers’ Personal Assistants</li>
+                            <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes.
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
 
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">

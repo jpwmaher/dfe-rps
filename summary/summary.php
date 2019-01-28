@@ -498,7 +498,7 @@
                         </ul>
                     </li>
                 </ol>
-                <p style="text-align: left;"><a href="https://drive.google.com/open?id=1HWTHcwTY-JtbuK0cRWlXft2hDM1o2vIi9aMFfttOfPU" target="_blank">Review the Beta backlog</a></p>
+                <p style="text-align: left;"><a href="https://drive.google.com/open?id=1HWTHcwTY-JtbuK0cRWlXft2hDM1o2vIi9aMFfttOfPU" target="_blank">View the Beta backlog</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
                         <span class="emoji">🗣</span>
@@ -515,7 +515,7 @@
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
                     <li>content for SMS &amp; letter correspondence</li>
                 </ul>
-                <p style="text-align: left;"><a href="https://drive.google.com/open?id=1HWTHcwTY-JtbuK0cRWlXft2hDM1o2vIi9aMFfttOfPU" target="_blank">Review the Beta backlog</a></p>
+                <p style="text-align: left;"><a href="#" target="_blank">View the Beta hypotheses</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
                         <span class="emoji">🧪</span>

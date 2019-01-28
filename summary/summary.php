@@ -75,8 +75,8 @@
                             <h4>3. What we've learned</h4>
                         </a>
                         <p>
-                            <a href="#what-weve-learned-2">- Teachers: Claim back your student loan repayments</a>
-                            <a href="#what-weve-learned-mpr">- Maths &amp; Physics Retention Payments</a>
+                            <a href="#what-weve-learned-2">- Teachers: claim back your student loan repayments</a>
+                            <a href="#what-weve-learned-mpr">- Maths and Physics Retention Payments</a>
                         </p>
                     </li>
                 </ul>
@@ -93,7 +93,7 @@
                         <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot that reimburses the student loan repayments of new teachers.</p>
 
                         <p>We conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
-                        <p>In parallel, we extended our scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths &amp; Physics Retention Payments</span> scheme.</p>
+                        <p>In parallel, we extended our scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths and Physics Retention Payments</span> scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png"><br>
@@ -224,7 +224,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-2" class="cell wow fadeIn" data-magellan-target="what-weve-learned-2" wow-duration="1s">
-                <span style="color: #0072C6 !important;">What we've learned about Teachers: Claim back your student loan repayments</span>
+                <span style="color: #0072C6 !important;">What we've learned about Teachers: claim back your student loan repayments</span>
             </div>
         </div>
 
@@ -240,7 +240,7 @@
                     <div class="large-6 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;" wow-duration="1s">
                         <h4 style="text-align: center;">Policy aim</h4>
                         <p style="text-align: left;">The Department for Education (DfE) wants to encourage new teachers to remain in the profession, teaching certain subjects in particular locations.</p>
-                        <p style="text-align: left;">To do this, the DfE have commissioned a 10 year pilot to reimburse teachers their student loan payments for each year they teach the following subjects for over 50% of their time; languages (excluding English), physics, chemistry, biology and computer science.</p>
+                        <p style="text-align: left;">To do this, DfE want to reimburse teachers any student loan payments that were made through their wages between 6 April 2018 and 5 April 2019. To be eligible, they need to teach the following subjects for over 50% of their time: languages (excluding English), physics, chemistry, biology and computer science.</p>
                         <p style="text-align: left;">The belief is this will increase education standards in these locations and encourage future teachers to take up posts in particular locations teaching these subjects.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -306,7 +306,8 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Getting data from HMRC</h4>
-                        <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year for now so future HRMC intergration remains possible)</p>
+                        <p style="text-align: left;">Unfortunately we cannot get data from HMRC in our first year. </p>
+                        <p style="text-align: left;">So, our latest design of the service requires the school to check the teacher's information (but, the service still asks for tax years so that it could work with HMRC in future).</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 5% 20%;">
                                 <img src="img/hmrc.svg">
@@ -326,10 +327,13 @@
                     <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Filtering applicants</h4>
                         <p style="text-align: left;">
-                            We’ve seen and heard teachers that some teachers won’t read the eligibility content, and some teachers aren’t aware of what local authority their school is part of, so we’ve built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> that is due to go live on gov.uk to test this.</p>
-                        <p style="text-align: left;">
-                            We we will learn what is needed from teachers to understand their eligibility, this can be included in the design for Beta.
-                        </p>
+                            We've learnt that some teachers:</p>
+                        <ul>
+                            <li>will not read the eligibility criteria</li>
+                            <li>do not know what local authority area their school is in</li>
+                        </ul>
+                        <p style="text-align: left;">So, we've built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> which we believe will allow teachers to check if they're eligible, quickly. We recommend more research into this in Beta, and if it's meeting user needs, including it in the Beta service.</p>
+
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
                                 <img src="img/eligibility-checker.png">
@@ -353,8 +357,15 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
 
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
-                        <h4 style="text-align: center;">Inbox</h4>
-                        <p style="text-align: left;">The service needs to establish where’s best to send the communication and who the right person is to verify the information on behalf of the school. We found this differs from school to school.
+                        <h4 style="text-align: center;">Who to send claims to</h4>
+                        <p style="text-align: left;">
+                            More research is needed in Beta to decide how we can help eligible schools prepare for the service. We need to know what the best way to:</p>
+                        <ul>
+                            <li>contact the school is</li>
+                            <li>contact the most appropriate person in the school</li>
+                        </ul>
+                        <p style="text-align: left;">
+                            We learnt that this differs between schools.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -363,8 +374,10 @@
                         </div>
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
-                        <h4 style="text-align: center;">Checks on applications</h4>
-                        <p style="text-align: left;">There is no single role that can supply all the information needed to verify a teacher’s application though ultimately the headteacher is responsible for submissions </p>
+                        <h4 style="text-align: center;">Who checks claims</h4>
+                        <p style="text-align: left;">We learnt that there is no single role that can check all the information needed – for example, many schools have a separate finance department to the team that can access teachers' timetables. </p>
+                        <p style="text-align: left;">
+                            Ultimately the headmaster is responsible for making sure the checks are accurate, so we'd recommend undertaking more research with headmasters to decide the best way to design this part of the service.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">✅</span>
@@ -396,15 +409,6 @@
             <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
-                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
-                        <h4 style="text-align: center;">Onboarding</h4>
-                        <p style="text-align: left;">During onboarding of the schools it will be important to be clear that one or two people will have access to the service and act as a focal point for collecting the evidence from different departments.</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 0%;">
-                                <span class="emoji">🤝</span>
-                            </div>
-                        </div>
-                    </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Verify</h4>
                         <p style="text-align: left;">Teachers were unaware of GOV.UK Verify but thought some kind of identity process was needed and found Verify useable</p>
@@ -426,7 +430,7 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                         <h4 style="text-align: center;">Digital confidence</h4>
-                        <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale. Teachers and School Business Professionals use a computer daily as part of their role.</p>
+                        <p style="text-align: left;">We found all our users to be confident or expert when scoring against the assisted digital scale. Teachers and school support staff regularly use a computer during their working week as part of their role</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">💪🏻</span>
@@ -501,14 +505,14 @@
                 </div>
             </div>
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
-                <h3>Design &amp; research plan</h3>
+                <h3>Design and research plan</h3>
                 <p style="text-align: left;">Design and test:</p>
                 <ul style="text-align: left;">
-                    <li>an effective onboarding process for both teachers &amp; admins</li>
+                    <li>an effective onboarding process for both teachers and admins</li>
                     <li> unhappy paths </li>
                     <li>'Appeal decision' process</li>
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
-                    <li>content for SMS &amp; letter correspondence</li>
+                    <li>content for SMS and letter correspondence</li>
                 </ul>
                 <p style="text-align: left;"><a href="#" target="_blank">View the Beta hypotheses</a></p>
                 <div class="grid-x grid-padding-x">
@@ -522,7 +526,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
-                <span style="color: #0072C6 !important;">What we've learned about Maths &amp; Physics Retention Payments</span>
+                <span style="color: #0072C6 !important;">What we've learned about Maths and Physics Retention Payments</span>
                 <h2 style="color: #0072C6 !important;">in 4 weeks</h2>
             </div>
         </div>
@@ -562,7 +566,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
-                <h2>The difference between Maths &amp; Physics:</h2>
+                <h2>The difference between Maths and Physics:</h2>
             </div>
         </div>
 
@@ -581,7 +585,7 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
-                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching Physics isn't an easy task as it's taught as part of Combined Sciences for KS3 &amp; KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
+                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching Physics isn't an easy task as it's taught as part of Combined Sciences for KS3 and KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
                         <p style="text-align: left;">There's also the risk of a number of <a href="https://docs.google.com/document/d/1QGIFMGfhHFRo-BUlZTHYYR5b8t2-joqyVKXrRZU_eL8/edit#heading=h.37vsrlgnqv6" title="View more details on the potential unintended consequences of the policy" target="_blank">unintended and unwanted consequences</a> of that policy criteria, namely:</p>
 
                         <ul style="text-align: left;">
@@ -647,9 +651,9 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Policy recommendation plan</h3>
-                <p style="text-align: left;">The teaching <span data-tooltip tabindex="1" title="Teachers who qualified via PGCE, School Direct and SCITT teacher training routes are awarded a specialist teaching qualification">qualification route</span> is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. </p>
-                <p style="text-align: left;">Findings show that teaching qualification has the potential to align with the policy’s intent of rewarding and retaining specialist Maths and Physics teachers. </p>
-                <p style="text-align: left;">Further research is required on the teaching qualification route eligibility criterion in the Alpha stage of the project. </p>
+                <p style="text-align: left;">
+                    We think that using a teacher's <span data-tooltip tabindex="1" title="Teachers who qualified via PGCE, School Direct and SCITT teacher training routes are awarded a specialist teaching qualification">qualification specialism</span> as the eligibility criteria rather than 50% of their time spent teaching will be more effective. This is because this matches the intent of the policy to retain specialist Maths and Physics teachers.</p>
+                <p style="text-align: left;">We'd recommend researching this further.</p>
 
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">

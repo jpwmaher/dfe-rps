@@ -650,7 +650,7 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Policy recommendation plan</h3>
-                <p style="text-align: left;">The teaching qualification route is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. </p>
+                <p style="text-align: left;">The teaching <span data-tooltip tabindex="1" title="Teachers who qualified via PGCE, School Direct and SCITT teacher training routes are awarded a specialist teaching qualification. This route seems an objective criterion to identify and separate specialist Physics teachers from other Science teachers. This criterion aligns with policy’s intent.">qualification route</span> is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. </p>
                 <p style="text-align: left;">Findings show that teaching qualification has the potential to align with the policy’s intent of rewarding and retaining specialist Maths and Physics teachers. </p>
                 <p style="text-align: left;">Further research is required on the teaching qualification route eligibility criterion in the Alpha stage of the project. </p>
 

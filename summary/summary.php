@@ -247,7 +247,7 @@
                             <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
                             <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
                         </ul>
-                        <p style="text-align: left;"><a href="#">Link to user stories page in PDF</a></p>
+                        <p style="text-align: left;"><a href="https://drive.google.com/open?id=1Iagzj4X8miplklm35WeKfLpDhDMoz_g9">View all the user stories</a></p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🎯</span>
@@ -375,15 +375,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
-                        <h4 style="text-align: center;">Onboarding</h4>
-                        <p style="text-align: left;">blah </p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 0%;">
-                                <span class="emoji">🤝</span>
-                            </div>
-                        </div>
-                    </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Checks on applications</h4>
                         <p style="text-align: left;">blah </p>
@@ -418,6 +409,15 @@
             <div class="cell wow fadeIn">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
+                    <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
+                        <h4 style="text-align: center;">Onboarding</h4>
+                        <p style="text-align: left;">blah </p>
+                        <div class="grid-x grid-padding-x">
+                            <div class="cell" style="padding: 0%;">
+                                <span class="emoji">🤝</span>
+                            </div>
+                        </div>
+                    </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Verify</h4>
                         <p style="text-align: left;">No teacher was aware of Verify – this will need to be part of the on-boarding process in Beta</p>

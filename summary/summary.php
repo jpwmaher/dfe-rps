@@ -92,7 +92,7 @@
                         <p><strong>But</strong>...teacher applications are decreasing. Last year the figure decreased by 29%.</p>
                         <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot that reimburses the student loan repayments of new teachers.</p>
 
-                        <p>We've conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
+                        <p>We conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
                         <p>In parallel, we extended our scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths &amp; Physics Retention Payments</span> scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">

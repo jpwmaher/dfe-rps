@@ -649,7 +649,7 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Policy recommendation plan</h3>
-                <p>The teaching qualification route is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. Findings show that teaching qualification has the potential to align with the policy’s intent of rewarding and retaining specialist Maths and Physics teachers. Further research is required on the teaching qualification route eligibility criterion in the Alpha stage of the project. </p>
+                <p style="text-align: left;">The teaching qualification route is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. Findings show that teaching qualification has the potential to align with the policy’s intent of rewarding and retaining specialist Maths and Physics teachers. Further research is required on the teaching qualification route eligibility criterion in the Alpha stage of the project. </p>
 
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">

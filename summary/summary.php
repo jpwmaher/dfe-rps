@@ -480,12 +480,12 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
-                <h2>The plan for Beta:</h2>
+                <h2>The plan for Beta...</h2>
             </div>
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
+            <div class="large-4 medium-6 cell theme-cell wow fadeInRight">
                 <h3>Communication plan</h3>
                 <p>There are 2 types of communication we need to do:</p>
                 <ol>
@@ -498,6 +498,11 @@
                         </ul>
                     </li>
                 </ol>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell" style="padding: 0%;">
+                        <span class="emoji">🗣</span>
+                    </div>
+                </div>
             </div>
         </div>
 

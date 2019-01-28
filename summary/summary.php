@@ -485,7 +485,7 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
+            <div class="large-4 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Communication plan</h3>
                 <p>There are 2 types of communication we need to do:</p>
                 <ol>
@@ -498,7 +498,6 @@
                         </ul>
                     </li>
                 </ol>
-
             </div>
         </div>
 

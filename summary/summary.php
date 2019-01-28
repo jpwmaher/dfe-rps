@@ -104,7 +104,8 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-done" class="cell wow fadeIn" data-magellan-target="what-weve-done" wow-duration="1s">
-                <span style="color: #0072C6 !important;">What we've done in 7 sprints</span>
+                <span style="color: #0072C6 !important;">What we've done</span><br/>
+                <span style="color: #0072C6 !important;">in 7 sprints</span>
             </div>
         </div>
 

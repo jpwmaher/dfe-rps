@@ -97,7 +97,6 @@
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png"><br>
-                        <span style="font-size: 10px;">Replace with image of TSLR on computer...</span>
                     </div>
                 </div>
             </div>

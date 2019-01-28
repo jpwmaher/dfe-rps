@@ -671,7 +671,7 @@
                         <ul>
                             <li>Heads of Science Departments</li>
                             <li>Head Teachers’ Personal Assistants</li>
-                            <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes.
+                            <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes
                             </li>
                         </ul>
                     </li>

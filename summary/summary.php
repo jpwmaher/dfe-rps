@@ -328,7 +328,7 @@
                         <h4 style="text-align: center;">Filtering applicants</h4>
                         <p style="text-align: left;">
                             We've learnt that some teachers:</p>
-                        <ul>
+                        <ul style="text-align: left;">
                             <li>will not read the eligibility criteria</li>
                             <li>do not know what local authority area their school is in</li>
                         </ul>
@@ -360,7 +360,7 @@
                         <h4 style="text-align: center;">Who to send claims to</h4>
                         <p style="text-align: left;">
                             More research is needed in Beta to decide how we can help eligible schools prepare for the service. We need to know what the best way to:</p>
-                        <ul>
+                        <ul style="text-align: left;">
                             <li>contact the school is</li>
                             <li>contact the most appropriate person in the school</li>
                         </ul>
@@ -490,7 +490,7 @@
                 <ol style="text-align: left;">
                     <li>Targeted communication to the people and schools we think will be eligible – this should tell them that the service exists and help them prepare</li>
                     <li>Wider marketing of the service to:
-                        <ul>
+                        <ul style="text-align: left;">
                             <li>potential teachers</li>
                             <li>teachers of non-eligible subjects</li>
                             <li>teachers of eligible subjects in other schools in the area and surrounding areas</li>
@@ -663,14 +663,14 @@
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Recruit more users</h3>
                 <p style="text-align: left;">We plan to recruit more users for research via:</p>
-                <ul>
+                <ul style="text-align: left;">
                     <li>a mailing list of science teachers - these are teachers who have left their details for research in discovery</li>
                     <li>a sign up form on the 'Maths and physics retention payment' gov.uk page - so eligible teachers can express an interest in research</li>
                 </ul>
 
 
                 <p style="text-align: left;">We also believe it would be beneficial to research with:</p>
-                <ul>
+                <ul style="text-align: left;">
                     <li>Heads of Science Departments</li>
                     <li>Head Teachers’ Personal Assistants</li>
                     <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes

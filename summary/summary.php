@@ -239,13 +239,9 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;" wow-duration="1s">
                         <h4 style="text-align: center;">Policy aim</h4>
-                        <p style="text-align: left;">The aim is to give young people the education they need to have the the best opportunities in life.</p>
-                        <ul style="text-align: left;">
-                            <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
-                            <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
-                            <li style="color: red;">Add recruitment / retention aims</li>
-                        </ul>
-                        <p style="text-align: left;"><a href="https://drive.google.com/open?id=1Iagzj4X8miplklm35WeKfLpDhDMoz_g9">View all the user stories</a></p>
+                        <p style="text-align: left;">The Department for Education (DfE) wants to encourage new teachers to remain in the profession, teaching certain subjects in particular locations.</p>
+                        <p style="text-align: left;">To do this, the DfE have commissioned a 10 year pilot to reimburse teachers their student loan payments for each year they teach the following subjects for over 50% of their time; languages (excluding English), physics, chemistry, biology and computer science.</p>
+                        <p style="text-align: left;">The belief is this will increase education standards in these locations and encourage future teachers to take up posts in particular locations teaching these subjects..</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🎯</span>

@@ -359,9 +359,9 @@
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Who to send claims to</h4>
                         <p style="text-align: left;">
-                            More research is needed in Beta to decide how we can help eligible schools prepare for the service. We need to know what the best way to:</p>
+                            More research is needed in Beta to decide how we can help eligible schools prepare for the service. We need to know the best way to:</p>
                         <ul style="text-align: left;">
-                            <li>contact the school is</li>
+                            <li>contact the school</li>
                             <li>contact the most appropriate person in the school</li>
                         </ul>
                         <p style="text-align: left;">

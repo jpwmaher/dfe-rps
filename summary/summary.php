@@ -574,7 +574,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Maths</h4>
-                        <p style="text-align: left;">maths copy....</p>
+                        <p style="text-align: left;">It is relatively straightforward using a school timetable for eligible Maths teachers to prove that they spent 50% of their time teaching the subject. It is also easy for school business professionals to verify these teachers’ 50% teaching time claims the via school timetables</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">🧮 🙂</span>

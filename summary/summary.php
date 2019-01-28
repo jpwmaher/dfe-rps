@@ -508,17 +508,17 @@
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Design &amp; research plan</h3>
                 <p style="text-align: left;">Design and test:</p>
-                <ol style="text-align: left;">
+                <ul style="text-align: left;">
                     <li>an effective onboarding process for both teachers &amp; admins</li>
                     <li> unhappy paths </li>
                     <li>'Appeal decision' process</li>
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
                     <li>content for SMS &amp; letter correspondence</li>
-                </ol>
+                </ul>
                 <p style="text-align: left;"><a href="https://drive.google.com/open?id=1HWTHcwTY-JtbuK0cRWlXft2hDM1o2vIi9aMFfttOfPU" target="_blank">Review the Beta backlog</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
-                        <span class="emoji">🗣</span>
+                        <span class="emoji">🧪</span>
                     </div>
                 </div>
             </div>

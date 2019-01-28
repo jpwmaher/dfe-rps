@@ -485,10 +485,10 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="large-6 medium-6 cell theme-cell wow fadeInRight">
+            <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Communication plan</h3>
-                <p>There are 2 types of communication we need to do:</p>
-                <ol>
+                <p style="text-align: left;">There are 2 types of communication we need to do:</p>
+                <ol style="text-align: left;">
                     <li>Targeted communication to the people and schools we think will be eligible – this should tell them that the service exists and help them prepare</li>
                     <li>Wider marketing of the service to:
                         <ul>

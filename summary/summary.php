@@ -240,7 +240,7 @@
                     <div class="large-6 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;" wow-duration="1s">
                         <h4 style="text-align: center;">Policy aim</h4>
                         <p style="text-align: left;">The aim is to give young people the education they need to have the the best opportunities in life.</p>
-                        <ul>
+                        <ul style="text-align: left;">
                             <li>Children need stability in their lives to give them the best chance of future prospects, this includes consistency of teachers and teaching approach.</li>
                             <li>Children need an education to have the best chance of future prospects this includes enough teachers to teach the rising number of children in schools</li>
                             <li style="color: red;">Add recruitment / retention aims</li>

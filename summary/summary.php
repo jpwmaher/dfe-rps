@@ -250,6 +250,7 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;" wow-duration="1s">
                         <h4 style="text-align: center;">Eligibility</h4>
+                        <p style="text-align: left;">The eligibility criteria can be quite complex, depending on the circumstances of the teacher. We did <a href="https://docs.google.com/document/d/1QGIFMGfhHFRo-BUlZTHYYR5b8t2-joqyVKXrRZU_eL8/edit?ts=5c07b8d2#heading=h.l4gz2ca6rm52" target="_blank">extensive research</a> to make sure our service met the intent of the policy. For example:</p>
                         <p style="text-align: left;">Currently the policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
                         <p style="text-align: left;"> Our research suggests asking the teacher what they were employed to teach during the previous tax year instead. This allows us to understand their intent, and thus target the right teachers to align better with the policy's objective.
                         </p>

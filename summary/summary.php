@@ -309,7 +309,6 @@
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
-
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Getting data from HMRC</h4>
                         <p style="text-align: left;">We looked into receiving data from HMRC but they didn't have enough capacity to support in Year 1. <br><br>So we've focussed on a model where teachers submit information that is verified by school (we recommend sticking with tax-year for now so future HRMC intergration remains possible)</p>
@@ -648,10 +647,30 @@
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x">
-            <div class="cell">
+            <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
+                <h3>Policy recommendation plan</h3>
                 <p>The teaching qualification route is a better eligibility criterion option than the proposed 50% teaching rule eligibility criterion in the draft policy. Findings show that teaching qualification has the potential to align with the policy’s intent of rewarding and retaining specialist Maths and Physics teachers. Further research is required on the teaching qualification route eligibility criterion in the Alpha stage of the project. </p>
+
+                <div class="grid-x grid-padding-x">
+                    <div class="cell" style="padding: 0%;">
+                        <span class="emoji">🗣</span>
+                    </div>
+                </div>
+            </div>
+            <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
+                <h3> </h3>
+                <p style="text-align: left;"></p>
+
+
+                <div class="grid-x grid-padding-x">
+                    <div class="cell" style="padding: 0%;">
+                        <span class="emoji"> </span>
+                    </div>
+                </div>
             </div>
         </div>
+
+        <hr>
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">

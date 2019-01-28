@@ -356,18 +356,9 @@
             <div class="cell">
                 <div class="grid-x grid-padding-x grid-margin-x">
 
-                    <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
-                        <h4 style="text-align: center;">SBP awareness</h4>
-                        <p style="text-align: left;">not heard about it</p>
-                        <div class="grid-x grid-padding-x">
-                            <div class="cell" style="padding: 0%;">
-                                <span class="emoji">🤷🏽‍♀️</span>
-                            </div>
-                        </div>
-                    </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Inbox</h4>
-                        <p style="text-align: left;">shared inbox probz
+                        <p style="text-align: left;">The service needs to establish where’s best to send the communication and who the right person is to verify the information on behalf of the school. This differs from school to school.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -377,7 +368,8 @@
                     </div>
                     <div class="large-4 medium-6 cell theme-cell wow fadeInLeft" style="text-align: center;">
                         <h4 style="text-align: center;">Checks on applications</h4>
-                        <p style="text-align: left;">blah </p>
+                        <p style="text-align: left;">There is no single role that can supply all the information needed to verify a teacher’s application. </p>
+                        <p style="text-align: left;">It’s important to explain that although someone will verify the information on behalf of the school, ultimately the headteacher is responsible for submissions </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">✅</span>

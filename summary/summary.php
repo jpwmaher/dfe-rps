@@ -663,7 +663,7 @@
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Recruit more users</h3>
                 <p style="text-align: left;">Additional users and user groups could be recruited via:</p>
-                <ul>
+                <ul style="text-align: left;">
                     <li>There is currently a mailing list of Science teachers to contact and invite for Alpha interviews. These are teachers who expressed interest in participating in the MPR mini discovery project and might still be keen to participate in the Alpha project
                     </li>
                     <li>Create a sign-up form on the live Maths and Physics Retention payment Gov.UK information page for eligible teachers in order to create a mailing list of potential users to interview</li>

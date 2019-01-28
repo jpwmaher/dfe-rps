@@ -290,7 +290,7 @@
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell">
-                                <span class="emoji">🤔</span>
+                                <img src="img/name.png" style="text-align: center; height: 100%; padding-top: 10%;">
                             </div>
                         </div>
                     </div>

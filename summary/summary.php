@@ -358,7 +358,7 @@
 
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Inbox</h4>
-                        <p style="text-align: left;">The service needs to establish where’s best to send the communication and who the right person is to verify the information on behalf of the school. This differs from school to school.
+                        <p style="text-align: left;">The service needs to establish where’s best to send the communication and who the right person is to verify the information on behalf of the school. We found this differs from school to school.
                         </p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -486,7 +486,19 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell">
-                <p>Content</p>
+                <h3>Communication plan</h3>
+                <p>There are 2 types of communication we need to do:</p>
+                <ol>
+                    <li>Targeted communication to the people and schools we think will be eligible – this should tell them that the service exists and help them prepare</li>
+                    <li>Wider marketing of the service to:
+                        <ul>
+                            <li>potential teachers</li>
+                            <li>teachers of non-eligible subjects</li>
+                            <li>teachers of eligible subjects in other schools in the area and surrounding areas</li>
+                        </ul>
+                    </li>
+                </ol>
+
             </div>
         </div>
 

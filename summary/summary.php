@@ -93,7 +93,7 @@
                         <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot that reimburses the student loan repayments of new teachers.</p>
 
                         <p>We conducted an 'alpha' on the scheme from October 2018 to January 2019.</p>
-                        <p>In parallel, we extended our scope to conduct a 'mini-discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths and physics retention payments</span> scheme.</p>
+                        <p>In parallel, we extended our scope to conduct a 'mini-discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist maths or physics teachers with the aim of retaining them as teachers">maths and physics retention payments</span> scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png"><br>
@@ -671,7 +671,7 @@
                 <ul style="text-align: left;">
                     <li>Heads of Science Departments</li>
                     <li>Head Teachers’ Personal Assistants</li>
-                    <li>Specialist Physics teachers with ‘other’ types of teaching qualifications routes
+                    <li>Specialist physics teachers with ‘other’ types of teaching qualifications routes
                     </li>
 
 

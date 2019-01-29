@@ -668,9 +668,9 @@
 
                 <p style="text-align: left;">We also believe it would be beneficial to research with:</p>
                 <ul style="text-align: left;">
-                    <li>Heads of Science Departments</li>
-                    <li>Head Teachers’ Personal Assistants</li>
-                    <li>Specialist physics teachers with ‘other’ types of teaching qualifications routes
+                    <li>heads of science departments</li>
+                    <li>head teachers’ personal assistants</li>
+                    <li>specialist physics teachers with ‘other’ types of teaching qualifications routes
                     </li>
                 </ul>
 

@@ -332,7 +332,7 @@
                             <li>will not read the eligibility criteria</li>
                             <li>do not know what local authority area their school is in</li>
                         </ul>
-                        <p style="text-align: left;">So, we've built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> which we believe will allow teachers to check if they're eligible, quickly. We recommend more research into this in Beta, and, if it meets user needs, including it in the Beta service.</p>
+                        <p style="text-align: left;">So, we've built an <a href="https://dfe-tslr.herokuapp.com/z/check-intro" target="_blank">eligibility checker</a> which we believe will allow teachers to check if they're eligible, quickly. We recommend more research into this in beta, and, if it meets user needs, including it in the beta service.</p>
 
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
@@ -358,7 +358,7 @@
                     <div class="large-4 medium-6 cell theme-cell wow fadeIn" style="text-align: center;">
                         <h4 style="text-align: center;">Who to send claims to</h4>
                         <p style="text-align: left;">
-                            More research is needed in Beta to decide how we can help eligible schools prepare for the service. We need to know the best way to:</p>
+                            More research is needed in beta to decide how we can help eligible schools prepare for the service. We need to know the best way to:</p>
                         <ul style="text-align: left;">
                             <li>contact the school</li>
                             <li>contact the most appropriate person in the school</li>
@@ -538,7 +538,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Policy aim</h4>
-                        <p style="text-align: left;">The aim of the policy is to use retention payments to keep early years specialist Maths and Physics teachers in the profession. </p>
+                        <p style="text-align: left;">The aim of the policy is to use retention payments to keep early years specialist maths and physics teachers in the profession. </p>
                         <p style="text-align: left;">This is because these teachers are leaving the profession at a higher rate compared to other subjects.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -562,7 +562,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 80px; margin-bottom: 80px;">
-                <h2>The difference between Maths and Physics:</h2>
+                <h2>The difference between maths and physics:</h2>
             </div>
         </div>
 
@@ -571,7 +571,7 @@
                 <div class="grid-x grid-padding-x grid-margin-x">
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Maths</h4>
-                        <p style="text-align: left;">It is relatively straightforward using a school timetable for eligible Maths teachers to prove that they spent 50% of their time teaching the subject.</p>
+                        <p style="text-align: left;">It is relatively straightforward using a school timetable for eligible maths teachers to prove that they spent 50% of their time teaching the subject.</p>
                         <p style="text-align: left;">It is also easy for school business professionals to verify these teachers’ 50% teaching time claims the via school timetables</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
@@ -581,7 +581,7 @@
                     </div>
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Physics</h4>
-                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching Physics isn't an easy task as it's taught as part of Combined Sciences for KS3 and KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
+                        <p style="text-align: left;">Proving that 50% of a teachers time was spent teaching physics isn't an easy task as it's taught as part of Combined Sciences for KS3 and KS4, and teachers are usually employed and contracted as "Teacher of Science".</p>
                         <p style="text-align: left;">There's also the risk of a number of <a href="https://docs.google.com/document/d/1QGIFMGfhHFRo-BUlZTHYYR5b8t2-joqyVKXrRZU_eL8/edit#heading=h.37vsrlgnqv6" title="View more details on the potential unintended consequences of the policy" target="_blank">unintended and unwanted consequences</a> of that policy criteria, namely:</p>
 
                         <ul style="text-align: left;">

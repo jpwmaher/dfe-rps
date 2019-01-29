@@ -169,7 +169,7 @@
                             <div class="grid-x grid-padding-x timeline-content-not-icon" data-equalizer="fooC">
                                 <div class="large-6 medium-6 cell text-center small-order-1 medium-order-2" data-equalizer-watch="fooC" style="padding: 1vmax;"><img src="img/teacher-persona.svg" class="big-icon-bg" style="height: 100%;"><br/></div>
                                 <div class="large-6 medium-6 cell text-right small-order-2 medium-order-1" data-equalizer-watch="fooC"><span class="really-really-big big-icon-bg">7</span>
-                                    <h4 class="big-icon-bg padd-top">user personas created</h4>
+                                    <h4 class="big-icon-bg padd-top">user personas created for two user groups</h4>
                                     <a href="https://drive.google.com/open?id=1ImSp6ykhZWtw4TbPp0o3VOsmaVz_dl-T" target="_blank">View the personas</a>
                                 </div>
                             </div>
@@ -185,9 +185,10 @@
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
                                     <img src="img/prototype-mac.svg">
                                 </div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">16</span>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">17</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
                                     <a href="https://dfe-tslr.herokuapp.com/launch" target="_blank">View the TSLR prototypes</a><br/>
+                                    <a href="https://drive.google.com/open?id=19pVyPkSsi6UUmT1Q816r0h-_fT6H70-M" target="_blank">View the paper TSLR prototype</a><br/>
                                     <a href="https://dfe-rps.herokuapp.com" target="_blank">View the MPR prototypes</a>
                                 </div>
                             </div>

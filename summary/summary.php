@@ -56,7 +56,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center;" wow-duration="1s">
-                <span style="font-size: 11vmax; font-weight: bold;">A Teacher Payment Service</span>
+                <span style="font-size: 11vmax; font-weight: bold;">Teacher Payment Service</span>
             </div>
             <div class="cell wow fadeIn" style="text-align: center; padding-bottom: 40px; margin-bottom: 50vh;" wow-duration="2s">
                 <ul id="main-menu" class="menu vertical" data-magellan>

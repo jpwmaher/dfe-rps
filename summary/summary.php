@@ -185,7 +185,7 @@
                                 <div class="large-6 medium-6 cell text-center" data-equalizer-watch="fooO" style="padding: 2vmax 10vmax;">
                                     <img src="img/prototype-mac.svg">
                                 </div>
-                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">17</span>
+                                <div class="large-6 medium-6 cell" data-equalizer-watch="fooO"><span class="really-really-big">19</span>
                                     <h4 class="big-icon-bg padd-top">prototypes usability tested</h4>
                                     <a href="https://dfe-tslr.herokuapp.com/launch" target="_blank">View the TSLR prototypes</a><br/>
                                     <a href="https://drive.google.com/open?id=19pVyPkSsi6UUmT1Q816r0h-_fT6H70-M" target="_blank">View the paper TSLR prototype</a><br/>

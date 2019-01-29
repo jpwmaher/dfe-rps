@@ -549,7 +549,7 @@
                     <div class="large-6 medium-6 cell theme-cell" style="text-align: center;">
                         <h4 style="text-align: center;">Eligibility</h4>
                         <p style="text-align: left;">Currently the draft policy states that a teacher must have been teaching an eligible subject for at least 50% of their time.</p>
-                        <p style="text-align: left;"> Whilst this is straightforward for Maths teachers, Physics is more complicated due to the nature of how Science is taught within the curriculum, how teachers are contracted, and the strategies of school science departments.</p>
+                        <p style="text-align: left;"> Whilst this is straightforward for maths teachers, physics is more complicated due to the nature of how Science is taught within the curriculum, how teachers are contracted, and the strategies of school science departments.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 10%;">
                                 <img src="img/physics.png" style="max-height: 200px;">
@@ -649,7 +649,7 @@
             <div class="large-6 medium-6 cell theme-cell wow fadeInRight" style="text-align: center;">
                 <h3>Policy recommendation plan</h3>
                 <p style="text-align: left;">
-                    We think that using a teacher's <span data-tooltip tabindex="1" title="Teachers who qualified via PGCE, School Direct and SCITT teacher training routes are awarded a specialist teaching qualification">qualification specialism</span> as the eligibility criteria rather than 50% of their time spent teaching will be more effective. This is because this matches the intent of the policy to retain specialist Maths and Physics teachers.</p>
+                    We think that using a teacher's <span data-tooltip tabindex="1" title="Teachers who qualified via PGCE, School Direct and SCITT teacher training routes are awarded a specialist teaching qualification">qualification specialism</span> as the eligibility criteria rather than 50% of their time spent teaching will be more effective. This is because this matches the intent of the policy to retain specialist maths and physics teachers.</p>
                 <p style="text-align: left;">We'd recommend researching this further.</p>
 
                 <div class="grid-x grid-padding-x">
@@ -663,7 +663,7 @@
                 <p style="text-align: left;">We plan to recruit more users for research via:</p>
                 <ul style="text-align: left;">
                     <li>a mailing list of science teachers - these are teachers who have left their details for research in discovery</li>
-                    <li>a sign up form on the 'Maths and physics retention payment' gov.uk page - so eligible teachers can express an interest in research</li>
+                    <li>a sign up form on the 'maths and physics retention payment' gov.uk page - so eligible teachers can express an interest in research</li>
                 </ul>
 
 

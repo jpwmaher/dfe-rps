@@ -376,7 +376,7 @@
                         <h4 style="text-align: center;">Who checks claims</h4>
                         <p style="text-align: left;">We learnt that there is no single role that can check all the information needed – for example, many schools have a separate finance department to the team that can access teachers' timetables. </p>
                         <p style="text-align: left;">
-                            Ultimately the headmaster is responsible for making sure the checks are accurate, so we'd recommend undertaking more research with headmasters to decide the best way to design this part of the service.</p>
+                            Ultimately the headteacher is responsible for making sure the checks are accurate, so we'd recommend undertaking more research with headmasters to decide the best way to design this part of the service.</p>
                         <div class="grid-x grid-padding-x">
                             <div class="cell" style="padding: 0%;">
                                 <span class="emoji">✅</span>

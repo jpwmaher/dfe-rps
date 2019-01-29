@@ -56,7 +56,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell wow fadeIn" style="text-align: center; margin-top: 120px;" wow-duration="1s">
-                <span style="font-size: 8vmax; font-weight: bold;">Teacher Payment Service</span>
+                <span style="font-size: 8vmax; font-weight: bold;">Teacher payment service</span>
             </div>
             <div class="cell wow fadeIn" style="text-align: center; padding-bottom: 40px; margin-bottom: 50vh;" wow-duration="2s">
                 <ul id="main-menu" class="menu vertical" data-magellan>
@@ -76,7 +76,7 @@
                         </a>
                         <p>
                             <a href="#what-weve-learned-2">- Teachers: claim back your student loan repayments</a>
-                            <a href="#what-weve-learned-mpr">- Maths and Physics Retention Payments</a>
+                            <a href="#what-weve-learned-mpr">- Maths and physics retention payments</a>
                         </p>
                     </li>
                 </ul>
@@ -89,11 +89,11 @@
                     <div id="intro" class="large-6 medium-12 cell small-order-2 medium-order-2 large-order-1 wow fadeInLeft" style="z-index: 1;">
                         <h4>Recruiting and retaining high-quality teachers is central to achieving the DfE mission of giving young people the education they need to have the the best opportunities in life</h4>
                         <br/>
-                        <p><strong>But</strong>...teacher applications are decreasing. Last year the figure decreased by 29%.</p>
+                        <p><strong>But</strong>, teacher applications are decreasing. Last year the figure decreased by 29%.</p>
                         <p>To encourage recruitment and retention, the DfE has commissioned a 10 year pilot that reimburses the student loan repayments of new teachers.</p>
 
-                        <p>We conducted an 'Alpha' on the scheme from October 18 to January 19.</p>
-                        <p>In parallel, we extended our scope to conduct a 'mini-Discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths and Physics Retention Payments</span> scheme.</p>
+                        <p>We conducted an 'alpha' on the scheme from October 2018 to January 2019.</p>
+                        <p>In parallel, we extended our scope to conduct a 'mini-discovery' into the proposed <span data-tooltip tabindex="1" title="An annual, tax-free payment to specialist Maths or Physics teachers with the aim of retaining them as teachers">Maths and physics retention payments</span> scheme.</p>
                     </div>
                     <div class="large-6 medium-12 cell small-order-1 medium-order-1 large-order-2 wow fadeInRight" style="text-align: center; padding-bottom: 40px;" data-wow-duration="1s">
                         <img src="img/macbook.png"><br>
@@ -202,7 +202,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned" class="cell wow fadeIn" data-magellan-target="what-weve-learned" wow-duration="1s">
-                <span style="color: #0072C6 !important;">The start of Alpha...</span>
+                <span style="color: #0072C6 !important;">The start of alpha...</span>
             </div>
         </div>
 
@@ -215,14 +215,14 @@
                 <h2>We then gave ourselves the following <a href="https://drive.google.com/open?id=1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2>
                 <br/><br/><br/><br/>
                 <h4 class="standout wow fadeIn">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
-                <h2>We then prioritised our assumptions, used research insights to prove or disprove them and formed <a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">hypotheses</a> to test our proposed solutions in Beta</h2><br/><br/>
+                <h2>We then prioritised our assumptions, used research insights to prove or disprove them and formed <a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">hypotheses</a> to test our proposed solutions in beta</h2><br/><br/>
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
         </div>
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-2" class="cell wow fadeIn" data-magellan-target="what-weve-learned-2" wow-duration="1s">
-                <span style="color: #0072C6 !important;">What we've learned about Teachers: claim back your student loan repayments</span>
+                <span style="color: #0072C6 !important;">What we've learned about 'teachers: claim back your student loan repayments'</span>
             </div>
         </div>
 
@@ -476,7 +476,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x">
             <div class="cell" style="text-align: center; margin-top: 100px; margin-bottom: 80px;">
-                <h2>The plan for Beta...</h2>
+                <h2>The plan for beta...</h2>
             </div>
         </div>
 
@@ -507,10 +507,10 @@
                 <ul style="text-align: left;">
                     <li>an effective onboarding process for both teachers and admins</li>
                     <li> unhappy paths </li>
-                    <li>'Appeal decision' process</li>
+                    <li>'appeal decision' process</li>
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
                 </ul>
-                <p style="text-align: left;"><a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">View the Beta hypotheses</a></p>
+                <p style="text-align: left;"><a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">View the beta hypotheses</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
                         <span class="emoji">🧪</span>
@@ -521,7 +521,7 @@
 
         <div class="grid-x grid-padding-x grid-margin-x" style="margin-top: 50vh;">
             <div id="what-weve-learned-mpr" class="cell" data-magellan-target="what-weve-learned-mpr">
-                <span style="color: #0072C6 !important;">What we've learned about Maths and Physics Retention Payments</span>
+                <span style="color: #0072C6 !important;">What we've learned about 'maths and physics retention payments'</span>
                 <h2 style="color: #0072C6 !important;">in 4 weeks</h2>
             </div>
         </div>
@@ -584,10 +584,10 @@
                         <p style="text-align: left;">There's also the risk of a number of <a href="https://docs.google.com/document/d/1QGIFMGfhHFRo-BUlZTHYYR5b8t2-joqyVKXrRZU_eL8/edit#heading=h.37vsrlgnqv6" title="View more details on the potential unintended consequences of the policy" target="_blank">unintended and unwanted consequences</a> of that policy criteria, namely:</p>
 
                         <ul style="text-align: left;">
-                            <li>Verification delays</li>
-                            <li>Violation of the policy’s intent</li>
-                            <li>Departmental conflict</li>
-                            <li>Gaming the service</li>
+                            <li>verification delays</li>
+                            <li>violation of the policy’s intent</li>
+                            <li>departmental conflict</li>
+                            <li>gaming the service</li>
                         </ul>
 
                         <div class="grid-x grid-padding-x">

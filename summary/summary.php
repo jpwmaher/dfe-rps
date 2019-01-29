@@ -666,20 +666,19 @@
                     <li>a sign up form on the 'maths and physics retention payment' gov.uk page - so eligible teachers can express an interest in research</li>
                 </ul>
 
-
                 <p style="text-align: left;">We also believe it would be beneficial to research with:</p>
                 <ul style="text-align: left;">
                     <li>Heads of Science Departments</li>
                     <li>Head Teachers’ Personal Assistants</li>
                     <li>Specialist physics teachers with ‘other’ types of teaching qualifications routes
                     </li>
+                </ul>
 
-
-                    <div class="grid-x grid-padding-x">
-                        <div class="cell" style="padding: 0%;">
-                            <span class="emoji">👥</span>
-                        </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell" style="padding: 0%;">
+                        <span class="emoji">👥</span>
                     </div>
+                </div>
 
             </div>
         </div>

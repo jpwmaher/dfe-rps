@@ -215,7 +215,7 @@
                 <h2>We then gave ourselves the following <a href="https://drive.google.com/open?id=1c3uXEKQnV6ypkOqr8OgoBTu6i_5maARfdMiVoMVzbDw" target="_blank" title="View the earlier iterations of the mission statement">mission</a>:</h2>
                 <br/><br/><br/><br/>
                 <h4 class="standout wow fadeIn">"Make it quick and easy for teachers to receive a student loan repayment, if they teach a priority subject in an area of greatest need."</h4><br/><br/><br/><br/><br/><br/><br/>
-                <h2>We then prioritised our assumptions, used research insights to prove or disprove them and formed <a href="#">hypotheses</a> to test our proposed solutions in Beta</h2><br/><br/>
+                <h2>We then prioritised our assumptions, used research insights to prove or disprove them and formed <a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">hypotheses</a> to test our proposed solutions in Beta</h2><br/><br/>
                 <br/><br/><br/><br/><br/><br/><br/>
             </div>
         </div>
@@ -510,7 +510,7 @@
                     <li>'Appeal decision' process</li>
                     <li>content to explain how making a claim will affect a user’s benefits entitlement / payments</li>
                 </ul>
-                <p style="text-align: left;"><a href="#" target="_blank">View the Beta hypotheses</a></p>
+                <p style="text-align: left;"><a href="https://docs.google.com/document/d/1AIMLw1goyOBPy4K2ZbnxjLa31nfJDHPzS_8ljeDAmDw/edit" target="_blank">View the Beta hypotheses</a></p>
                 <div class="grid-x grid-padding-x">
                     <div class="cell" style="padding: 0%;">
                         <span class="emoji">🧪</span>
